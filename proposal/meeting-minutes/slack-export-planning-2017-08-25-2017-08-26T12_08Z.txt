@@ -1,0 +1,2005 @@
+Channel history
+
+
+
+
+  [2017-08-22T09:12:43Z] peterclark: <@U6Q92JWHY|peterclark> has joined the channel
+  
+
+  [2017-08-22T09:12:44Z] peterclark: <@U6Q92JWHY|peterclark> set the channel purpose: To discuss what we need to get the Riak community up and running.
+  
+
+  [2017-08-22T09:14:26Z] kunthar: <@U6PHKFTA5|kunthar> has joined the channel
+  
+
+  [2017-08-22T09:14:26Z] heinz: <@U6Q6G7S82|heinz> has joined the channel
+  
+
+  [2017-08-22T09:14:26Z] nadams: <@U6QC6EQH2|nadams> has joined the channel
+  
+
+  [2017-08-22T09:14:26Z] areegea: <@U6PQ9RG0G|areegea> has joined the channel
+  
+
+  [2017-08-22T09:16:06Z] gpad: <@U6RPFG5FH|gpad> has joined the channel
+  
+
+  [2017-08-22T09:24:20Z] kunthar: it seems, we need to create steps of development stage. It means CI&amp;CD should be transferred to community monitored alternative. We are using Buildbot in house, but i think Travis CI would be a good candidate. Anyone knows a good tool chain for github-&gt;CI&amp;CD-&gt;builds would be cool.
+  
+
+  [2017-08-22T09:25:53Z] peterclark: Travis CI is free for open source projects, so that would be handy.
+  
+
+  [2017-08-22T09:26:12Z] kunthar: we as Zetaops, can provide one server located in Germany, Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz with 65GB RAM. Two public ips, ~115GB Storage.
+  
+
+  [2017-08-22T09:26:36Z] kunthar: and AFAIK <https://packagecloud.io/> provides free hosting for open source projects
+  
+    ---------------
+    | Attachments |
+    ---------------
+    
+    Private Maven, RPM, DEB, PyPi and RubyGem Repository | packagecloud
+    https://packagecloud.io/
+
+    
+  
+
+  [2017-08-22T09:28:27Z] peterclark: They do - 25Gb storage, and 250GB of bandwidth. Needs to be discussed directly (i.e. no online sign-up).
+  
+
+  [2017-08-22T09:28:41Z] kunthar: yes
+  
+
+  [2017-08-22T09:29:33Z] kunthar: also we have bintray. They have 1GB package size limit.
+  
+
+  [2017-08-22T09:36:08Z] kunthar: also, we can provide 1 developer with 15 hours a week. we can help with CI&amp;CD setup, automation parts.
+  
+
+  [2017-08-22T09:40:23Z] peterclark: Messaged <http://packagecloud.io|packagecloud.io>,
+  
+
+  [2017-08-22T09:43:17Z] kunthar: also for anyone wondering, we are not planning to commercially support Riak in future.
+  
+
+  [2017-08-22T09:43:45Z] peterclark: As a community, no. As a company - I certainly am ^_^
+  
+
+  [2017-08-22T09:44:07Z] kunthar: yes yes :slightly_smiling_face:
+  
+
+  [2017-08-22T09:44:23Z] peterclark: We should probably start with even more basic questions:
+  
+
+  [2017-08-22T09:44:24Z] kunthar: we will not give a support as a company :slightly_smiling_face:
+  
+
+  [2017-08-22T09:47:15Z] peterclark: - What rules will the community operate under? E.g. Apache
+- What are it's aims? E.g. Manage source code, documentation, overall direction of the project (new features), build process, installation package management.
+- Where should we be formed legally? E.g. UK
+
+Once we agree on those, we can then move on to how to do the project aims.
+  
+
+  [2017-08-22T09:49:56Z] peterclark: If Apache, their Incubator information is here: <http://incubator.apache.org/>
+What other open source Project frameworks can people recommend?
+  
+
+  [2017-08-22T09:51:32Z] kunthar: we should have more info about legal issues.
+  
+
+  [2017-08-22T09:51:42Z] peterclark: Yes.
+  
+
+  [2017-08-22T09:51:48Z] kunthar: anyone?
+  
+
+  [2017-08-22T09:52:20Z] peterclark: ESL has experience with this, and they already suggested the Apache Foundation to me.
+  
+
+  [2017-08-22T09:52:43Z] peterclark: (ESL is Erlang Solutions Limited, in the UK)
+  
+
+  [2017-08-22T10:18:54Z] heinz: Isn’t apache where projects go to die? I know that’s a bit of a cynical view but they impose a lot of ‘management’ which I’m not sure we really need.
+  
+
+  [2017-08-22T10:19:30Z] heinz: To location the UK seems to be a icky place given brexit, we all don’t know how international trade w/ the UK will look in a year or two, ireland might be an alternative?
+  
+
+  [2017-08-22T10:25:06Z] peterclark: That's a good point re the UK.
+  
+
+  [2017-08-22T10:25:30Z] peterclark: Having said that, not sure it will matter that much for something like this.
+  
+
+  [2017-08-22T10:26:40Z] heinz: I don’t know either, but it’s something to take into account at least
+  
+
+  [2017-08-22T10:26:48Z] peterclark: Erlang, Bet365 are in the UK, and TI Tokyo (me) has a presence there, too.
+  
+
+  [2017-08-22T10:27:10Z] peterclark: I would imagine their support would out-weigh any other issues. Plus, we can always move :slightly_smiling_face:
+  
+
+  [2017-08-22T10:27:36Z] heinz: oh yea I’ve no outright objections to the UK, just want to make sure we think about the possible consequences :wink:
+  
+
+  [2017-08-22T10:28:11Z] sargun: <@U6RAJPUUR|sargun> has joined the channel
+  
+
+  [2017-08-22T10:28:29Z] peterclark: There's a joke in there somewhere about the British not thinking about consequences.... ^_^ Oh, the joys of a Brit abroad...
+  
+
+  [2017-08-22T10:29:02Z] sargun: Are we only ever going to have one planning session?
+  
+
+  [2017-08-22T10:29:04Z] heinz: Hah, yes there would have been, but sadly I dind’t think that far or it’d have been so much better!
+  
+
+  [2017-08-22T10:29:15Z] heinz: yes and then we’ll shut down and move on
+  
+
+  [2017-08-22T10:29:33Z] heinz: no it’s very likely going to be a continued process ^&gt;^
+  
+
+  [2017-08-22T10:29:49Z] peterclark: <@U6RAJPUUR> - no - it'll be ongoing until we formalise. And even then, with ongoing revision.
+  
+
+  [2017-08-22T10:30:00Z] sargun: So, will we erase our memory every time the the meeting is over?
+  
+
+  [2017-08-22T10:30:24Z] peterclark: :slightly_smiling_face:
+  
+
+  [2017-08-22T10:30:39Z] heinz: We got the zap thingies from MIB ordered already :wink:
+  
+
+  [2017-08-22T10:30:40Z] kunthar: you should take a pill <@U6RAJPUUR>
+  
+
+  [2017-08-22T10:30:57Z] kunthar: blue one actually ;_;
+  
+
+  [2017-08-22T10:31:06Z] sargun: Heh.
+  
+
+  [2017-08-22T10:31:22Z] sargun: <@U6PHKFTA5> I was going to ask why this is named <#C6R9UK5LZ|planning-2017-08-25> rather than just #planning.
+  
+
+  [2017-08-22T10:31:36Z] kunthar: not me :)
+  
+
+  [2017-08-22T10:31:50Z] peterclark: 'Cause at the end of the meeting, I'd like to have a definitive list of objectives for the next meeting.
+  
+
+  [2017-08-22T10:32:23Z] peterclark: Think of it as versioning, but in Slack :slightly_smiling_face:
+  
+
+  [2017-08-22T10:32:56Z] sargun: :+1:
+  
+
+  [2017-08-22T10:33:05Z] sargun: I think this is a good idea.
+  
+
+  [2017-08-22T10:33:35Z] sargun: <@U6RPFG5FH>, <@U6Q92JWHY> So, my experiences with the ASF have been that their processes sometimes make moving forward difficult. For example, in Mesos, when we wanted to add a new binary platform, it required a vote to ratify this. For a small team, that all worked at the same org, this wasn't very valuable.
+  
+
+  [2017-08-22T10:34:10Z] sargun: With C*, it was similar, but votes, or meetings were called for other things that could have been more easily done without requiring a community vote.
+  
+
+  [2017-08-22T10:34:40Z] heinz: sargun I share your concern
+  
+
+  [2017-08-22T10:34:40Z] peterclark: We're going to be very distributed. Already in this Slack we have Japan, UK, Germany, USA. A bit of organisation is needed :slightly_smiling_face:
+  
+
+  [2017-08-22T10:34:51Z] peterclark: Of course, going overboard is to be avoided.
+  
+
+  [2017-08-22T10:35:00Z] peterclark: That is why I want to get as much agreed at the start as possible.
+  
+
+  [2017-08-22T10:35:11Z] sargun: Basically, it's great until one organization tries to pull ahead of the others
+  
+
+  [2017-08-22T10:35:12Z] heinz: there will be a lot of organisation needed but too much of it can be as harmful (or worse?) then too little
+  
+
+  [2017-08-22T10:35:17Z] kunthar: "a bit of organization" needed 
+  
+
+  [2017-08-22T10:35:17Z] sargun: and ASF is a bit "heavy handed"
+  
+
+  [2017-08-22T10:35:46Z] kunthar: i totally agree with <@U6RAJPUUR> and <@U6Q6G7S82> 
+  
+
+  [2017-08-22T10:35:48Z] sargun: for example, build and review tools infrastructure was kind of a pain
+  
+
+  [2017-08-22T10:35:52Z] peterclark: If we are getting funding (from companies like me, Erlang, Bet365, the NHS) we are going to need some of that.
+  
+
+  [2017-08-22T10:35:53Z] sargun: I think ASF is fine
+  
+
+  [2017-08-22T10:36:06Z] sargun: but, those are my issues with ASF
+  
+
+  [2017-08-22T10:36:07Z] peterclark: The ASF framework gives us that credibility from the get-go.
+  
+
+  [2017-08-22T10:36:54Z] sargun: CNCF?
+  
+
+  [2017-08-22T10:36:58Z] sargun: How's CNCF
+  
+
+  [2017-08-22T10:37:11Z] heinz: CNCF == Cloud Native?
+  
+
+  [2017-08-22T10:37:13Z] sargun: yeah
+  
+
+  [2017-08-22T10:37:49Z] heinz: Sorry I’ve not caught up with all the acronymes yet :slightly_smiling_face:
+  
+
+  [2017-08-22T10:38:23Z] sargun: Any idea if Riak would have to become an incubating project
+  
+
+  [2017-08-22T10:40:04Z] peterclark: For ASF? I think we can use their framework without joining, but we'd lose the credibility of being part of a larger group.
+  
+
+  [2017-08-22T10:40:08Z] gpad: I think that we are talking of 2 different thing we could be under the umbrella of ASF or CNCF and another topic is the process that we adopt
+  
+
+  [2017-08-22T10:40:41Z] heinz: I would hope that ESL, Erlang, Bet and it tokio would think riak is credible one way or another
+  
+
+  [2017-08-22T10:40:55Z] gpad: An alternative framework is <https://rfc.zeromq.org/spec:42/C4/>
+  
+
+  [2017-08-22T10:42:13Z] peterclark: Haha!
+  
+
+  [2017-08-22T10:42:39Z] peterclark: Yes - but would the NHS invest money in a project without some kind of money management process?
+  
+
+  [2017-08-22T10:43:13Z] heinz: I can see that, hence why I left them out of the list :stuck_out_tongue:
+  
+
+  [2017-08-22T10:43:31Z] peterclark: :slightly_smiling_face:
+  
+
+  [2017-08-22T10:44:07Z] peterclark: CNCF looks good, but the requirements for entry are pretty steep. It includes a 20 minute slide presentation at a committee meeting. No idea if that is in person or online.
+  
+
+  [2017-08-22T10:44:30Z] peterclark: We also need a committee member to sponsor us.
+  
+
+  [2017-08-22T10:51:09Z] heinz: CNCF feels like a bit less byrocracy
+  
+
+  [2017-08-22T10:52:09Z] peterclark: They basically provide resources (hosting, etc...) and let you run the project however you want. Of course, they also only provide the resources if they approve of how you run the project!
+  
+
+  [2017-08-22T10:55:44Z] heinz: My main worry with a large foundation is that it will hurt individual contributions, larger companies will have a easier time but John and Jenny who are excited and add a little thing here and there will most likely get scared of by lots of process and procedure.
+  
+
+  [2017-08-22T11:02:20Z] heinz: My thought is mainly that a lighter process, will encourage a wider more diverse set of contributors instead of mostly companies contributing. Now I don’t know what’s right or wrong as an approach but to me that feels more appealing.
+  
+
+  [2017-08-22T14:55:44Z] nadams: Although developers are the lifeblood behind projects like this, might be worth thinking about the end users. Commercially, I have a use for Riak - as a solid, reliable, well coded key value store that will tolerate a fair amount of failure without losing data even though it does require a handful of servers to run successfully. As a private individual, I have next to no use for something like this in my home. I do not have hordes of servers nor do I have terabytes of data that must be live 24/7.
+
+From the above, I would guess that corporate would be our customer target and as such we need enough organisation (rules and rigmarole) in place to look and sound professional.
+
+As a coder, for stuff I do at home, I like to tinker with stuff and am ok when I have to spend a few hours trying to debug a random race condition caused by a hiccup 5 commits ago because the trigger factor is rare. For stuff at work, I'd think about switching to a better coded platform.
+  
+
+  [2017-08-22T15:30:03Z] heinz: That is however less a community project and more a foundation
+  
+
+  [2017-08-22T15:30:32Z] heinz: It is very little different then how basho ran riak towards the end just with a new flag
+  
+
+  [2017-08-22T17:14:10Z] kunthar: catching the writings now, there should be a balance between power and coding. we should have an eco system and we should carefully think about what is the aim of involving parties. to me, there shouldn't be any rank to manage things from upstairs. i'd like to see a flat organization as much as possible.
+  
+
+  [2017-08-22T17:23:07Z] heinz: kunthar agreed balancing things is going to be the hardest part I think, not only on power vs coding but also on accessability (to contribute) and quality.
+  
+
+  [2017-08-22T17:26:30Z] kunthar: also, there are several different multi dimensional layers we should take in to account; 1. as my company does, we are consumers of riak goodness, on the other hand 2. there are high level developers enhancing the codebase. 3. on the other side there are professional companies giving support to other professional companies. 4. there are *legal issues which we are not aware yet*, how to affect our efforts.  5. we are going to need "some" resources and i believe this is the most basic part of this puzzle. my final words; i want high level devs continue to code in peace without any interruption. i am ready to take the low level duties to carry on the work. i do not want to see any kind of authority trying to bend our efforts for it's own benefit.
+  
+
+  [2017-08-22T17:27:52Z] kunthar: it would be great if someone else enlighten us about these legal issues with basho. i mean what about ownership of the code? what happens if we use the TM names of basho, riak, etc.?
+  
+
+  [2017-08-22T17:28:20Z] heinz: I got no idea
+  
+
+  [2017-08-22T17:28:50Z] heinz: I think forking riak is fine fiven it’s under the APL and no one can take that “Back” for existing code but what do they tend to say IANAL
+  
+
+  [2017-08-22T17:30:31Z] heinz: Donating the code to the ASF I imagine would be legally a lot more difficult as basho ‘owns’ it and I don’t see how we can domante something we don’t own
+  
+
+  [2017-08-22T17:44:37Z] dbyron: <@U6Q8M8ZHB|dbyron> has joined the channel
+  
+
+  [2017-08-22T17:46:11Z] kunthar: i think it is public. anyone can join.
+  
+
+  [2017-08-22T17:46:22Z] russelldb: <@U6R6ETJU8|russelldb> has joined the channel
+  
+
+  [2017-08-22T17:59:03Z] smarg: <@U6SUK860N|smarg> has joined the channel
+  
+
+  [2017-08-22T18:01:32Z] greg_fat: <@U6RB9A0NM|greg_fat> has joined the channel
+  
+
+  [2017-08-22T18:20:32Z] edhiley: <@U6S6GS3EY|edhiley> has joined the channel
+  
+
+  [2017-08-22T18:22:02Z] deadzen: <@U6S4RDVEE|deadzen> has joined the channel
+  
+
+  [2017-08-22T18:23:46Z] deadzen: Hello
+  
+
+  [2017-08-22T18:55:25Z] kunthar: hello deadzen
+  
+
+  [2017-08-22T19:02:24Z] deadzen: how goes it
+  
+
+  [2017-08-22T19:06:44Z] kunthar: trying to figure out how things is divided and will be, in this concurrent, but monolithic single minded profit world.
+  
+
+  [2017-08-22T22:45:35Z] mranney: <@U6RHSFM4Y|mranney> has joined the channel
+  
+
+  [2017-08-23T05:53:48Z] peterclark: <@U6Q6G7S82> - no, we can't donate the Enterprise Edition code as none of us own it. Even distributing it is illegal. The current owners are selling it as we speak, so we just have to wait to find out what is going on with that. The open source code is free for anyone to use and modify, and that is the only thing we can use for this project unless the new owners of the Enterprise Edition code make it open source.
+  
+
+  [2017-08-23T06:09:10Z] peterclark: <@U6PHKFTA5> There does need to be a central authority for approving changes or Riak will fragment. Changes outside of that authority can, and will, happen, but there needs to be a single official version for companies to risk spending a considerable amount of time and resources in implementing Riak - and without the support of companies this project will die. As <@U6QC6EQH2> said, this is not a home-use project!
+  
+
+  [2017-08-23T06:23:50Z] peterclark: In this case, I think we need the following groups:
+
+- Development Group
+- Code Approval Group
+- Project Direction Group
+- Admin Group
+
+Their functions would be
+
+Development Group
+*What*: actually write code/scripts/tests. 
+*Who*: open to anyone
+*Support*: the central support services provided by the Admin Group.
+ Sanity checks of the results would be provided by the Code Approval Group. The list of features would be provided by the Project Direction Group.
+*Notes*: anyone can work on their own forks before saying to the Code Approval Group "I've got someone good I want to include". They would deal with bug fixes, and how new features are implemented.
+
+Code Approval Group
+*What*: approves code merges into the 'official' versions.
+*Who*: a small group (5-10 max) of high-level developers.
+*Support*: the central support services provided by the Admin Group.
+ Overall guidance of what the features need to accomplish would be provided by the Project Direction Group. All submitted code would come from the Development Group.
+*Notes*: They check the bug fixes/features meet the code quality standards and do what they are intended to do. They manage the code in GitHub and the creation of new builds. They can add any feature/fix they want to the official releases so long as it's quality meets their requirements.
+
+
+
+Project Direction Group
+*What*: defines what new features are desired/wanted.
+*Who*: this would have technical reps developers and the companies using Riak. 
+*Support*: the central support services provided by the Admin Group.
+*Notes*: They would be the ones to say "we really need a multi-datacentre replication solution for Riak". Anyone from anywhere can suggest a new feature to them, join in the discussions, etc... Features would be prioritised for the Development Group to deal with, but if someone wants to develop a low-priority feature there should be nothing to stop that.
+
+
+Admin Group 
+*What*: handles the admin side of things, and provides common resources for other groups.
+*Who*: anyone who wants to.
+*Support*: information from the other Groups.
+*Notes*: They would deal with things like donations, resources, sponsors, project promotion, etc. This would include things like Riak promotion material, public websites, ensuring payments for things occurred, managing the money, and anything else required for the other Groups to work. They would provide a group of central support services (like Slack, GitHub, mailing lists, documentation).
+  
+
+  [2017-08-23T06:30:21Z] peterclark: Thoughts?
+  
+
+  [2017-08-23T06:36:17Z] nadams: that sounds surprisingly logical! I could live with a setup like that. Only question would be how do we approve "high level developers"?
+  
+
+  [2017-08-23T06:38:32Z] kunthar: we are not using Riak at our homes too. i have to say that,  i am not against bsd style commitee to manage technical aspects and centrally redirect duties.
+  
+
+  [2017-08-23T06:38:54Z] kunthar: while i was writing <@U6Q92JWHY> came up with a good plan :slightly_smiling_face:
+  
+
+  [2017-08-23T06:39:36Z] peterclark: :slightly_smiling_face:
+  
+
+  [2017-08-23T06:41:08Z] peterclark: <@U6QC6EQH2> - good question. I'd imagine that we'd start with a group developers who say here "hey, I can help with that" and see how it goes. I'd imagine that we'd have to come up with some method of removing or adding people, but I'd hope most that would be done by the Groups internally.
+  
+
+  [2017-08-23T06:41:14Z] peterclark: I.e. developers picking developers.
+  
+
+  [2017-08-23T06:41:30Z] nadams: fair enough
+  
+
+  [2017-08-23T06:41:44Z] peterclark: I'd imagine a vote of the Developers Group members to choose Code Approval members.
+  
+
+  [2017-08-23T06:44:15Z] kunthar: we can discuss about base separation of duties. but generally this setup is fair enough. we should have a major principle that everyone should act equally as much as possible.
+  
+
+  [2017-08-23T06:45:52Z] kunthar: <https://www.freebsd.org/administration.html>
+  
+
+  [2017-08-23T06:46:13Z] kunthar: we could inspire of them?
+  
+
+  [2017-08-23T06:46:51Z] peterclark: Handy link!
+  
+
+  [2017-08-23T06:46:54Z] peterclark: I'll have a read.
+  
+
+  [2017-08-23T06:47:27Z] kunthar: of course they are managing a quite huge OS project. lots of departments are useless for us.
+  
+
+  [2017-08-23T06:47:53Z] peterclark: Yes - I'd imagine that we'd merge a lot of those listed!
+  
+
+  [2017-08-23T06:48:32Z] kunthar: i am still thinking about admin group should be divided to small,  one duty clans like "donations team" etc.
+  
+
+  [2017-08-23T06:50:12Z] kunthar: vendor relations for example is a very good idea :slightly_smiling_face: i believe esl and you would handle this <@U6Q92JWHY>?
+  
+
+  [2017-08-23T06:50:18Z] peterclark: I think a lot of their services would go hand-in-hand. Some, like donations, money management and spending, are clearly linked. Same with promotion and public websites. And again for more technical things like managing common servers and services.
+  
+
+  [2017-08-23T06:50:57Z] kunthar: this is what i imagine actually. getting an exact picture of the work and divide to manage effectively.
+  
+
+  [2017-08-23T06:51:02Z] peterclark: ESL did a really good job of taking our (TI Tokyo) Riak Support material and making it look really nice.
+  
+
+  [2017-08-23T06:51:46Z] peterclark: They are also very active in Erlang, and have a great sales team to promote Riak.
+  
+
+  [2017-08-23T06:52:15Z] peterclark: I've invited them to join this Slack, and there is already one member here.
+  
+
+  [2017-08-23T06:53:51Z] kunthar: i am wondering is there anyone in contact with the first engineering team of basho. For example Justin Sheehy.
+  
+
+  [2017-08-23T06:54:47Z] peterclark: Probably!
+  
+
+  [2017-08-23T06:57:14Z] kunthar: it would be great to see people, whom they had to quit the code because of some reason. i believe they would add great value to Riak itself. correct me if am wrong.
+  
+
+  [2017-08-23T06:58:59Z] peterclark: Nope - very much spot on.
+  
+
+  [2017-08-23T06:59:56Z] peterclark: As a more-broken-down list of Groups, how's this:
+
+- Development Group
+    - Riak Core
+    - Riak KV
+    - Riak CS
+    - Riak TS
+    - Riak Client Tools
+- Release Management Group
+    - Code Approval Group
+    - Testing Group
+    - Build Group
+- Project Direction Group
+- Admin Group
+    - Company Engagement Group (Riak promotion, public websites, etc...)
+    - Finance Group (Handling donations, payments, subscriptions, etc...)
+    - Services Group (running common services like FTP, web, CI/CD servers, email and mailing list provision, etc...)
+  
+
+  [2017-08-23T07:01:09Z] peterclark: I split Code Approval Group up into their functions and grouped them under Release Management.
+  
+
+  [2017-08-23T07:02:24Z] kunthar: good work. i have to leave for daily work now. i feel we have a good starting point.
+  
+
+  [2017-08-23T07:02:40Z] peterclark: Yup - I hope to have an actual recommendation for the planning meeting!
+  
+
+  [2017-08-23T07:02:58Z] peterclark: It will then, of course, be torn apart - but hopefully into something better :slightly_smiling_face:
+  
+
+  [2017-08-23T07:03:22Z] kunthar: have a nice day/night to everyone :spock-hand:
+  
+
+  [2017-08-23T07:03:28Z] peterclark: You, too!
+  
+
+  [2017-08-23T07:03:31Z] nadams: have a good one
+  
+
+  [2017-08-23T08:20:23Z] danabr: <@U6S21QLH3|danabr> has joined the channel
+  
+
+  [2017-08-23T10:56:46Z] heinz: I think that plan will quite effectively kill any kind of community involvement beyond big companies it quite literally sounds like basho was running things towards the end just with a new name
+  
+
+  [2017-08-23T10:59:05Z] heinz: `Project Direction Group` pretty much translates to “buy your way into directing where the development goes”, the riak is as good as it is because in the beginning a lot of decisions were made by engineers wanting to build something good not marketing or marketing reps
+  
+
+  [2017-08-23T11:01:33Z] heinz: I am extremely critical of the direction of things discussed here, and the “but then no one will pay for things” feels a lot like trying to strong arm  things through at the threat of withholding support.
+  
+
+  [2017-08-23T11:02:43Z] peterclark: Which is why a) it includes techies as well as end-users, b) they organise and prioritise, not stop forks, c) developers can ignore the prioritisation and work on things they want.
+  
+
+  [2017-08-23T11:04:32Z] peterclark: It allows for companies to have their voices heard when they help pay for things, but allows developers freedom to chase their ideas.
+  
+
+  [2017-08-23T11:05:29Z] peterclark: Final decisions on what is included is in the hands of the Code Approval Group which is made up of and chosen by developers.
+  
+
+  [2017-08-23T11:09:05Z] heinz: peterclark thank you for clarifying those points, that sounds a lot less worrysome then what I understood from the first suggestion
+  
+
+  [2017-08-23T11:10:00Z] peterclark: Async messages can be confusing :)
+  
+
+  [2017-08-23T11:10:06Z] heinz: indeed
+  
+
+  [2017-08-23T11:10:29Z] peterclark: I'll write up a better phrased version :) 
+  
+
+  [2017-08-23T11:11:12Z] heinz: also please don’t take my criticism personal, I tend to be up front about concerns as I belive not addressing them just leads to misery and well miscommunication in the long run :wink:
+  
+
+  [2017-08-23T11:12:48Z] peterclark: Totally agree!
+  
+
+  [2017-08-23T11:24:28Z] russelldb: ultimately code wins, as Vinoski used to say. And deployed code doubly so. I think having a plan for organisation is a great thing. Representing customers' wants was something Basho failed at pretty badly and it would be good to redress that
+  
+
+  [2017-08-23T11:26:07Z] russelldb: bet365 have a full time riak team, and the NHS are moving that way. You don't think that those engineers are deciding the features they implement or bugs they fix, do you?
+  
+
+  [2017-08-23T11:27:07Z] peterclark: That is why I put the end-users on the Project Direction Group. They will also (hopefully) provide developers who will implement things as part of the Developers Group and the Code Approval Group.
+
+  
+
+  [2017-08-23T11:30:16Z] peterclark: It allows for developer led features as well as end-user led features. End-users who provide developers can direct their developers to work on the features they want, of course.
+  
+
+  [2017-08-23T11:30:43Z] russelldb: my concern is that there isn't a single overarching design principle or goal. A lot of basho's earlier success came from a pretty clear shared goal on what Riak should be. And so decision making at all levels could be guided by that. As an engineer if I had to pick between implementation X or Y I could cast the decision through that lens and make an informed choice.
+  
+
+  [2017-08-23T11:31:31Z] russelldb: Part of the NuBasho disaster was trying to be all things to all deployments, rather than focussing on Riak's niche (this is just my opinion obviously)
+  
+
+  [2017-08-23T11:31:35Z] peterclark: How would you suggest fixing that?
+  
+
+  [2017-08-23T11:32:00Z] russelldb: talking, finding out what everyone thinks the goal is
+  
+
+  [2017-08-23T11:32:32Z] russelldb: I think your organisation idea sounds like it can facilitate that
+  
+
+  [2017-08-23T11:33:48Z] russelldb: we're lucky at the NHS in that they have a very clear idea of what they want from Riak, and thanks to their experience are able to articulate it too
+  
+
+  [2017-08-23T11:34:07Z] russelldb: it would be great if every interested organisation could take the time to think that through up front
+  
+
+  [2017-08-23T11:35:26Z] peterclark: For sure!
+  
+
+  [2017-08-23T11:36:33Z] peterclark: Sounds like a dream client!
+  
+
+  [2017-08-23T12:35:28Z] deadzen: vinoski wisdoms are great :stuck_out_tongue_winking_eye:, agreed has anyone reviewed global logical clocks applied to riak?
+  
+
+  [2017-08-23T12:43:02Z] russelldb: <@U6S4RDVEE> a little, CMJ and I went to Braga in (I think) 2014 and got a 1st hand preso from Tomé on GLC. I haven't read the latest paper, but we always had issues with 2 things, one syncing the global counter per write ('cos gaps _mean_ something so leasing was not an option iirc)
+  
+
+  [2017-08-23T12:43:44Z] russelldb: second was about absence of dots meaning deletes. If you spread the dots over many keys and a corruption means you can't read key X then it looks like a legit delete and propagates around the cluster
+  
+
+  [2017-08-23T12:43:59Z] russelldb: the latest paper may address both those concerns (it's on my queue)
+  
+
+  [2017-08-23T12:47:38Z] deadzen: cool, i had a discussion with him in 2016, about server wide clocks, what I found very interesting (not that it directly applied to riak core as it assumes the presence of a kv)  was that it did replica repair instead of using AAE with merkle trees.. there was a dotteddb proof of concept and a basicdb (with aae/merkle) to do a fair benchmark against..
+  
+
+  [2017-08-23T12:51:32Z] deadzen: he added, SWC is a bit more complicated, adds state to vnodes and so on.. but that it could be integrated, depending on what purpose you wanted riak core to serve
+  
+
+  [2017-08-23T12:58:34Z] deadzen: <@U6S4RDVEE|deadzen> set the channel topic: “In preparing for battle I have always found that plans are useless, but planning is indispenable.” —Dwight D. Eisenhower
+  
+
+  [2017-08-23T16:25:39Z] russelldb: <@U6S4RDVEE> we had a look at the dot based AAE, it's not so simple, involves an in memory reverse key-&gt;dot index iirc
+  
+
+  [2017-08-23T16:26:14Z] russelldb: in general my view (until I read the new paper) is that it is very interesting but has some implementation problems to be overcome before it is industry ready
+  
+
+  [2017-08-23T16:26:21Z] meangrape: <@U6SLDDGKC|meangrape> has joined the channel
+  
+
+  [2017-08-23T16:26:45Z] russelldb: I think <@U6Q3DV4FM>' AAE work is more promising and general
+  
+
+  [2017-08-23T18:39:06Z] deadzen: if AAE can be made to be much lighter than it is, than sure. I'll have to brush up on that work myself, if the problem that AAE solves can be prevented from happening in the read repair. that would be a cool thing.
+  
+
+  [2017-08-24T07:55:28Z] russelldb: you can't prevent the need for AAE imo
+  
+
+  [2017-08-24T15:44:43Z] steve_erlang: <@U6TA2DSRK|steve_erlang> has joined the channel
+  
+
+  [2017-08-25T09:21:27Z] alejandro.ramallo: <@U6SGRGW4V|alejandro.ramallo> has joined the channel
+  
+
+  [2017-08-25T15:23:01Z] daniel.b.garcia: <@U6TTP7EUV|daniel.b.garcia> has joined the channel
+  
+
+  [2017-08-25T15:59:04Z] heinz: so with the time for coming together approaching, where should we sit? I can set up a zoom meeting (which is quite nice and has both phone and client call in)
+  
+
+  [2017-08-25T16:12:59Z] deadzen: looks over at his busted teleporter
+  
+
+  [2017-08-25T16:13:44Z] peterclark: I wouldn't suggest requiring software installs for the meeting!
+  
+
+  [2017-08-25T16:13:51Z] deadzen: what time is it exactly and whats on the agenda?
+  
+
+  [2017-08-25T16:14:05Z] peterclark: 17:30 BST start.
+  
+
+  [2017-08-25T16:14:09Z] peterclark: Which is in 16 minutes.
+  
+
+  [2017-08-25T16:14:28Z] peterclark: The agenda is:
+1. Introductions.
+2. Discussion of proposal documents.
+3. Discussion of any other issues.
+  
+
+  [2017-08-25T16:14:47Z] deadzen: good, the one gordon made?
+  
+
+  [2017-08-25T16:15:02Z] peterclark: No - the one that was discussed here earlier in the week.
+  
+
+  [2017-08-25T16:15:29Z] peterclark: I've increased the detail level a bit.
+  
+
+  [2017-08-25T16:15:29Z] deadzen: is there a link for it?
+  
+
+  [2017-08-25T16:15:46Z] peterclark: Just throwing it through a last-minute spell-check :slightly_smiling_face:
+  
+
+  [2017-08-25T16:16:12Z] deadzen: I can help
+  
+
+  [2017-08-25T16:16:30Z] deadzen: if only I could code as fast as I spot typos heh
+  
+
+  [2017-08-25T16:16:54Z] peterclark: <@U6Q92JWHY|peterclark> uploaded a file: <https://postriak.slack.com/files/peterclark/F6TVB0B29/riak_community_proposal_-_2017-08-25_-_v0.1.pdf|Riak Community Proposal - 2017-08-25 - v0.1.pdf>
+  
+
+  [2017-08-25T16:16:58Z] peterclark: I took Gordon's one, my one and the feedback from people here.
+  
+
+  [2017-08-25T16:17:12Z] deadzen: no doubt
+  
+
+  [2017-08-25T16:17:28Z] peterclark: I fully expect this to get torn to shred's, by the way.
+  
+
+  [2017-08-25T16:18:19Z] deadzen: I like your confidence, I am the kind to shred things down to 4-5 things
+  
+
+  [2017-08-25T16:18:35Z] peterclark: Well, the idea is for the best idea to win :slightly_smiling_face:
+  
+
+  [2017-08-25T16:18:44Z] peterclark: In this, I have no ego, fear not!
+  
+
+  [2017-08-25T16:18:50Z] deadzen: let's start with that, what is the idea?
+  
+
+  [2017-08-25T16:19:56Z] peterclark: Well:
+
+```6.	Aims
+The aim of this project is to provide:
+	A canonical open source version of source code for Riak.
+	Tested installation packages of Riak for supported OSs.
+	Canonical documentation on how to use Riak.
+	Product information on when and why to use Riak.
+	A public and easily understood minimalist structure. 
+```
+  
+
+  [2017-08-25T16:20:12Z] deadzen: if we have a unified idea like russell was saying, I think that would lend a lot to a shared focus and productivity
+  
+
+  [2017-08-25T16:20:49Z] peterclark: Yes - liked the idea of a project ethos. Just not sure what that would be! I'm hoping he will elaborate.
+  
+
+  [2017-08-25T16:21:21Z] deadzen: It's basically those kind of aims like you listed, distilled into one overarching principle
+  
+
+  [2017-08-25T16:21:25Z] peterclark: This document is more how I think we should go about the project, not the details of what should be built.
+  
+
+  [2017-08-25T16:22:07Z] peterclark: I tend to go with Bill &amp; Ted: "Be excellent to each other. And, party on, dude."
+  
+
+  [2017-08-25T16:23:05Z] heinz: peterclark do you have a prefered meeting platform? If not I’ll just make a zoom thingy. We should start setting it up to give people time to prepare before the clock ticks 30
+  
+
+  [2017-08-25T16:23:37Z] peterclark: What does Zoom give us that Slack does not?
+  
+
+  [2017-08-25T16:23:37Z] smarg: Oh, right. We can’t do audio on this Slack
+  
+
+  [2017-08-25T16:23:43Z] smarg: Can we?
+  
+
+  [2017-08-25T16:23:51Z] smarg: I thought that was Pro only
+  
+
+  [2017-08-25T16:24:02Z] heinz: does slack have voice thingies?
+  
+
+  [2017-08-25T16:24:04Z] peterclark: I think you have to pay to get that.
+  
+
+  [2017-08-25T16:24:07Z] peterclark: Yes.
+  
+
+  [2017-08-25T16:24:11Z] heinz: oh I dind’t know that
+  
+
+  [2017-08-25T16:24:22Z] heinz: it says “only payed teams” :disappointed:
+  
+
+  [2017-08-25T16:24:36Z] heinz: peterclark I’ve no special love for zoom :stuck_out_tongue: It’s just all I know
+  
+
+  [2017-08-25T16:24:56Z] smarg: Plus if we do audio, we’ll need to record it
+  
+
+  [2017-08-25T16:25:16Z] smarg: Not insurmountable
+  
+
+  [2017-08-25T16:25:32Z] peterclark: Not to mention the fun of having a bunch of new people who don't know each other's voices on a conference call.
+  
+
+  [2017-08-25T16:25:54Z] smarg: And it will need to be preserved here, or we’ll lose it in the 10k message limit
+  
+
+  [2017-08-25T16:25:54Z] heinz: I find text a lot harder to keep track of in a converstation but I will cope then :wink:
+  
+
+  [2017-08-25T16:26:34Z] peterclark: So do I, but I think it's probably the best solution so far.
+  
+
+  [2017-08-25T16:27:11Z] peterclark: We should make extensive use of threads, I think!
+  
+
+  [2017-08-25T16:27:20Z] heinz: How does that work?
+  
+
+  [2017-08-25T16:27:29Z] heinz: Please keep in mind not everyone is a slack expert
+  
+
+  [2017-08-25T16:27:44Z] peterclark: Click "start a thread" on the right of the message.
+  
+
+  [2017-08-25T16:27:56Z] peterclark: So this would be a reply in the thread.
+  
+
+  [2017-08-25T16:28:20Z] peterclark: When you finish the thread, you send the result back to the main window.
+  
+
+  [2017-08-25T16:28:29Z] peterclark: So this is the conclusion.
+  
+
+  [2017-08-25T16:28:29Z] peterclark: 
+  
+    ---------------
+    | Attachments |
+    ---------------
+    
+    
+    
+
+    
+    
+    
+
+    
+  
+
+  [2017-08-25T16:28:38Z] heinz: can we have cake?
+  
+
+  [2017-08-25T16:28:41Z] smarg: No
+  
+
+  [2017-08-25T16:28:47Z] peterclark: The cake is a lie.
+  
+
+  [2017-08-25T16:28:58Z] heinz: I beg to differ, the cake is real!
+  
+
+  [2017-08-25T16:29:04Z] deadzen: <@U6SUK860N> I can bring a chat bot in
+  
+
+  [2017-08-25T16:29:09Z] peterclark: The lie was that the cake was a lie?
+  
+
+  [2017-08-25T16:29:13Z] peterclark: I loved that game.
+  
+
+  [2017-08-25T16:29:23Z] heinz: I have prove
+  
+
+  [2017-08-25T16:29:32Z] deadzen: <@U6Q92JWHY> do you have any experience to basho's internal command structure?
+  
+
+  [2017-08-25T16:29:32Z] smarg: Works for me
+  
+
+  [2017-08-25T16:29:38Z] azhar.nisar_nhs: <@U6SFU2VFW|azhar.nisar_nhs> has joined the channel
+  
+
+  [2017-08-25T16:29:46Z] russelldb: hey <@U6SFU2VFW>
+  
+
+  [2017-08-25T16:29:52Z] azhar.nisar_nhs: hi Russell
+  
+
+  [2017-08-25T16:29:53Z] peterclark: Pretty much none. <@U6SUK860N> might, and <@U6QC6EQH2> might (ex employees).
+  
+
+  [2017-08-25T16:30:06Z] peterclark: As would <@U6R6ETJU8> :slightly_smiling_face:
+  
+
+  [2017-08-25T16:30:17Z] smarg: Russell probably knows way more
+  
+
+  [2017-08-25T16:30:29Z] russelldb: I was quite sidelined at the end there <@U6SUK860N>
+  
+
+  [2017-08-25T16:30:31Z] deadzen: I don't want to get anyone in breach, but it would be helpful to have something in concordance with what was normal in branch management and testing
+  
+
+  [2017-08-25T16:30:36Z] smarg: Yes…
+  
+
+  [2017-08-25T16:30:46Z] deadzen: at basho (when things were working)
+  
+
+  [2017-08-25T16:30:49Z] peterclark: That is probably way too detailed at this point in time,
+  
+
+  [2017-08-25T16:31:06Z] russelldb: agree <@U6Q92JWHY>
+  
+
+  [2017-08-25T16:31:16Z] peterclark: At the moment we should be working out overall structure, and breaking down into smaller groups for discussion on areas.
+  
+
+  [2017-08-25T16:31:40Z] deadzen: <@U6Q92JWHY> no doubt
+  
+
+  [2017-08-25T16:31:47Z] smarg: Also not sure Basho’s methods made sense for Basho, let alone a loose collective of devs
+  
+
+  [2017-08-25T16:31:52Z] deadzen: and then maybe switch the groups around, let the best ideas win
+  
+
+  [2017-08-25T16:31:53Z] peterclark: :slightly_smiling_face:
+  
+
+  [2017-08-25T16:32:02Z] peterclark: Sounds good to me.
+  
+
+  [2017-08-25T16:32:14Z] peterclark: OK- past 17:30 BST - shall we get going?
+  
+
+  [2017-08-25T16:32:22Z] deadzen: I was referring less to culture and more to the state of the testing and packaging systems
+  
+
+  [2017-08-25T16:32:48Z] deadzen: please
+  
+
+  [2017-08-25T16:33:12Z] peterclark: AGENDA
+
+1. Introductions.
+2. Discussion of proposal documents.
+3. Discussion of any other issues.
+  
+
+  [2017-08-25T16:33:22Z] peterclark: <@U6Q92JWHY|peterclark> pinned a message to this channel.
+  
+    ---------------
+    | Attachments |
+    ---------------
+    
+    
+    
+
+    
+  
+
+  [2017-08-25T16:33:40Z] peterclark: Anyone who wants to introduce themselves, go ahead now.
+  
+
+  [2017-08-25T16:33:57Z] deadzen: customary that you start :wink:
+  
+
+  [2017-08-25T16:34:08Z] peterclark: I'm Peter Clark, of TI Tokyo in Japan. My company provides enterprise-grade worldwide support to Riak end-users.
+  
+
+  [2017-08-25T16:34:40Z] peterclark: The nice thing about text is that we can all type at once for common questions like that.
+  
+
+  [2017-08-25T16:34:54Z] mrallen1: Mark Allen, formerly of Basho, currently of Alert Logic. Alert Logic had a support contract w/ Basho.
+  
+
+  [2017-08-25T16:35:05Z] mrallen1: We use Riak rather extensively
+  
+
+  [2017-08-25T16:35:23Z] sjmw: I'm Stuart Whitfield, Erlang Solutions CEO. We do anything and everything connected to the Erlang ecosystem. We've been a Risk reseller/support provider/consultancy from the early days
+  
+
+  [2017-08-25T16:35:55Z] deadzen: (we could start a thread so we can sidebar)
+  
+
+  [2017-08-25T16:35:57Z] azhar.nisar_nhs: Azhar Nisar, Tech Lead,  NHS Digital, England, we use Riak as backend product for NHS Spine
+  
+
+  [2017-08-25T16:36:05Z] heinz: Heinz Gies, I run Project-FiFo and a the database and cloud orchestration I build based on riak_core (no riak itself however). I also currently maintain the riak_core(_ng) package in hex.
+  
+
+  [2017-08-25T16:36:07Z] steve_erlang: I'm Steve Roberts from Erlang Solutions. We were/are a Riak distibutor and we have customers still on Riak so want to ensure it has a future.
+  
+
+  [2017-08-25T16:36:13Z] russelldb: Russell Brown, formerly of Basho, currently selling my Riak skills/knowledge and developing Riak to/for the NHS
+  
+
+  [2017-08-25T16:36:25Z] smarg: Bill Smargiassi, former Basho CSE, currently working with TI Tokyo
+  
+
+  [2017-08-25T16:38:05Z] peterclark: Anyone else?
+  
+
+  [2017-08-25T16:38:09Z] gpad: Hi to all, I'm Gianluca Padovani from Italy. I have a small company in Italy Coders51 and we are developing in Erlang/Elixir I'm very interested in riak technologies and I would contribute as a developer 
+  
+
+  [2017-08-25T16:38:47Z] russelldb: no one from bet365?
+  
+
+  [2017-08-25T16:39:34Z] sjmw: I thought b365 were joining
+  
+
+  [2017-08-25T16:40:16Z] peterclark: Would have been handy, but we can always forward them the results by email. This is just the first step in the process!
+  
+
+  [2017-08-25T16:41:02Z] sjmw: We are seeing them shortly to get their thoughts on a range of topics around this so it would be good to have a consolidated community view (incomplete and ad hoc as it will be initially) on what's important and I'll happily discuss with them
+  
+
+  [2017-08-25T16:41:14Z] peterclark: Great.
+  
+
+  [2017-08-25T16:42:00Z] deadzen: Pedram Nimreezi, CTO for a social network and bank in Miami. I consult through my firm ZEN (Zen Enterprise Networks), I teach Wing Chun Kung Fu most nights and am involved with Code for America (Miami and Fort Lauderdale).
+  
+
+  [2017-08-25T16:42:18Z] peterclark: OK - I think that's all the introduction's we're going to get.
+  
+
+  [2017-08-25T16:42:47Z] peterclark: The idea of this first meeting was to look at the overall structure of the community project.
+  
+
+  [2017-08-25T16:42:57Z] peterclark: To that end, I have put together a starter document.
+  
+
+  [2017-08-25T16:43:11Z] peterclark: I expect it to be torn apart and reworked :slightly_smiling_face:
+  
+
+  [2017-08-25T16:43:26Z] peterclark: <@U6Q92JWHY|peterclark> uploaded a file: <https://postriak.slack.com/files/peterclark/F6TA4T42D/riak_community_proposal_-_2017-08-25_-_v0.1.pdf|Riak Community Proposal - 2017-08-25 - v0.1.pdf>
+  
+
+  [2017-08-25T16:43:40Z] : <@U6Q6G7S82|heinz> commented on <@U6Q92JWHY|peterclark>’s file <https://postriak.slack.com/files/peterclark/F6TA4T42D/riak_community_proposal_-_2017-08-25_-_v0.1.pdf|Riak Community Proposal - 2017-08-25 - v0.1.pdf>: any changes from the document you linked earlyer?
+  
+
+  [2017-08-25T16:44:12Z] peterclark: No.
+  
+
+  [2017-08-25T16:44:15Z] heinz: kk
+  
+
+  [2017-08-25T16:44:30Z] deadzen: looks
+  
+
+  [2017-08-25T16:45:38Z] deadzen: <@U6Q92JWHY> Should we start separate threads for changes? Such as:
+  
+
+  [2017-08-25T16:46:09Z] deadzen: Typos
+  
+
+  [2017-08-25T16:46:27Z] peterclark: I recon just start at section 1 and work down.
+  
+
+  [2017-08-25T16:46:36Z] deadzen: has announced they intend to all Basho
+  
+
+  [2017-08-25T16:47:19Z] peterclark: Thanks - fixed.
+  
+
+  [2017-08-25T16:47:50Z] deadzen: <@U6Q92JWHY> can we add Riak Core?
+  
+
+  [2017-08-25T16:47:59Z] peterclark: It's already in there.
+  
+
+  [2017-08-25T16:48:10Z] gpad: Questions
+  
+
+  [2017-08-25T16:48:16Z] russelldb: scanned it, not really able to read that fast and process it. I'm pretty slow. Like I might have opinions by Monday
+  
+
+  [2017-08-25T16:48:29Z] mrallen1: <@U6Q92JWHY> is that document available anywhere but in slack?
+  
+
+  [2017-08-25T16:48:48Z] peterclark: Just spotted a formatting error in section 8.
+  
+
+  [2017-08-25T16:48:58Z] peterclark: Not at the moment, but I can make it so.
+  
+
+  [2017-08-25T16:49:34Z] peterclark: <@U6Q92JWHY|peterclark> uploaded a file: <https://postriak.slack.com/files/peterclark/F6U0FEFKP/riak_community_proposal_-_2017-08-25_-_v0.1.pdf|Riak Community Proposal - 2017-08-25 - v0.1.1.pdf>
+  
+
+  [2017-08-25T16:49:41Z] sjmw: It's probably easier to collaborate on changes/suggestions etc as a Googledoc or similar (unless that can happen through slack)
+  
+
+  [2017-08-25T16:49:56Z] deadzen: <@U6RSL1K16> agreed
+  
+
+  [2017-08-25T16:50:14Z] heinz: peterclark election for the release team membership does not cover the case that an (possible) electee does not want the position
+  
+
+  [2017-08-25T16:50:34Z] peterclark: Valid point!
+  
+
+  [2017-08-25T16:50:42Z] peterclark: Not considered that.
+  
+
+  [2017-08-25T16:51:10Z] heinz: N eyes see more then M eyes if N &gt; M
+  
+
+  [2017-08-25T16:51:22Z] peterclark: Added to 9.2.2 Membership:
+`	Candidates have to accept the nomination.`
+  
+
+  [2017-08-25T16:52:00Z] heinz: prevents unnecessary votes if the nominee doesn’t want it in the first place.
+  
+
+  [2017-08-25T16:53:41Z] heinz: 9.2.8. `Check the tests are passed by the code.` seems redundant, I hope we’ll have a CI system if code doesn’t pass the tests it should never leave the development team.
+  
+
+  [2017-08-25T16:53:51Z] peterclark: So would I.
+  
+
+  [2017-08-25T16:53:59Z] peterclark: But I like double checks :slightly_smiling_face:
+  
+
+  [2017-08-25T16:54:03Z] binarytemple: I'm Bryan Hunt - former Basho support/solutions architect - spent a year at bet365 on contract after leaving Basho - Elixir enthusiast - lots of Riak problem solving/client exposure. Product has loads of potential - I'd love to stay involved. 
+  
+
+  [2017-08-25T16:54:12Z] russelldb: I'm +1 on the aims section
+  
+
+  [2017-08-25T16:54:23Z] sjmw: I'd also like to identify and contact the major enterprise users who, arguably, have the biggest commercial interest in this project and contact them to ensure active participation (or a firm 'no, we don't want to participate'). We know who they are and now we have at least some more certainty re IPR we can contact them all. Getting them on board now will mean a better outcome and potentially greater resources to ensure the community can deliver on its plans for Riak. This will be an OSS project but will need some commercial funding too
+  
+
+  [2017-08-25T16:54:54Z] peterclark: Welcome <@U6T3BQN2V>.
+  
+
+  [2017-08-25T16:55:07Z] peterclark: Stuart - good idea.
+  
+
+  [2017-08-25T16:55:25Z] peterclark: More people involved the better. And the more commercial support, the better the resources we can devote.
+  
+
+  [2017-08-25T16:55:27Z] deadzen: <@U6RSL1K16> and the customers who walked away cause the contract wasn't very opensource friendly
+  
+
+  [2017-08-25T16:55:31Z] heinz: 9.2.* Who is responsible to test that builds actually function as documented, as the build is at the very end that seems to fall off the cliff a bit (been tehre once too often myself :P)
+  
+
+  [2017-08-25T16:56:09Z] peterclark: I had thought that would be part of the build team.
+  
+
+  [2017-08-25T16:56:11Z] sjmw: yep
+  
+    ---------------
+    | Attachments |
+    ---------------
+    
+    
+    
+
+    
+  
+
+  [2017-08-25T16:56:11Z] deadzen: whose providing money and time for a testing architecture public facing, member login (ci/cd) ?
+  
+
+  [2017-08-25T16:56:17Z] peterclark: Need another group to double check that?
+  
+
+  [2017-08-25T16:56:30Z] steve_erlang: The document at the moment mixes governance with product direction (esp in section 9) - I think these need to more decoupled
+  
+
+  [2017-08-25T16:56:47Z] deadzen: <@U6TA2DSRK> yeah that seems logical
+  
+
+  [2017-08-25T16:56:57Z] heinz: peterclark not nessesarily, but steps like “do updates work (between which versions?)“, “do fresh installations work” should be spelled out at least I think
+  
+
+  [2017-08-25T16:57:11Z] peterclark: <@U6S4RDVEE> - the idea is that those of us making money off Riak will support the community through money or resources (or both).
+  
+
+  [2017-08-25T16:57:58Z] binarytemple: I'd be willing to spend time on that - built more Riak than I've had hot dinners
+  
+
+  [2017-08-25T16:58:02Z] heinz: i.e. it will happen that a fresh installation changes how things work which means the documentaiton has to be adjusted, or that a update requires extra steps, which need to be documented. Those are things that really only can be fully tested once the final package is build.
+  
+
+  [2017-08-25T16:58:05Z] peterclark: Part of the build sanity checks?
+  
+
+  [2017-08-25T16:58:14Z] russelldb: As an aside, have you spoken the Goldman Sachs? Weren't they a large core user?
+  
+
+  [2017-08-25T16:58:15Z] alejandro.ramallo: Sorry guys how can I join? Is it open for anybody?
+  
+
+  [2017-08-25T16:58:24Z] peterclark: Yes!
+  
+
+  [2017-08-25T16:58:32Z] peterclark: <@U6SGRGW4V> - Yes, too :slightly_smiling_face:
+  
+
+  [2017-08-25T16:58:51Z] peterclark: Where would you split it?
+  
+
+  [2017-08-25T16:59:08Z] deadzen: That would be ideal
+  
+
+  [2017-08-25T16:59:17Z] peterclark: I.e. who would be the governance group?
+  
+
+  [2017-08-25T16:59:26Z] heinz: my main thought is that this can be a lot of work to do properly and if we are explict about work packages this feels like it dererves a own mention not  a “this should be part of X”
+  
+
+  [2017-08-25T16:59:27Z] deadzen: governance in the coding process
+  
+
+  [2017-08-25T16:59:45Z] peterclark: Great!
+  
+
+  [2017-08-25T16:59:51Z] heinz: Just to make the work visable and people understand waht’s involved
+  
+
+  [2017-08-25T17:00:17Z] peterclark: I know my partner, <@U6QC6EQH2>, has just started making a build environment. Experience would be a major plus!
+  
+
+  [2017-08-25T17:00:44Z] deadzen: for instance like I was alluding to basho before.. they did things like code freezes.. do we want to do any of that?
+  
+
+  [2017-08-25T17:01:20Z] russelldb: UNder riak_kv team, does that include all the various backends?
+  
+
+  [2017-08-25T17:01:42Z] russelldb: bitcask, leveldb etc, 'cos there is some pretty specialized skills there
+  
+
+  [2017-08-25T17:01:44Z] peterclark: If it needs to be further broken down, we break it down more.
+  
+
+  [2017-08-25T17:02:02Z] deadzen: id like to see more backends :stuck_out_tongue_winking_eye:
+  
+
+  [2017-08-25T17:02:07Z] russelldb: search…CRDTs…would hate for something to get lost
+  
+
+  [2017-08-25T17:02:50Z] peterclark: The idea is that the Project Direction Group says "we want XYZ". The Developers figure out how, and the Release Management Group sanity check it and make a release.
+  
+
+  [2017-08-25T17:03:13Z] peterclark: If a Developer wanted a new backend, just propose it to the Project Direction Group and it goes in the stack of things to get built.
+  
+
+  [2017-08-25T17:04:11Z] russelldb: <@U6Q92JWHY> often developers 80% make things first, and then it would go to product to decide if needs finishing, but I get your meaning
+  
+
+  [2017-08-25T17:04:32Z] peterclark: :slightly_smiling_face: Yes - the old 'proof of concept' being a nearly finished project!
+  
+
+  [2017-08-25T17:04:35Z] russelldb: we just can't stop making things
+  
+
+  [2017-08-25T17:04:37Z] russelldb: :d
+  
+
+  [2017-08-25T17:04:41Z] deadzen: I made a repo called bashosync that has everything from basho and basho labs..  btw, some inventory of that might be good
+  
+
+  [2017-08-25T17:05:09Z] heinz: Now this might be an odd case but what if the project does not want a company involved in the project?
+  
+
+  [2017-08-25T17:05:29Z] russelldb: <@U6Q6G7S82> can you give an example, I don't understand?
+  
+
+  [2017-08-25T17:05:30Z] peterclark: As in Westboro Baptist Church decides to get into tech?
+  
+
+  [2017-08-25T17:05:39Z] deadzen: <@U6Q6G7S82> as an odd case or as an ethical case?
+  
+
+  [2017-08-25T17:06:04Z] heinz: russelldb 9.3.2 says everyone who provides a certain amount of recuires is guaranteed a seat w/o any safeguard
+  
+
+  [2017-08-25T17:06:29Z] heinz: Ethical, odd, but not entirely impossible.
+  
+
+  [2017-08-25T17:06:31Z] peterclark: Ah - the resources have to be accepted :slightly_smiling_face:
+  
+
+  [2017-08-25T17:06:41Z] peterclark: We should add in something to review that, true.
+  
+
+  [2017-08-25T17:06:51Z] heinz: yes it should be clearly governed however
+  
+
+  [2017-08-25T17:07:01Z] peterclark: Maybe get the Governance Group to OK them?
+  
+
+  [2017-08-25T17:07:15Z] heinz: Sounds good to me
+  
+
+  [2017-08-25T17:07:17Z] peterclark: In which case the Project Direction Group essentially has two hats.
+  
+
+  [2017-08-25T17:07:27Z] heinz: It just feels good to have a saveguard against crazy
+  
+
+  [2017-08-25T17:07:41Z] peterclark: So we split them as Stuart(?) suggested.
+  
+
+  [2017-08-25T17:07:57Z] steve_erlang: There's always a trade off between strict governance to create a single version and encouraging innovation/flexiblity. If governance is too restrictive then Riak will fragment/fork.
+  
+
+  [2017-08-25T17:08:36Z] peterclark: Yes. I'd have Governance as part of the Admin Group, and chosen by the Project Direction Group.
+  
+
+  [2017-08-25T17:08:48Z] peterclark: Governance would then do the safety checks.
+  
+
+  [2017-08-25T17:09:13Z] peterclark: I.e. Project Direction Group is the board, Governance is the executive.
+  
+
+  [2017-08-25T17:09:53Z] heinz: It probably doesn’t matter for most small stuff, but just someone doing a sanity check, on “yes we want that company/group as part of our directional board” makes sense, every other office is elected so we get that checks there automatically.
+  
+
+  [2017-08-25T17:10:23Z] deadzen: <@U6Q92JWHY> has a layout like this been used before with any other groups?
+  
+
+  [2017-08-25T17:10:41Z] peterclark: Inserting:
+```9.4.3.	Governance Team
+In charge of:
+	Executing the vision laid down by the Project Direction Group.
+	Co-ordinating between Groups and Teams.
+```
+  
+
+  [2017-08-25T17:11:00Z] peterclark: <@U6S4RDVEE> - no idea. I just went with what I thought was best.
+  
+
+  [2017-08-25T17:11:17Z] peterclark: I did read up on a few others but most of them seems to have a lot more overhead.
+  
+
+  [2017-08-25T17:12:09Z] heinz: I think it’s good to start off with little overhead, it’s always easy to grow more complex but very hard to simplify
+  
+
+  [2017-08-25T17:12:29Z] peterclark: Also easy to grow wrong :slightly_smiling_face:
+  
+
+  [2017-08-25T17:12:42Z] deadzen: I've been researching a lot into management cybernetics, theres some valuable insight on reducing oscillation between groups and teams..  This is not a new problem by any means
+  
+
+  [2017-08-25T17:13:46Z] peterclark: ```	Checks new build works as expected.```
+  
+
+  [2017-08-25T17:13:54Z] peterclark: So:
+
+```9.2.10.	Build Team
+	Receive work packet from Documentation Team.
+	Creates build process.
+	Checks new build works as expected.
+	Either releases new version to the public, or returns to the Development Group team for fixes.
+```
+  
+
+  [2017-08-25T17:14:22Z] heinz: so reading through it all in all I think it’s a really great starting point
+  
+
+  [2017-08-25T17:15:20Z] steve_erlang: When Basho was alive - the direction / roadmap was a result of customers buying the product and influencing the roadmap. This is being market driven demand is being lost. If a company funds the development of a feature (either publicly or privately) then I guess it should by default be included in the Product Direction.
+  
+
+  [2017-08-25T17:15:39Z] heinz: How would changes to the process happen? Say we just took this today, how weould we go about changing something we found worked or didn’t work
+  
+
+  [2017-08-25T17:15:43Z] deadzen: the membership management seems a little lottery/game theory to me
+  
+
+  [2017-08-25T17:16:34Z] heinz: I think not nessessariy, some features might come with an incredibly high maintainaince/longterm overhead which we might not want to carry just because someone initially sponsored it.
+  
+
+  [2017-08-25T17:16:58Z] peterclark: As I see it, they would propose a new feature, the PDG would discuss how (or if) it fits with Riak. If they decide it doesn't it either gets added as low priority or it happens in a company-specific fork.
+  
+
+  [2017-08-25T17:17:36Z] russelldb: That sounds like most of the basho added features tbf. It's best if we don't think of Riak as a good template imo
+  
+
+  [2017-08-25T17:18:17Z] peterclark: We would have to have a review process in place going to Governance, which then got voted on by the relevant Team or Group or everyone.
+  
+
+  [2017-08-25T17:18:56Z] deadzen: I have experience with riak_test
+  
+
+  [2017-08-25T17:19:03Z] heinz: Yap, something along the lines. Review process should be part of the charter (I call it that  now :P) so it ‘protects itself’ in a way.
+  
+
+  [2017-08-25T17:19:10Z] peterclark: I imagine that it will take some refining to get it going smoothly.
+  
+
+  [2017-08-25T17:19:43Z] peterclark: Handy!
+  
+
+  [2017-08-25T17:19:52Z] peterclark: Makes sense.
+  
+
+  [2017-08-25T17:19:59Z] peterclark: That will go in the next revision!
+  
+
+  [2017-08-25T17:20:12Z] deadzen: what defines a work packet?
+  
+
+  [2017-08-25T17:20:55Z] mrallen1: I mean... I can't ever remember an outside contribution coming into to riak_kv or core that wasn't from someone already deep into Basho (either current or former) so my expectation is that people who are funding specific development are going to be working with a consultant (like <@U6R6ETJU8> probably) to do that sort of thing and they're going to be maintaining some kind of "internal" facing fork and contributing back to larger project periodically
+  
+
+  [2017-08-25T17:20:55Z] heinz: We might also want to schedule a fixed review time ahead of time that forces us to consider if things work. At least for the first year or so that we’re not growing complacent and just accept it because calling for a get together is so much work.
+  
+
+  [2017-08-25T17:21:10Z] peterclark: From the PDG it will be fairly high level ("make replication work between datacenters".
+The Developers would then break it down into smaller parts.
+  
+
+  [2017-08-25T17:21:25Z] sjmw: Need to drop off. Good start, thanks Peter. Look forward to seeing next iteration
+  
+
+  [2017-08-25T17:21:28Z] deadzen: yeah, when would we schedule an election?
+  
+
+  [2017-08-25T17:21:32Z] peterclark: That sounds sensible..
+  
+
+  [2017-08-25T17:21:32Z] mrallen1: I think heinz is the one exception to that.
+  
+
+  [2017-08-25T17:21:34Z] mrallen1: lol
+  
+
+  [2017-08-25T17:21:35Z] deadzen: ttyl
+  
+
+  [2017-08-25T17:22:20Z] russelldb: Martin Sumner at NHS put in some hefty 2i contributions
+  
+
+  [2017-08-25T17:22:25Z] russelldb: but I get your meaning
+  
+
+  [2017-08-25T17:22:38Z] mrallen1: ok, true
+  
+
+  [2017-08-25T17:22:44Z] peterclark: Yes - but some company specific changes won't be accepted if they cause issues.
+  
+
+  [2017-08-25T17:22:45Z] heinz: Yay I’m an exception :stuck_out_tongue: so mrallen1 I don’t think any of the stuff I did was ever maged :wink:
+  
+
+  [2017-08-25T17:22:59Z] mrallen1: But I guess the point is, external contributions are "rare"
+  
+
+  [2017-08-25T17:23:10Z] deadzen: <@U6TA2DSRK> I imagine that's how redis got into riak?
+  
+
+  [2017-08-25T17:23:11Z] mrallen1: so (shrug)
+  
+
+  [2017-08-25T17:23:13Z] peterclark: Thanks!
+  
+
+  [2017-08-25T17:23:45Z] mrallen1: That's not exactly how I'd characterize that work <@U6S4RDVEE> but it doesn't really matter now anyway.
+  
+
+  [2017-08-25T17:24:25Z] heinz: I am 99.999% sure we will got to refine this after a few month of reality one way or another
+  
+
+  [2017-08-25T17:24:33Z] deadzen: <@U6Q6G7S82> don't feel bad :smile: I knew why you stopped bothering
+  
+
+  [2017-08-25T17:24:42Z] mrallen1: I'd really like to see the current doc in some kind of markup / comment friendly editor thing, maybe meet again every X {days, weeks } to discuss the comments/markups
+  
+
+  [2017-08-25T17:24:53Z] heinz: hehe
+  
+
+  [2017-08-25T17:25:19Z] deadzen: let's start now and check it in somewhere
+  
+
+  [2017-08-25T17:25:26Z] heinz: But on a serious note, even when the work is 100% sponsored it needs to go through the process of being approved.
+  
+
+  [2017-08-25T17:25:35Z] peterclark: For sure!
+  
+
+  [2017-08-25T17:25:43Z] alejandro.ramallo: <@U6Q92JWHY> I read it twice quickly as I joined later, but so far like it, thanks a lot for putting this doc together.
+  
+
+  [2017-08-25T17:25:49Z] deadzen: yea
+  
+
+  [2017-08-25T17:26:18Z] russelldb: +1
+  
+
+  [2017-08-25T17:26:24Z] peterclark: Happy to be helpful!
+  
+
+  [2017-08-25T17:26:41Z] heinz: google docs is, for better or worse, really good for that
+  
+
+  [2017-08-25T17:26:51Z] alejandro.ramallo: Dropbox Paper too (pseudo MD and exports to MD)
+  
+
+  [2017-08-25T17:26:59Z] binarytemple: Kresten and aae fullsync is another
+  
+
+  [2017-08-25T17:27:00Z] peterclark: I use OneDrive over GoogleDocs. Any issues with that?
+  
+
+  [2017-08-25T17:27:08Z] russelldb: I have to go. Thanks <@U6Q92JWHY> for all the work on the doc and setting this up. It's a great start.
+  
+
+  [2017-08-25T17:27:25Z] heinz: peterclark can one drive do shared editing / comments?
+  
+
+  [2017-08-25T17:27:25Z] deadzen: <@U6R6ETJU8> ttyl
+  
+
+  [2017-08-25T17:27:26Z] steve_erlang: I think a key thing is some guiding principles for product direction.  Riak started off aiming to be bullet proof and do something well. It's lost direction over time and things which were probably a good idea but half baked ended up being released (eg Yokuzuna).  There are plenty of companies using Riak because it's a mission critical application - I think we need to get back to basics and do things well. So document needs a "mission statement" I suppose for Riak direction.
+  
+
+  [2017-08-25T17:27:35Z] heinz: take care russelldb was great talking to you again :smile:
+  
+
+  [2017-08-25T17:27:47Z] deadzen: <@U6TA2DSRK> agree
+  
+
+  [2017-08-25T17:28:20Z] peterclark: <@U6TA2DSRK> - yes - Russell said something similar a few days ago.
+  
+
+  [2017-08-25T17:28:31Z] peterclark: Thoughts on the wording would be great.
+  
+
+  [2017-08-25T17:28:39Z] russelldb: <@U6TA2DSRK> I agree. I'd be happy to write what my opinion of that is.
+  
+
+  [2017-08-25T17:28:43Z] mrallen1: <@U6Q92JWHY> I don't really care either way :slightly_smiling_face:
+  
+
+  [2017-08-25T17:28:49Z] deadzen: we have basho_bench and work coming out, I think we need to see where riak is today, in a way that can be externally validated
+  
+
+  [2017-08-25T17:28:57Z] deadzen: there's a lot of legitimacy that needs to be earned back
+  
+
+  [2017-08-25T17:29:16Z] binarytemple: And perhaps, a lot of code that needs to be deleted. 
+  
+
+  [2017-08-25T17:29:23Z] russelldb: <@U6T3BQN2V> +1000
+  
+
+  [2017-08-25T17:29:35Z] russelldb: tech debt is almost as bad as basho's debt
+  
+
+  [2017-08-25T17:29:42Z] mrallen1: lol
+  
+
+  [2017-08-25T17:29:47Z] heinz: oh my
+  
+
+  [2017-08-25T17:29:48Z] deadzen: <@U6R6ETJU8> I'm on board with that
+  
+
+  [2017-08-25T17:29:51Z] heinz: don’t delete my code :stuck_out_tongue:
+  
+
+  [2017-08-25T17:29:59Z] mrallen1: getting lunch afk for a bit
+  
+
+  [2017-08-25T17:30:02Z] binarytemple: And modern Erlang i.e. build on 19/20 and forget the rest
+  
+
+  [2017-08-25T17:30:09Z] binarytemple: Is that a fair idea?
+  
+
+  [2017-08-25T17:30:12Z] peterclark: OK - shared copy of the document in OneDrive / Word Online is here: <https://1drv.ms/w/s!AlL0Y30lZHlTud1JSYv422UWAUaMvg>
+  
+
+  [2017-08-25T17:30:12Z] mrallen1: <@U6Q92JWHY> thank you for writing the initial doc :slightly_smiling_face: I'm sure it wasn't easy
+  
+
+  [2017-08-25T17:30:13Z] russelldb: gotta be done
+  
+
+  [2017-08-25T17:30:18Z] heinz: Guten Hunger mrallen1!
+  
+
+  [2017-08-25T17:30:21Z] peterclark: All can edit.
+  
+
+  [2017-08-25T17:30:26Z] mrallen1: Bitte
+  
+
+  [2017-08-25T17:30:35Z] heinz: <@U6Q6G7S82|heinz> pinned a message to this channel.
+  
+    ---------------
+    | Attachments |
+    ---------------
+    
+    
+    
+
+    
+  
+
+  [2017-08-25T17:30:36Z] russelldb: aight, gotta go, laters all
+  
+
+  [2017-08-25T17:30:36Z] peterclark: God yes!
+  
+
+  [2017-08-25T17:31:23Z] peterclark: (Can someone check that it actually works, and is editable?)
+  
+
+  [2017-08-25T17:31:32Z] heinz: peterclark at it
+  
+
+  [2017-08-25T17:31:53Z] mrallen1: <@U6Q92JWHY> wfm
+  
+
+  [2017-08-25T17:32:03Z] mrallen1: ty
+  
+
+  [2017-08-25T17:32:24Z] gpad: yes thanks
+  
+
+  [2017-08-25T17:32:38Z] peterclark: Great.
+  
+
+  [2017-08-25T17:32:46Z] peterclark: Shall we meet back here same time next week?
+  
+
+  [2017-08-25T17:32:48Z] deadzen: im in
+  
+
+  [2017-08-25T17:32:54Z] deadzen: for both :wink:
+  
+
+  [2017-08-25T17:33:14Z] heinz: yes I can
+  
+
+  [2017-08-25T17:33:41Z] peterclark: We can review what people have done to the document and see where we are.
+  
+
+  [2017-08-25T17:33:54Z] deadzen: I like that you didn't force it into a hierarchy
+  
+
+  [2017-08-25T17:34:16Z] smarg: I’m going to be a jerk and suggest we put this in Markdown and then put it in a Git repo, like everything else…
+  
+
+  [2017-08-25T17:34:30Z] smarg: Version control for history
+  
+
+  [2017-08-25T17:34:36Z] heinz: smarg we don’t have a github yet
+  
+
+  [2017-08-25T17:34:45Z] peterclark: We (TI Tokyo) do.
+  
+
+  [2017-08-25T17:34:56Z] heinz: At that note if there is interst I happiey donate the <https://github.com/Kyorai> org
+  
+    ---------------
+    | Attachments |
+    ---------------
+    
+    Kyorai
+    https://github.com/Kyorai
+
+    
+  
+
+  [2017-08-25T17:34:56Z] peterclark: We have riak-docs and a bunch of other stuff in there.
+  
+
+  [2017-08-25T17:34:58Z] deadzen: <@U6SUK860N> I suggested the same, just don't have an official repo yet
+  
+
+  [2017-08-25T17:35:00Z] peterclark: We can make one public.
+  
+
+  [2017-08-25T17:35:37Z] peterclark: I'll look at doing that over the weekend and make a link here.
+  
+
+  [2017-08-25T17:35:44Z] heinz: Kyorai being Bashos most known deciple the name was fitting :stuck_out_tongue:
+  
+
+  [2017-08-25T17:35:57Z] peterclark: Yes - but the domain name costs a bundle.
+  
+
+  [2017-08-25T17:36:03Z] heinz: nope I have it
+  
+
+  [2017-08-25T17:36:47Z] heinz: <@U6Q6G7S82|heinz> uploaded a file: <https://postriak.slack.com/files/heinz/F6TQF7K5H/pasted_image_at_2017_08_25_07_36_pm.png|Pasted image at 2017-08-25, 7:36 PM>
+  
+
+  [2017-08-25T17:36:55Z] peterclark: Really? GoDaddy lists it for sale at JPY382,000.
+  
+
+  [2017-08-25T17:37:02Z] peterclark: Ah - was looking at .com.
+  
+
+  [2017-08-25T17:37:05Z] smarg: First rule of domain names, buy first, ask questions later
+  
+
+  [2017-08-25T17:37:08Z] deadzen: btw I own <http://erlang.io|erlang.io>
+  
+
+  [2017-08-25T17:37:16Z] peterclark: Cool.
+  
+
+  [2017-08-25T17:37:24Z] deadzen: I've been thinking about making an organization here in america, 501(c)3 specifically for our purposes here
+  
+
+  [2017-08-25T17:37:36Z] heinz: I think org / io kind of fits us better then com anyways :stuck_out_tongue:
+  
+
+  [2017-08-25T17:37:38Z] peterclark: I've grabbed things like <http://riakdocs.com|riakdocs.com>, <http://riak.info|riak.info>, etc...
+  
+
+  [2017-08-25T17:37:48Z] peterclark: Figure we would donate them when we get running.
+  
+
+  [2017-08-25T17:37:54Z] heinz: same
+  
+
+  [2017-08-25T17:38:02Z] deadzen: I think getting more people to get really good at OTP and distributed computing is the best thing we can do for Riak
+  
+
+  [2017-08-25T17:38:31Z] peterclark: :slightly_smiling_face:
+  
+
+  [2017-08-25T17:39:22Z] deadzen: I've been thinking about making an organization here in america, 501(c)3 specifically for our purposes here, some kind of academy
+  
+
+  [2017-08-25T17:39:58Z] heinz: peterclark I’m not tied to the Kyorai name but if we want it I’ll donate it :stuck_out_tongue: I mostly wanted something to centralize the hex packages and repos that feed them after basho exploded (impolded?)
+  
+
+  [2017-08-25T17:40:17Z] peterclark: We did the same with around 282 repos.
+  
+
+  [2017-08-25T17:40:24Z] deadzen: <@U6Q6G7S82> I am oddly ok with that name
+  
+
+  [2017-08-25T17:40:36Z] peterclark: If we can keep Riak, I would for brand purposes.
+  
+
+  [2017-08-25T17:40:44Z] deadzen: <https://github.com/bashosync>
+  
+    ---------------
+    | Attachments |
+    ---------------
+    
+    bashosync
+    https://github.com/bashosync
+
+    
+  
+
+  [2017-08-25T17:40:56Z] binarytemple: Collapsed, folded, sagged out of existence.
+  
+
+  [2017-08-25T17:41:44Z] peterclark: Our are all marked private for the time being.
+  
+
+  [2017-08-25T17:41:46Z] binarytemple: One question - forgive if tangential - Elixir. It's a long term question but I'd the future of Riak always going to be Erlang? 
+  
+
+  [2017-08-25T17:41:54Z] heinz: peterclark oh yea not about renaming the db, I just couldn’t make a basho repo (or dind’t wanted to deal with the legal comsequeces so went with somethinfg fresh and unique ;)
+  
+
+  [2017-08-25T17:42:09Z] peterclark: <http://www.tiot.jp/riak-docs|www.tiot.jp/riak-docs> is a mirror-clone of basho-docs and modified.
+  
+
+  [2017-08-25T17:42:25Z] heinz: Please yes as using erlang code from elixir is easy, using elixir code from erlang is hard.
+  
+
+  [2017-08-25T17:43:06Z] heinz: At least for anything that is even remotely a library we should stick with pure erlang
+  
+
+  [2017-08-25T17:43:16Z] gpad: I wrote some posts of how to use riak_core from elixir thanks to <@U6Q6G7S82>
+  
+
+  [2017-08-25T17:43:19Z] peterclark: Sounds like something to discuss. I would imagine that moving language would involve a LOT of discussion!
+  
+
+  [2017-08-25T17:43:59Z] peterclark: Unless the reasons were freakin' awesome, I'd lean towards sticking with Erlang.
+  
+
+  [2017-08-25T17:44:21Z] heinz: Okay let me be clear what I mean, making riak (and all it’s libs) work on elixir  is something we should do. But if we start writing things in elixir we exclude any erlang applications from using them.
+  
+
+  [2017-08-25T17:44:47Z] deadzen: cool, what part of japan are you based out of?
+  
+
+  [2017-08-25T17:45:35Z] deadzen: tokyo would be my first guess heh
+  
+
+  [2017-08-25T17:45:36Z] gpad: In rabbit they are using elixir for some tools the cli for example
+  
+
+  [2017-08-25T17:45:49Z] peterclark: Odaiba, Minato-ku, Tokyo-to.
+  
+
+  [2017-08-25T17:46:04Z] peterclark: Our office is a bit more central in Toranomon, Minato-ku, Tokyo-to.
+  
+
+  [2017-08-25T17:46:34Z] gpad: It's not impossible call elixir code from erlang I suppose ...
+  
+
+  [2017-08-25T17:46:43Z] heinz: no but VERY hard
+  
+
+  [2017-08-25T17:46:59Z] peterclark: I'm on the 32nd floor with a view from the balcony over the beach and the bay, with Mt Fuji in the background.
+  
+
+  [2017-08-25T17:47:06Z] heinz: it also explodes the dependencies as you suddenly also need entire elixir
+  
+
+  [2017-08-25T17:47:13Z] deadzen: sounds majestic
+  
+
+  [2017-08-25T17:47:32Z] peterclark: It can be if the weather co-operates.
+  
+
+  [2017-08-25T17:47:36Z] gpad: Yes I understand 
+  
+
+  [2017-08-25T17:47:37Z] peterclark: Best views are in winter.
+  
+
+  [2017-08-25T17:47:42Z] deadzen: yeah I'm in south florida, it is not cooperating currently
+  
+
+  [2017-08-25T17:47:56Z] heinz: For the same reason that system libraries are not written in perl (even so you can call perl form c, calling c form perl is a lot easier) :wink:
+  
+
+  [2017-08-25T17:48:28Z] gpad: :grinning:
+  
+
+  [2017-08-25T17:50:51Z] heinz: I get the feeling the discussions de-rail a bit, should we call the 1st meeting over and all re-read the proposal put in some thoughts / make suggestions and re-conveen in a week?
+  
+
+  [2017-08-25T17:51:26Z] deadzen: I took it as a first draft till next week
+  
+
+  [2017-08-25T17:51:37Z] peterclark: Yes.
+  
+
+  [2017-08-25T17:51:41Z] heinz: yap
+  
+
+  [2017-08-25T17:51:45Z] deadzen: I would like some time as well to form thoughts I can express fully :slightly_smiling_face:
+  
+
+  [2017-08-25T17:51:48Z] smarg: Actually, this leads me to wonder about “official” clients post-Basho
+  
+
+  [2017-08-25T17:51:50Z] peterclark: Next Fiday, same time, new channel.
+  
+
+  [2017-08-25T17:51:52Z] heinz: I think we all need a bit of time to digest it
+  
+
+  [2017-08-25T17:51:56Z] heinz: sounds good
+  
+
+  [2017-08-25T17:52:07Z] peterclark: I'll make a markdown version in GitHub for easy editing.
+  
+
+  [2017-08-25T17:52:07Z] heinz: can we download the content of the channel to preserve it?
+  
+
+  [2017-08-25T17:52:16Z] peterclark: Not going to delete it.
+  
+
+  [2017-08-25T17:52:23Z] peterclark: Just start a new clean channel for next meeting.
+  
+
+  [2017-08-25T17:52:28Z] heinz: it will get deleted due to the message limit
+  
+
+  [2017-08-25T17:52:35Z] peterclark: Oh - free version.
+  
+
+  [2017-08-25T17:52:37Z] peterclark: Good point.
+  
+
+  [2017-08-25T17:52:39Z] heinz: yup
+  
+
+  [2017-08-25T17:52:54Z] heinz: the few things I know about slack (due to having run into it :P)
+  
+
+  [2017-08-25T17:52:56Z] smarg: I’m working on preserving this in JSON
+  
+
+  [2017-08-25T17:52:57Z] deadzen: give me a bit, I'll bring in my chat bot from irc
+  
+
+  [2017-08-25T17:53:05Z] peterclark: <@U6SUK860N> - great!
+  
+
+  [2017-08-25T17:53:22Z] peterclark: Well, whoever gets there first, send me the log :slightly_smiling_face:
+  
+
+  [2017-08-25T17:53:30Z] smarg: Tools seem pretty easy
+  
+
+  [2017-08-25T17:53:40Z] deadzen: yea slack is extensible
+  
+
+  [2017-08-25T17:53:49Z] deadzen: its just a bit capitalistic compared to my beloved IRC :smile:
+  
+
+  [2017-08-25T17:54:27Z] smarg: I am probably the among oldest nerds alive who never really got into IRC
+  
+
+  [2017-08-25T17:54:37Z] heinz: Eventually we should have some standardized infra, I understand that in the beginning it’s not ideal either but evntually I would love to move to a voice (or voice/videa) system.
+  
+
+  [2017-08-25T17:54:43Z] smarg: (for those whom it made sense)
+  
+
+  [2017-08-25T17:54:51Z] deadzen: <@U6SUK860N> its not too late :smile:
+  
+
+  [2017-08-25T17:55:04Z] deadzen: imagine a chat client that doesn't use a gig of ram
+  
+
+  [2017-08-25T17:55:13Z] peterclark: I still have a ICQ handle :slightly_smiling_face:
+  
+
+  [2017-08-25T17:55:17Z] peterclark: 368047 :slightly_smiling_face:
+  
+
+  [2017-08-25T17:55:17Z] deadzen: I DO TOO!
+  
+
+  [2017-08-25T17:55:24Z] deadzen: i just don't remember my damn password
+  
+
+  [2017-08-25T17:55:26Z] deadzen: 12630653
+  
+
+  [2017-08-25T17:55:28Z] peterclark: Same here!
+  
+
+  [2017-08-25T17:55:33Z] deadzen: rofl
+  
+
+  [2017-08-25T17:55:36Z] peterclark: And the email address is gone LONG ago.
+  
+
+  [2017-08-25T17:55:50Z] deadzen: wow you got yours really early
+  
+
+  [2017-08-25T17:55:57Z] peterclark: :slightly_smiling_face:
+  
+
+  [2017-08-25T17:56:03Z] peterclark: What can I say, I had a misspent childhood.
+  
+
+  [2017-08-25T17:56:17Z] deadzen: low integer envies
+  
+
+  [2017-08-25T17:56:29Z] peterclark: :slightly_smiling_face:
+  
+
+  [2017-08-25T17:57:05Z] deadzen: yeah now its a weird useless number permanently stored in my brain for some reason
+  
+
+  [2017-08-25T17:57:16Z] peterclark: Yup.
+  
+
+  [2017-08-25T17:58:01Z] peterclark: Right - g'night all!
+  
+
+  [2017-08-25T17:58:14Z] deadzen: thanks for the hard work
+  
+
+  [2017-08-25T17:58:27Z] peterclark: I fear it is just the beginning :slightly_smiling_face:
+  
+
+  [2017-08-25T17:58:42Z] deadzen: yes, you have awoken dragons.
+  
+
+  [2017-08-25T17:58:59Z] gpad: Thanks again <@U6Q92JWHY> 
+  
+
+  [2017-08-25T17:59:01Z] peterclark: Good? :slightly_smiling_face:
+  
+
+  [2017-08-25T17:59:12Z] gpad: Bye
+  
+
+  [2017-08-25T17:59:17Z] peterclark: Bye.
+  
+
+  [2017-08-25T18:03:12Z] heinz: night peterclark thanks for the great document!
+  
+
+  [2017-08-26T05:11:10Z] peterclark: Have made a public repo and a Markdown version of the document. Available at <https://github.com/TI-Tokyo/riak-community-admin>.
+  
+    ---------------
+    | Attachments |
+    ---------------
+    
+    TI-Tokyo/riak-community-admin
+    https://github.com/TI-Tokyo/riak-community-admin
+
+    
+  
+
+  [2017-08-26T05:12:21Z] peterclark: I have started a new channel (<#C6TD30YTA|planning-2017-09-01>) for our next meeting and pinned the link in there, too.
+  

@@ -124,6 +124,7 @@ Elections automatically happen if a Team has 0 members. 
 Each election will be decided by a Candidate getting a majority vote (more than 50%) of the votes cast. 
 
 The Election Process shall be:
+
 1. Day 0: An election is called.
 2. By day 7: All eligable voters are informed of the election details (what positions, why it was called, when the vote will be, who can vote), and are asked for candidate nominations to be submitted within 14 calendar days.
 3. By day 21: All nominated people are contacted to confirm they wish to accept their nomination as a Candidate.

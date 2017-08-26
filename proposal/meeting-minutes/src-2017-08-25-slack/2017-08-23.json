@@ -1,0 +1,284 @@
+[
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I split Code Approval Group up into their functions and grouped them under Release Management.",
+        "ts": "1503471669.000152"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "good work. i have to leave for daily work now. i feel we have a good starting point.",
+        "ts": "1503471744.000057"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yup - I hope to have an actual recommendation for the planning meeting!",
+        "ts": "1503471760.000199"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It will then, of course, be torn apart - but hopefully into something better :slightly_smiling_face:",
+        "ts": "1503471778.000195"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "have a nice day\/night to everyone :spock-hand:",
+        "ts": "1503471802.000111"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "You, too!",
+        "ts": "1503471808.000186"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "have a good one",
+        "ts": "1503471811.000187"
+    },
+    {
+        "user": "U6S21QLH3",
+        "text": "<@U6S21QLH3|danabr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503476423.000203"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think that plan will quite effectively kill any kind of community involvement beyond big companies it quite literally sounds like basho was running things towards the end just with a new name",
+        "ts": "1503485806.000062"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "`Project Direction Group` pretty much translates to “buy your way into directing where the development goes”, the riak is as good as it is because in the beginning a lot of decisions were made by engineers wanting to build something good not marketing or marketing reps",
+        "ts": "1503485945.000090"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I am extremely critical of the direction of things discussed here, and the “but then no one will pay for things” feels a lot like trying to strong arm  things through at the threat of withholding support.",
+        "ts": "1503486093.000236"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Which is why a) it includes techies as well as end-users, b) they organise and prioritise, not stop forks, c) developers can ignore the prioritisation and work on things they want.",
+        "ts": "1503486163.000083"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It allows for companies to have their voices heard when they help pay for things, but allows developers freedom to chase their ideas.",
+        "ts": "1503486272.000099"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Final decisions on what is included is in the hands of the Code Approval Group which is made up of and chosen by developers.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503486347.000000"
+        },
+        "ts": "1503486329.000048"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark thank you for clarifying those points, that sounds a lot less worrysome then what I understood from the first suggestion",
+        "ts": "1503486545.000276"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Async messages can be confusing :)",
+        "ts": "1503486600.000208"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "indeed",
+        "ts": "1503486606.000359"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'll write up a better phrased version :) ",
+        "ts": "1503486629.000084"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "also please don’t take my criticism personal, I tend to be up front about concerns as I belive not addressing them just leads to misery and well miscommunication in the long run :wink:",
+        "ts": "1503486672.000229"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Totally agree!",
+        "ts": "1503486768.000152"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "ultimately code wins, as Vinoski used to say. And deployed code doubly so. I think having a plan for organisation is a great thing. Representing customers' wants was something Basho failed at pretty badly and it would be good to redress that",
+        "ts": "1503487468.000093"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "bet365 have a full time riak team, and the NHS are moving that way. You don't think that those engineers are deciding the features they implement or bugs they fix, do you?",
+        "ts": "1503487567.000206"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That is why I put the end-users on the Project Direction Group. They will also (hopefully) provide developers who will implement things as part of the Developers Group and the Code Approval Group.\n",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503487738.000000"
+        },
+        "ts": "1503487627.000009"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It allows for developer led features as well as end-user led features. End-users who provide developers can direct their developers to work on the features they want, of course.",
+        "ts": "1503487816.000045"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "my concern is that there isn't a single overarching design principle or goal. A lot of basho's earlier success came from a pretty clear shared goal on what Riak should be. And so decision making at all levels could be guided by that. As an engineer if I had to pick between implementation X or Y I could cast the decision through that lens and make an informed choice.",
+        "ts": "1503487843.000358"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "Part of the NuBasho disaster was trying to be all things to all deployments, rather than focussing on Riak's niche (this is just my opinion obviously)",
+        "ts": "1503487891.000012"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "How would you suggest fixing that?",
+        "ts": "1503487895.000227"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "talking, finding out what everyone thinks the goal is",
+        "ts": "1503487920.000200"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "I think your organisation idea sounds like it can facilitate that",
+        "ts": "1503487952.000065"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "we're lucky at the NHS in that they have a very clear idea of what they want from Riak, and thanks to their experience are able to articulate it too",
+        "ts": "1503488028.000077"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "it would be great if every interested organisation could take the time to think that through up front",
+        "ts": "1503488047.000181"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "For sure!",
+        "ts": "1503488126.000144"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Sounds like a dream client!",
+        "ts": "1503488193.000247"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "vinoski wisdoms are great :stuck_out_tongue_winking_eye:, agreed has anyone reviewed global logical clocks applied to riak?",
+        "ts": "1503491728.000190"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "<@U6S4RDVEE> a little, CMJ and I went to Braga in (I think) 2014 and got a 1st hand preso from Tomé on GLC. I haven't read the latest paper, but we always had issues with 2 things, one syncing the global counter per write ('cos gaps _mean_ something so leasing was not an option iirc)",
+        "ts": "1503492182.000474"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "second was about absence of dots meaning deletes. If you spread the dots over many keys and a corruption means you can't read key X then it looks like a legit delete and propagates around the cluster",
+        "ts": "1503492224.000165"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "the latest paper may address both those concerns (it's on my queue)",
+        "ts": "1503492239.000247"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "cool, i had a discussion with him in 2016, about server wide clocks, what I found very interesting (not that it directly applied to riak core as it assumes the presence of a kv)  was that it did replica repair instead of using AAE with merkle trees.. there was a dotteddb proof of concept and a basicdb (with aae\/merkle) to do a fair benchmark against..",
+        "ts": "1503492458.000170"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "he added, SWC is a bit more complicated, adds state to vnodes and so on.. but that it could be integrated, depending on what purpose you wanted riak core to serve",
+        "ts": "1503492692.000025"
+    },
+    {
+        "user": "U6S4RDVEE",
+        "topic": "“In preparing for battle I have always found that plans are useless, but planning is indispenable.” —Dwight D. Eisenhower",
+        "text": "<@U6S4RDVEE|deadzen> set the channel topic: “In preparing for battle I have always found that plans are useless, but planning is indispenable.” —Dwight D. Eisenhower",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1503493114.000373"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "<@U6S4RDVEE> we had a look at the dot based AAE, it's not so simple, involves an in memory reverse key-&gt;dot index iirc",
+        "ts": "1503505539.000159"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "in general my view (until I read the new paper) is that it is very interesting but has some implementation problems to be overcome before it is industry ready",
+        "ts": "1503505574.000444"
+    },
+    {
+        "user": "U6SLDDGKC",
+        "text": "<@U6SLDDGKC|meangrape> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503505581.000241"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "I think <@U6Q3DV4FM>' AAE work is more promising and general",
+        "ts": "1503505605.000569"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "if AAE can be made to be much lighter than it is, than sure. I'll have to brush up on that work myself, if the problem that AAE solves can be prevented from happening in the read repair. that would be a cool thing.",
+        "ts": "1503513546.000519"
+    }
+]

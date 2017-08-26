@@ -1,0 +1,944 @@
+[
+    {
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q92JWHY|peterclark> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503393163.000255"
+    },
+    {
+        "user": "U6Q92JWHY",
+        "purpose": "To discuss what we need to get the Riak community up and running.",
+        "text": "<@U6Q92JWHY|peterclark> set the channel purpose: To discuss what we need to get the Riak community up and running.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1503393164.000190"
+    },
+    {
+        "user": "U6PHKFTA5",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6PHKFTA5|kunthar> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503393266.000187"
+    },
+    {
+        "user": "U6Q6G7S82",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82|heinz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503393266.000220"
+    },
+    {
+        "user": "U6QC6EQH2",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6QC6EQH2|nadams> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503393266.000251"
+    },
+    {
+        "user": "U6PQ9RG0G",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6PQ9RG0G|areegea> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503393266.000281"
+    },
+    {
+        "user": "U6RPFG5FH",
+        "text": "<@U6RPFG5FH|gpad> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503393366.000148"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "it seems, we need to create steps of development stage. It means CI&amp;CD should be transferred to community monitored alternative. We are using Buildbot in house, but i think Travis CI would be a good candidate. Anyone knows a good tool chain for github-&gt;CI&amp;CD-&gt;builds would be cool.",
+        "ts": "1503393860.000022"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Travis CI is free for open source projects, so that would be handy.",
+        "ts": "1503393953.000238"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "we as Zetaops, can provide one server located in Germany, Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz with 65GB RAM. Two public ips, ~115GB Storage.",
+        "edited": {
+            "user": "U6PHKFTA5",
+            "ts": "1503394291.000000"
+        },
+        "ts": "1503393972.000054"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "and AFAIK <https:\/\/packagecloud.io\/> provides free hosting for open source projects",
+        "attachments": [
+            {
+                "title": "Private Maven, RPM, DEB, PyPi and RubyGem Repository | packagecloud",
+                "title_link": "https:\/\/packagecloud.io\/",
+                "text": "Free hosted Debian, RPM, Java, Python and RubyGem repositories. Chef, Puppet, Jenkins, Buildkite, CircleCI and Travis CI integrations.",
+                "fallback": "Private Maven, RPM, DEB, PyPi and RubyGem Repository | packagecloud",
+                "from_url": "https:\/\/packagecloud.io\/",
+                "service_icon": "https:\/\/packagecloud.io\/assets\/favicon-affc11671480d616aa1aebb839fee602eccd7d4b0425d88c1aa32e06353d3016.ico",
+                "service_name": "packagecloud.io",
+                "id": 1
+            }
+        ],
+        "ts": "1503393996.000004"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They do - 25Gb storage, and 250GB of bandwidth. Needs to be discussed directly (i.e. no online sign-up).",
+        "ts": "1503394107.000103"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "yes",
+        "ts": "1503394121.000396"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "also we have bintray. They have 1GB package size limit.",
+        "ts": "1503394173.000392"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "also, we can provide 1 developer with 15 hours a week. we can help with CI&amp;CD setup, automation parts.",
+        "ts": "1503394568.000153"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Messaged <http:\/\/packagecloud.io|packagecloud.io>,",
+        "ts": "1503394823.000211"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "also for anyone wondering, we are not planning to commercially support Riak in future.",
+        "ts": "1503394997.000384"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "As a community, no. As a company - I certainly am ^_^",
+        "ts": "1503395025.000031"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "yes yes :slightly_smiling_face:",
+        "ts": "1503395047.000240"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We should probably start with even more basic questions:",
+        "ts": "1503395063.000356"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "we will not give a support as a company :slightly_smiling_face:",
+        "ts": "1503395064.000156"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "- What rules will the community operate under? E.g. Apache\n- What are it's aims? E.g. Manage source code, documentation, overall direction of the project (new features), build process, installation package management.\n- Where should we be formed legally? E.g. UK\n\nOnce we agree on those, we can then move on to how to do the project aims.",
+        "ts": "1503395235.000281"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If Apache, their Incubator information is here: <http:\/\/incubator.apache.org\/>\nWhat other open source Project frameworks can people recommend?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503395410.000000"
+        },
+        "ts": "1503395396.000277"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "we should have more info about legal issues.",
+        "ts": "1503395492.000118"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes.",
+        "ts": "1503395502.000396"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "anyone?",
+        "ts": "1503395508.000278"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "ESL has experience with this, and they already suggested the Apache Foundation to me.",
+        "ts": "1503395540.000207"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "(ESL is Erlang Solutions Limited, in the UK)",
+        "ts": "1503395563.000195"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Isn’t apache where projects go to die? I know that’s a bit of a cynical view but they impose a lot of ‘management’ which I’m not sure we really need.",
+        "ts": "1503397134.000004"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "To location the UK seems to be a icky place given brexit, we all don’t know how international trade w\/ the UK will look in a year or two, ireland might be an alternative?",
+        "ts": "1503397170.000018"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That's a good point re the UK.",
+        "ts": "1503397506.000096"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Having said that, not sure it will matter that much for something like this.",
+        "ts": "1503397530.000163"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I don’t know either, but it’s something to take into account at least",
+        "ts": "1503397600.000095"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Erlang, Bet365 are in the UK, and TI Tokyo (me) has a presence there, too.",
+        "ts": "1503397608.000150"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I would imagine their support would out-weigh any other issues. Plus, we can always move :slightly_smiling_face:",
+        "ts": "1503397630.000324"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "oh yea I’ve no outright objections to the UK, just want to make sure we think about the possible consequences :wink:",
+        "ts": "1503397656.000172"
+    },
+    {
+        "user": "U6RAJPUUR",
+        "text": "<@U6RAJPUUR|sargun> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503397691.000175"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "There's a joke in there somewhere about the British not thinking about consequences.... ^_^ Oh, the joys of a Brit abroad...",
+        "ts": "1503397709.000172"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "Are we only ever going to have one planning session?",
+        "ts": "1503397742.000004"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Hah, yes there would have been, but sadly I dind’t think that far or it’d have been so much better!",
+        "ts": "1503397744.000032"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yes and then we’ll shut down and move on",
+        "ts": "1503397755.000006"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "no it’s very likely going to be a continued process ^&gt;^",
+        "ts": "1503397773.000182"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6RAJPUUR> - no - it'll be ongoing until we formalise. And even then, with ongoing revision.",
+        "ts": "1503397789.000123"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "So, will we erase our memory every time the the meeting is over?",
+        "ts": "1503397800.000361"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1503397824.000117"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "We got the zap thingies from MIB ordered already :wink:",
+        "ts": "1503397839.000202"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "you should take a pill <@U6RAJPUUR>",
+        "ts": "1503397840.000335"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "blue one actually ;_;",
+        "ts": "1503397857.000267"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "Heh.",
+        "ts": "1503397866.000259"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "<@U6PHKFTA5> I was going to ask why this is named <#C6R9UK5LZ|planning-2017-08-25> rather than just #planning.",
+        "ts": "1503397882.000134"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "not me :)",
+        "ts": "1503397896.000303"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "'Cause at the end of the meeting, I'd like to have a definitive list of objectives for the next meeting.",
+        "ts": "1503397910.000390"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Think of it as versioning, but in Slack :slightly_smiling_face:",
+        "ts": "1503397943.000069"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": ":+1:",
+        "ts": "1503397976.000356"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "I think this is a good idea.",
+        "ts": "1503397985.000017"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "<@U6RPFG5FH>, <@U6Q92JWHY> So, my experiences with the ASF have been that their processes sometimes make moving forward difficult. For example, in Mesos, when we wanted to add a new binary platform, it required a vote to ratify this. For a small team, that all worked at the same org, this wasn't very valuable.",
+        "ts": "1503398015.000181"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "With C*, it was similar, but votes, or meetings were called for other things that could have been more easily done without requiring a community vote.",
+        "ts": "1503398050.000295"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "sargun I share your concern",
+        "ts": "1503398080.000159"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We're going to be very distributed. Already in this Slack we have Japan, UK, Germany, USA. A bit of organisation is needed :slightly_smiling_face:",
+        "ts": "1503398080.000172"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Of course, going overboard is to be avoided.",
+        "ts": "1503398091.000051"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That is why I want to get as much agreed at the start as possible.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503398105.000000"
+        },
+        "ts": "1503398100.000034"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "Basically, it's great until one organization tries to pull ahead of the others",
+        "ts": "1503398111.000168"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "there will be a lot of organisation needed but too much of it can be as harmful (or worse?) then too little",
+        "ts": "1503398112.000103"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "\"a bit of organization\" needed ",
+        "ts": "1503398117.000165"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "and ASF is a bit \"heavy handed\"",
+        "ts": "1503398117.000205"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "i totally agree with <@U6RAJPUUR> and <@U6Q6G7S82> ",
+        "ts": "1503398146.000289"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "for example, build and review tools infrastructure was kind of a pain",
+        "ts": "1503398148.000285"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If we are getting funding (from companies like me, Erlang, Bet365, the NHS) we are going to need some of that.",
+        "ts": "1503398152.000238"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "I think ASF is fine",
+        "ts": "1503398153.000015"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "but, those are my issues with ASF",
+        "ts": "1503398166.000084"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The ASF framework gives us that credibility from the get-go.",
+        "ts": "1503398167.000171"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "CNCF?",
+        "ts": "1503398214.000203"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "How's CNCF",
+        "ts": "1503398218.000290"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "CNCF == Cloud Native?",
+        "ts": "1503398231.000040"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "yeah",
+        "ts": "1503398233.000245"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Sorry I’ve not caught up with all the acronymes yet :slightly_smiling_face:",
+        "ts": "1503398269.000237"
+    },
+    {
+        "type": "message",
+        "user": "U6RAJPUUR",
+        "text": "Any idea if Riak would have to become an incubating project",
+        "ts": "1503398303.000056"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "For ASF? I think we can use their framework without joining, but we'd lose the credibility of being part of a larger group.",
+        "ts": "1503398404.000234"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "I think that we are talking of 2 different thing we could be under the umbrella of ASF or CNCF and another topic is the process that we adopt",
+        "ts": "1503398408.000238"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I would hope that ESL, Erlang, Bet and it tokio would think riak is credible one way or another",
+        "ts": "1503398441.000285"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "An alternative framework is <https:\/\/rfc.zeromq.org\/spec:42\/C4\/>",
+        "ts": "1503398455.000269"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Haha!",
+        "ts": "1503398533.000047"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes - but would the NHS invest money in a project without some kind of money management process?",
+        "ts": "1503398559.000358"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I can see that, hence why I left them out of the list :stuck_out_tongue:",
+        "ts": "1503398593.000252"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1503398611.000128"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "CNCF looks good, but the requirements for entry are pretty steep. It includes a 20 minute slide presentation at a committee meeting. No idea if that is in person or online.",
+        "ts": "1503398647.000041"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We also need a committee member to sponsor us.",
+        "ts": "1503398670.000022"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "CNCF feels like a bit less byrocracy",
+        "ts": "1503399069.000114"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They basically provide resources (hosting, etc...) and let you run the project however you want. Of course, they also only provide the resources if they approve of how you run the project!",
+        "ts": "1503399129.000018"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "My main worry with a large foundation is that it will hurt individual contributions, larger companies will have a easier time but John and Jenny who are excited and add a little thing here and there will most likely get scared of by lots of process and procedure.",
+        "ts": "1503399344.000125"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "My thought is mainly that a lighter process, will encourage a wider more diverse set of contributors instead of mostly companies contributing. Now I don’t know what’s right or wrong as an approach but to me that feels more appealing.",
+        "ts": "1503399740.000174"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Although developers are the lifeblood behind projects like this, might be worth thinking about the end users. Commercially, I have a use for Riak - as a solid, reliable, well coded key value store that will tolerate a fair amount of failure without losing data even though it does require a handful of servers to run successfully. As a private individual, I have next to no use for something like this in my home. I do not have hordes of servers nor do I have terabytes of data that must be live 24\/7.\n\nFrom the above, I would guess that corporate would be our customer target and as such we need enough organisation (rules and rigmarole) in place to look and sound professional.\n\nAs a coder, for stuff I do at home, I like to tinker with stuff and am ok when I have to spend a few hours trying to debug a random race condition caused by a hiccup 5 commits ago because the trigger factor is rare. For stuff at work, I'd think about switching to a better coded platform.",
+        "ts": "1503413744.000065"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "That is however less a community project and more a foundation",
+        "ts": "1503415803.000311"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "It is very little different then how basho ran riak towards the end just with a new flag",
+        "ts": "1503415832.000654"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "catching the writings now, there should be a balance between power and coding. we should have an eco system and we should carefully think about what is the aim of involving parties. to me, there shouldn't be any rank to manage things from upstairs. i'd like to see a flat organization as much as possible.",
+        "ts": "1503422050.000155"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "kunthar agreed balancing things is going to be the hardest part I think, not only on power vs coding but also on accessability (to contribute) and quality.",
+        "ts": "1503422587.000120"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "also, there are several different multi dimensional layers we should take in to account; 1. as my company does, we are consumers of riak goodness, on the other hand 2. there are high level developers enhancing the codebase. 3. on the other side there are professional companies giving support to other professional companies. 4. there are *legal issues which we are not aware yet*, how to affect our efforts.  5. we are going to need \"some\" resources and i believe this is the most basic part of this puzzle. my final words; i want high level devs continue to code in peace without any interruption. i am ready to take the low level duties to carry on the work. i do not want to see any kind of authority trying to bend our efforts for it's own benefit.",
+        "ts": "1503422790.000307",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6Q6G7S82",
+                    "U6R6ETJU8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "it would be great if someone else enlighten us about these legal issues with basho. i mean what about ownership of the code? what happens if we use the TM names of basho, riak, etc.?",
+        "edited": {
+            "user": "U6PHKFTA5",
+            "ts": "1503429101.000000"
+        },
+        "ts": "1503422872.000150"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I got no idea",
+        "ts": "1503422900.000580"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think forking riak is fine fiven it’s under the APL and no one can take that “Back” for existing code but what do they tend to say IANAL",
+        "ts": "1503422930.000468"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Donating the code to the ASF I imagine would be legally a lot more difficult as basho ‘owns’ it and I don’t see how we can domante something we don’t own",
+        "ts": "1503423031.000355"
+    },
+    {
+        "user": "U6Q8M8ZHB",
+        "text": "<@U6Q8M8ZHB|dbyron> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503423877.000203"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "i think it is public. anyone can join.",
+        "ts": "1503423971.000161"
+    },
+    {
+        "user": "U6R6ETJU8",
+        "text": "<@U6R6ETJU8|russelldb> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503423982.000499"
+    },
+    {
+        "user": "U6SUK860N",
+        "text": "<@U6SUK860N|smarg> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503424743.000041"
+    },
+    {
+        "user": "U6RB9A0NM",
+        "text": "<@U6RB9A0NM|greg_fat> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503424892.000520"
+    },
+    {
+        "user": "U6S6GS3EY",
+        "text": "<@U6S6GS3EY|edhiley> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503426032.000550"
+    },
+    {
+        "user": "U6S4RDVEE",
+        "text": "<@U6S4RDVEE|deadzen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503426122.000426"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "Hello",
+        "ts": "1503426226.000418"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "hello deadzen",
+        "ts": "1503428125.000560"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "how goes it",
+        "ts": "1503428544.000403"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "trying to figure out how things is divided and will be, in this concurrent, but monolithic single minded profit world.",
+        "edited": {
+            "user": "U6PHKFTA5",
+            "ts": "1503428831.000000"
+        },
+        "ts": "1503428804.000268"
+    },
+    {
+        "user": "U6RHSFM4Y",
+        "text": "<@U6RHSFM4Y|mranney> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503441935.000018"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> - no, we can't donate the Enterprise Edition code as none of us own it. Even distributing it is illegal. The current owners are selling it as we speak, so we just have to wait to find out what is going on with that. The open source code is free for anyone to use and modify, and that is the only thing we can use for this project unless the new owners of the Enterprise Edition code make it open source.",
+        "ts": "1503467628.000065"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6PHKFTA5> There does need to be a central authority for approving changes or Riak will fragment. Changes outside of that authority can, and will, happen, but there needs to be a single official version for companies to risk spending a considerable amount of time and resources in implementing Riak - and without the support of companies this project will die. As <@U6QC6EQH2> said, this is not a home-use project!",
+        "ts": "1503468550.000099"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "In this case, I think we need the following groups:\n\n- Development Group\n- Code Approval Group\n- Project Direction Group\n- Admin Group\n\nTheir functions would be\n\nDevelopment Group\n*What*: actually write code\/scripts\/tests. \n*Who*: open to anyone\n*Support*: the central support services provided by the Admin Group.\n Sanity checks of the results would be provided by the Code Approval Group. The list of features would be provided by the Project Direction Group.\n*Notes*: anyone can work on their own forks before saying to the Code Approval Group \"I've got someone good I want to include\". They would deal with bug fixes, and how new features are implemented.\n\nCode Approval Group\n*What*: approves code merges into the 'official' versions.\n*Who*: a small group (5-10 max) of high-level developers.\n*Support*: the central support services provided by the Admin Group.\n Overall guidance of what the features need to accomplish would be provided by the Project Direction Group. All submitted code would come from the Development Group.\n*Notes*: They check the bug fixes\/features meet the code quality standards and do what they are intended to do. They manage the code in GitHub and the creation of new builds. They can add any feature\/fix they want to the official releases so long as it's quality meets their requirements.\n\n\n\nProject Direction Group\n*What*: defines what new features are desired\/wanted.\n*Who*: this would have technical reps developers and the companies using Riak. \n*Support*: the central support services provided by the Admin Group.\n*Notes*: They would be the ones to say \"we really need a multi-datacentre replication solution for Riak\". Anyone from anywhere can suggest a new feature to them, join in the discussions, etc... Features would be prioritised for the Development Group to deal with, but if someone wants to develop a low-priority feature there should be nothing to stop that.\n\n\nAdmin Group \n*What*: handles the admin side of things, and provides common resources for other groups.\n*Who*: anyone who wants to.\n*Support*: information from the other Groups.\n*Notes*: They would deal with things like donations, resources, sponsors, project promotion, etc. This would include things like Riak promotion material, public websites, ensuring payments for things occurred, managing the money, and anything else required for the other Groups to work. They would provide a group of central support services (like Slack, GitHub, mailing lists, documentation).",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503469805.000000"
+        },
+        "ts": "1503469430.000010"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Thoughts?",
+        "ts": "1503469821.000148"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "that sounds surprisingly logical! I could live with a setup like that. Only question would be how do we approve \"high level developers\"?",
+        "ts": "1503470177.000167"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "we are not using Riak at our homes too. i have to say that,  i am not against bsd style commitee to manage technical aspects and centrally redirect duties.",
+        "ts": "1503470312.000031"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "while i was writing <@U6Q92JWHY> came up with a good plan :slightly_smiling_face:",
+        "ts": "1503470334.000233"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1503470376.000148"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6QC6EQH2> - good question. I'd imagine that we'd start with a group developers who say here \"hey, I can help with that\" and see how it goes. I'd imagine that we'd have to come up with some method of removing or adding people, but I'd hope most that would be done by the Groups internally.",
+        "ts": "1503470468.000038"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. developers picking developers.",
+        "ts": "1503470474.000386"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "fair enough",
+        "ts": "1503470490.000009"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'd imagine a vote of the Developers Group members to choose Code Approval members.",
+        "ts": "1503470504.000077"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "we can discuss about base separation of duties. but generally this setup is fair enough. we should have a major principle that everyone should act equally as much as possible.",
+        "ts": "1503470655.000225"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "<https:\/\/www.freebsd.org\/administration.html>",
+        "ts": "1503470752.000071"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "we could inspire of them?",
+        "ts": "1503470773.000147"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Handy link!",
+        "ts": "1503470811.000018"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'll have a read.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503470818.000000"
+        },
+        "ts": "1503470814.000070"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "of course they are managing a quite huge OS project. lots of departments are useless for us.",
+        "ts": "1503470847.000078"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes - I'd imagine that we'd merge a lot of those listed!",
+        "ts": "1503470873.000288"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "i am still thinking about admin group should be divided to small,  one duty clans like \"donations team\" etc.",
+        "edited": {
+            "user": "U6PHKFTA5",
+            "ts": "1503470927.000000"
+        },
+        "ts": "1503470912.000065"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "vendor relations for example is a very good idea :slightly_smiling_face: i believe esl and you would handle this <@U6Q92JWHY>?",
+        "ts": "1503471012.000012"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I think a lot of their services would go hand-in-hand. Some, like donations, money management and spending, are clearly linked. Same with promotion and public websites. And again for more technical things like managing common servers and services.",
+        "ts": "1503471018.000013"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "this is what i imagine actually. getting an exact picture of the work and divide to manage effectively.",
+        "ts": "1503471057.000015"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "ESL did a really good job of taking our (TI Tokyo) Riak Support material and making it look really nice.",
+        "ts": "1503471062.000018"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They are also very active in Erlang, and have a great sales team to promote Riak.",
+        "ts": "1503471106.000108"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I've invited them to join this Slack, and there is already one member here.",
+        "ts": "1503471135.000057"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "i am wondering is there anyone in contact with the first engineering team of basho. For example Justin Sheehy.",
+        "ts": "1503471231.000163"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Probably!",
+        "ts": "1503471287.000123"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "it would be great to see people, whom they had to quit the code because of some reason. i believe they would add great value to Riak itself. correct me if am wrong.",
+        "ts": "1503471434.000249"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Nope - very much spot on.",
+        "ts": "1503471539.000002"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "As a more-broken-down list of Groups, how's this:\n\n- Development Group\n    - Riak Core\n    - Riak KV\n    - Riak CS\n    - Riak TS\n    - Riak Client Tools\n- Release Management Group\n    - Code Approval Group\n    - Testing Group\n    - Build Group\n- Project Direction Group\n- Admin Group\n    - Company Engagement Group (Riak promotion, public websites, etc...)\n    - Finance Group (Handling donations, payments, subscriptions, etc...)\n    - Services Group (running common services like FTP, web, CI\/CD servers, email and mailing list provision, etc...)",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503471617.000000"
+        },
+        "ts": "1503471596.000155"
+    }
+]

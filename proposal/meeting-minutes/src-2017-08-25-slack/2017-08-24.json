@@ -1,0 +1,16 @@
+[
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "you can't prevent the need for AAE imo",
+        "ts": "1503561328.000021"
+    },
+    {
+        "user": "U6TA2DSRK",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6TA2DSRK|steve_erlang> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503589483.000281"
+    }
+]

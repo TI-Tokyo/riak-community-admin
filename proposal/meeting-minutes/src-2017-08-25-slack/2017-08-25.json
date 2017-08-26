@@ -1,0 +1,3768 @@
+[
+    {
+        "user": "U6SGRGW4V",
+        "text": "<@U6SGRGW4V|alejandro.ramallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503652887.000200"
+    },
+    {
+        "user": "U6TTP7EUV",
+        "text": "<@U6TTP7EUV|daniel.b.garcia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503674581.000336"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "so with the time for coming together approaching, where should we sit? I can set up a zoom meeting (which is quite nice and has both phone and client call in)",
+        "ts": "1503676744.000221"
+    },
+    {
+        "text": "looks over at his busted teleporter",
+        "type": "message",
+        "subtype": "me_message",
+        "user": "U6S4RDVEE",
+        "ts": "1503677579.000380"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I wouldn't suggest requiring software installs for the meeting!",
+        "ts": "1503677624.000342"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "what time is it exactly and whats on the agenda?",
+        "ts": "1503677631.000423"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "17:30 BST start.",
+        "ts": "1503677645.000234"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Which is in 16 minutes.",
+        "ts": "1503677649.000535"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The agenda is:\n1. Introductions.\n2. Discussion of proposal documents.\n3. Discussion of any other issues.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503677690.000000"
+        },
+        "ts": "1503677668.000040"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "good, the one gordon made?",
+        "ts": "1503677687.000233"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No - the one that was discussed here earlier in the week.",
+        "ts": "1503677702.000323"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I've increased the detail level a bit.",
+        "ts": "1503677729.000216"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "is there a link for it?",
+        "ts": "1503677729.000418"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Just throwing it through a last-minute spell-check :slightly_smiling_face:",
+        "ts": "1503677746.000150"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I can help",
+        "ts": "1503677772.000564"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "if only I could code as fast as I spot typos heh",
+        "ts": "1503677790.000255"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6Q92JWHY|peterclark> uploaded a file: <https:\/\/postriak.slack.com\/files\/peterclark\/F6TVB0B29\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf|Riak Community Proposal - 2017-08-25 - v0.1.pdf>",
+        "file": {
+            "id": "F6TVB0B29",
+            "created": 1503677813,
+            "timestamp": 1503677813,
+            "name": "Riak Community Proposal - 2017-08-25 - v0.1.pdf",
+            "title": "Riak Community Proposal - 2017-08-25 - v0.1.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U6Q92JWHY",
+            "editable": false,
+            "size": 522134,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6TVB0B29\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6TVB0B29\/download\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6TVB0B29-3666835013\/riak_community_proposal_-_2017-08-25_-_v0.1_thumb_pdf.png?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_pdf_w": 935,
+            "thumb_pdf_h": 1210,
+            "permalink": "https:\/\/postriak.slack.com\/files\/peterclark\/F6TVB0B29\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T6PE2GNC8-F6TVB0B29-78b972cd42",
+            "channels": [
+                "C6R9UK5LZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U6Q92JWHY",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "peterclark",
+        "bot_id": null,
+        "ts": "1503677814.000503"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I took Gordon's one, my one and the feedback from people here.",
+        "ts": "1503677818.000373"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "no doubt",
+        "ts": "1503677832.000451"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I fully expect this to get torn to shred's, by the way.",
+        "ts": "1503677848.000138"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I like your confidence, I am the kind to shred things down to 4-5 things",
+        "ts": "1503677899.000230"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Well, the idea is for the best idea to win :slightly_smiling_face:",
+        "ts": "1503677915.000116"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "In this, I have no ego, fear not!",
+        "ts": "1503677924.000050"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "let's start with that, what is the idea?",
+        "ts": "1503677930.000199"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Well:\n\n```6.\tAims\nThe aim of this project is to provide:\n\tA canonical open source version of source code for Riak.\n\tTested installation packages of Riak for supported OSs.\n\tCanonical documentation on how to use Riak.\n\tProduct information on when and why to use Riak.\n\tA public and easily understood minimalist structure. \n```",
+        "ts": "1503677996.000296"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "if we have a unified idea like russell was saying, I think that would lend a lot to a shared focus and productivity",
+        "ts": "1503678012.000167"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes - liked the idea of a project ethos. Just not sure what that would be! I'm hoping he will elaborate.",
+        "ts": "1503678049.000447"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "It's basically those kind of aims like you listed, distilled into one overarching principle",
+        "ts": "1503678081.000448"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "This document is more how I think we should go about the project, not the details of what should be built.",
+        "ts": "1503678085.000253"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I tend to go with Bill &amp; Ted: \"Be excellent to each other. And, party on, dude.\"",
+        "ts": "1503678127.000154"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark do you have a prefered meeting platform? If not I’ll just make a zoom thingy. We should start setting it up to give people time to prepare before the clock ticks 30",
+        "ts": "1503678185.000302"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "What does Zoom give us that Slack does not?",
+        "ts": "1503678217.000167"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Oh, right. We can’t do audio on this Slack",
+        "ts": "1503678217.000378"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Can we?",
+        "ts": "1503678223.000242"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I thought that was Pro only",
+        "ts": "1503678231.000362"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "does slack have voice thingies?",
+        "ts": "1503678242.000593"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I think you have to pay to get that.",
+        "ts": "1503678244.000112"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes.",
+        "ts": "1503678247.000291"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "oh I dind’t know that",
+        "ts": "1503678251.000173"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it says “only payed teams” :disappointed:",
+        "ts": "1503678262.000032"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark I’ve no special love for zoom :stuck_out_tongue: It’s just all I know",
+        "ts": "1503678276.000536"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Plus if we do audio, we’ll need to record it",
+        "ts": "1503678296.000279"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Not insurmountable",
+        "ts": "1503678316.000157"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Not to mention the fun of having a bunch of new people who don't know each other's voices on a conference call.",
+        "ts": "1503678332.000103"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "And it will need to be preserved here, or we’ll lose it in the 10k message limit",
+        "ts": "1503678354.000252"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I find text a lot harder to keep track of in a converstation but I will cope then :wink:",
+        "ts": "1503678354.000454"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So do I, but I think it's probably the best solution so far.",
+        "ts": "1503678394.000216"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We should make extensive use of threads, I think!",
+        "ts": "1503678431.000112"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "How does that work?",
+        "ts": "1503678440.000381"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Please keep in mind not everyone is a slack expert",
+        "ts": "1503678449.000096"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Click \"start a thread\" on the right of the message.",
+        "thread_ts": "1503678464.000024",
+        "reply_count": 9,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503678476.000050"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503678509.000253"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503678518.000537"
+            },
+            {
+                "user": "U6SUK860N",
+                "ts": "1503678521.000263"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503678527.000064"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503678538.000094"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503678549.000094"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503678553.000033"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503678563.000013"
+            }
+        ],
+        "unread_count": 9,
+        "ts": "1503678464.000024"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So this would be a reply in the thread.",
+        "thread_ts": "1503678464.000024",
+        "parent_user_id": "U6Q92JWHY",
+        "ts": "1503678476.000050"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "When you finish the thread, you send the result back to the main window.",
+        "ts": "1503678500.000494"
+    },
+    {
+        "text": "So this is the conclusion.",
+        "thread_ts": "1503678464.000024",
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "U6Q92JWHY",
+        "root": {
+            "type": "message",
+            "user": "U6Q92JWHY",
+            "text": "Click \"start a thread\" on the right of the message.",
+            "thread_ts": "1503678464.000024",
+            "reply_count": 9,
+            "replies": [
+                {
+                    "user": "U6Q92JWHY",
+                    "ts": "1503678476.000050"
+                },
+                {
+                    "user": "U6Q92JWHY",
+                    "ts": "1503678509.000253"
+                },
+                {
+                    "user": "U6Q6G7S82",
+                    "ts": "1503678518.000537"
+                },
+                {
+                    "user": "U6SUK860N",
+                    "ts": "1503678521.000263"
+                },
+                {
+                    "user": "U6Q92JWHY",
+                    "ts": "1503678527.000064"
+                },
+                {
+                    "user": "U6Q6G7S82",
+                    "ts": "1503678538.000094"
+                },
+                {
+                    "user": "U6Q92JWHY",
+                    "ts": "1503678549.000094"
+                },
+                {
+                    "user": "U6Q92JWHY",
+                    "ts": "1503678553.000033"
+                },
+                {
+                    "user": "U6Q6G7S82",
+                    "ts": "1503678563.000013"
+                }
+            ],
+            "unread_count": 9,
+            "ts": "1503678464.000024"
+        },
+        "ts": "1503678509.000253"
+    },
+    {
+        "timestamp": "1503678509000253",
+        "is_multiteam": false,
+        "slog_is_shared": "0",
+        "slog_is_mpdm": "0",
+        "slog_is_slackbot_dm": false,
+        "slog_is_self_dm": false,
+        "is_thread_broadcast": true,
+        "plain_text": "So this is the conclusion.",
+        "new_broadcast": true,
+        "attachments": [
+            {
+                "from_url": "https:\/\/postriak.slack.com\/archives\/C6R9UK5LZ\/p1503678464000024",
+                "fallback": "[August 25th, 2017 9:27 AM] peterclark: Click \"start a thread\" on the right of the message.",
+                "ts": "1503678464.000024",
+                "author_subname": "peterclark",
+                "channel_id": "C6R9UK5LZ",
+                "channel_name": "planning-2017-08-25",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Click \"start a thread\" on the right of the message.",
+                "author_name": "Peter Clark",
+                "author_link": "https:\/\/postriak.slack.com\/team\/peterclark",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-08-18\/228371050276_a17fd2340757b9be054a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "2 replies"
+            },
+            {
+                "fallback": "So this is the conclusion.",
+                "author_name": "Peter Clark",
+                "author_subname": "peterclark",
+                "text": "So this is the conclusion.",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/postriak.slack.com\/team\/peterclark",
+                "from_url": "https:\/\/postriak.slack.com\/archives\/C6R9UK5LZ\/p1503678509000253?thread_ts=1503678464000024&cid=C6R9UK5LZ",
+                "ts": "1503678509.000253",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-08-18\/228371050276_a17fd2340757b9be054a_48.jpg",
+                "id": 2
+            }
+        ],
+        "text": "",
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U6Q92JWHY",
+        "ts": "1503678509.000309"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "can we have cake?",
+        "thread_ts": "1503678464.000024",
+        "parent_user_id": "U6Q92JWHY",
+        "ts": "1503678518.000537"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "No",
+        "thread_ts": "1503678464.000024",
+        "parent_user_id": "U6Q92JWHY",
+        "ts": "1503678521.000263"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The cake is a lie.",
+        "thread_ts": "1503678464.000024",
+        "parent_user_id": "U6Q92JWHY",
+        "ts": "1503678527.000064"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I beg to differ, the cake is real!",
+        "thread_ts": "1503678464.000024",
+        "parent_user_id": "U6Q92JWHY",
+        "ts": "1503678538.000094"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6SUK860N> I can bring a chat bot in",
+        "ts": "1503678544.000591"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The lie was that the cake was a lie?",
+        "thread_ts": "1503678464.000024",
+        "parent_user_id": "U6Q92JWHY",
+        "ts": "1503678549.000094"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I loved that game.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503678555.000000"
+        },
+        "thread_ts": "1503678464.000024",
+        "parent_user_id": "U6Q92JWHY",
+        "ts": "1503678553.000033"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I have prove",
+        "thread_ts": "1503678464.000024",
+        "parent_user_id": "U6Q92JWHY",
+        "ts": "1503678563.000013"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6Q92JWHY> do you have any experience to basho's internal command structure?",
+        "ts": "1503678572.000090"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Works for me",
+        "ts": "1503678572.000632"
+    },
+    {
+        "user": "U6SFU2VFW",
+        "text": "<@U6SFU2VFW|azhar.nisar_nhs> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503678578.000643"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "hey <@U6SFU2VFW>",
+        "ts": "1503678586.000163"
+    },
+    {
+        "type": "message",
+        "user": "U6SFU2VFW",
+        "text": "hi Russell",
+        "ts": "1503678592.000439"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Pretty much none. <@U6SUK860N> might, and <@U6QC6EQH2> might (ex employees).",
+        "ts": "1503678593.000445"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "As would <@U6R6ETJU8> :slightly_smiling_face:",
+        "ts": "1503678606.000635"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Russell probably knows way more",
+        "ts": "1503678617.000307"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "I was quite sidelined at the end there <@U6SUK860N>",
+        "ts": "1503678629.000375"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I don't want to get anyone in breach, but it would be helpful to have something in concordance with what was normal in branch management and testing",
+        "ts": "1503678631.000062"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Yes…",
+        "ts": "1503678636.000180"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "at basho (when things were working)",
+        "ts": "1503678646.000409"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That is probably way too detailed at this point in time,",
+        "ts": "1503678649.000382"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "agree <@U6Q92JWHY>",
+        "ts": "1503678666.000077"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "At the moment we should be working out overall structure, and breaking down into smaller groups for discussion on areas.",
+        "ts": "1503678676.000274"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6Q92JWHY> no doubt",
+        "ts": "1503678700.000136"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Also not sure Basho’s methods made sense for Basho, let alone a loose collective of devs",
+        "ts": "1503678707.000373",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6R6ETJU8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "and then maybe switch the groups around, let the best ideas win",
+        "ts": "1503678712.000534"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1503678713.000412"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Sounds good to me.",
+        "ts": "1503678722.000648"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK- past 17:30 BST - shall we get going?",
+        "ts": "1503678734.000641",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82",
+                    "U6RPFG5FH",
+                    "U6S4RDVEE",
+                    "U6SF36D37"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I was referring less to culture and more to the state of the testing and packaging systems",
+        "ts": "1503678742.000694"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "please",
+        "ts": "1503678768.000174"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "AGENDA\n\n1. Introductions.\n2. Discussion of proposal documents.\n3. Discussion of any other issues.",
+        "ts": "1503678792.000301"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U6Q92JWHY",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[August 25th, 2017 9:33 AM] peterclark: AGENDA\n\n1. Introductions.\n2. Discussion of proposal documents.\n3. Discussion of any other issues.",
+                "ts": "1503678792.000301",
+                "author_subname": "peterclark",
+                "channel_id": "C6R9UK5LZ",
+                "channel_name": "planning-2017-08-25",
+                "is_msg_unfurl": true,
+                "text": "AGENDA\n\n1. Introductions.\n2. Discussion of proposal documents.\n3. Discussion of any other issues.",
+                "author_name": "Peter Clark",
+                "author_link": "https:\/\/postriak.slack.com\/team\/peterclark",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-08-18\/228371050276_a17fd2340757b9be054a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U6Q92JWHY|peterclark> pinned a message to this channel.",
+        "ts": "1503678802.000032"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Anyone who wants to introduce themselves, go ahead now.",
+        "ts": "1503678820.000285"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "customary that you start :wink:",
+        "thread_ts": "1503678837.000308",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503678880.000247"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1503678837.000308"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'm Peter Clark, of TI Tokyo in Japan. My company provides enterprise-grade worldwide support to Riak end-users.",
+        "ts": "1503678848.000279"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The nice thing about text is that we can all type at once for common questions like that.",
+        "thread_ts": "1503678837.000308",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503678880.000247"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "Mark Allen, formerly of Basho, currently of Alert Logic. Alert Logic had a support contract w\/ Basho.",
+        "ts": "1503678894.000059",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U6Q92JWHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "We use Riak rather extensively",
+        "ts": "1503678905.000546"
+    },
+    {
+        "type": "message",
+        "user": "U6RSL1K16",
+        "text": "I'm Stuart Whitfield, Erlang Solutions CEO. We do anything and everything connected to the Erlang ecosystem. We've been a Risk reseller\/support provider\/consultancy from the early days",
+        "ts": "1503678923.000479"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "(we could start a thread so we can sidebar)",
+        "ts": "1503678955.000463"
+    },
+    {
+        "type": "message",
+        "user": "U6SFU2VFW",
+        "text": "Azhar Nisar, Tech Lead,  NHS Digital, England, we use Riak as backend product for NHS Spine",
+        "ts": "1503678957.000465"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Heinz Gies, I run Project-FiFo and a the database and cloud orchestration I build based on riak_core (no riak itself however). I also currently maintain the riak_core(_ng) package in hex.",
+        "ts": "1503678965.000573"
+    },
+    {
+        "type": "message",
+        "user": "U6TA2DSRK",
+        "text": "I'm Steve Roberts from Erlang Solutions. We were\/are a Riak distibutor and we have customers still on Riak so want to ensure it has a future.",
+        "ts": "1503678967.000104"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "Russell Brown, formerly of Basho, currently selling my Riak skills\/knowledge and developing Riak to\/for the NHS",
+        "ts": "1503678973.000547"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Bill Smargiassi, former Basho CSE, currently working with TI Tokyo",
+        "ts": "1503678985.000147"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Anyone else?",
+        "ts": "1503679085.000161"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Hi to all, I'm Gianluca Padovani from Italy. I have a small company in Italy Coders51 and we are developing in Erlang\/Elixir I'm very interested in riak technologies and I would contribute as a developer ",
+        "ts": "1503679089.000297"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "no one from bet365?",
+        "ts": "1503679127.000310"
+    },
+    {
+        "type": "message",
+        "user": "U6RSL1K16",
+        "text": "I thought b365 were joining",
+        "ts": "1503679174.000257"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Would have been handy, but we can always forward them the results by email. This is just the first step in the process!",
+        "ts": "1503679216.000023"
+    },
+    {
+        "type": "message",
+        "user": "U6RSL1K16",
+        "text": "We are seeing them shortly to get their thoughts on a range of topics around this so it would be good to have a consolidated community view (incomplete and ad hoc as it will be initially) on what's important and I'll happily discuss with them",
+        "ts": "1503679262.000406"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Great.",
+        "ts": "1503679274.000484"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "Pedram Nimreezi, CTO for a social network and bank in Miami. I consult through my firm ZEN (Zen Enterprise Networks), I teach Wing Chun Kung Fu most nights and am involved with Code for America (Miami and Fort Lauderdale).",
+        "ts": "1503679320.000249"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - I think that's all the introduction's we're going to get.",
+        "ts": "1503679338.000010"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The idea of this first meeting was to look at the overall structure of the community project.",
+        "ts": "1503679367.000005"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "To that end, I have put together a starter document.",
+        "ts": "1503679377.000395"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I expect it to be torn apart and reworked :slightly_smiling_face:",
+        "ts": "1503679391.000252"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6Q92JWHY|peterclark> uploaded a file: <https:\/\/postriak.slack.com\/files\/peterclark\/F6TA4T42D\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf|Riak Community Proposal - 2017-08-25 - v0.1.pdf>",
+        "file": {
+            "id": "F6TA4T42D",
+            "created": 1503679404,
+            "timestamp": 1503679404,
+            "name": "Riak Community Proposal - 2017-08-25 - v0.1.pdf",
+            "title": "Riak Community Proposal - 2017-08-25 - v0.1.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U6Q92JWHY",
+            "editable": false,
+            "size": 522134,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6TA4T42D\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6TA4T42D\/download\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6TA4T42D-b6ac3e1566\/riak_community_proposal_-_2017-08-25_-_v0.1_thumb_pdf.png?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_pdf_w": 935,
+            "thumb_pdf_h": 1210,
+            "permalink": "https:\/\/postriak.slack.com\/files\/peterclark\/F6TA4T42D\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T6PE2GNC8-F6TA4T42D-043708d30b",
+            "channels": [
+                "C6R9UK5LZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1
+        },
+        "user": "U6Q92JWHY",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "peterclark",
+        "bot_id": null,
+        "ts": "1503679406.000148"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U6Q6G7S82|heinz> commented on <@U6Q92JWHY|peterclark>’s file <https:\/\/postriak.slack.com\/files\/peterclark\/F6TA4T42D\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf|Riak Community Proposal - 2017-08-25 - v0.1.pdf>: any changes from the document you linked earlyer?",
+        "file": {
+            "id": "F6TA4T42D",
+            "created": 1503679404,
+            "timestamp": 1503679404,
+            "name": "Riak Community Proposal - 2017-08-25 - v0.1.pdf",
+            "title": "Riak Community Proposal - 2017-08-25 - v0.1.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U6Q92JWHY",
+            "editable": false,
+            "size": 522134,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6TA4T42D\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6TA4T42D\/download\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6TA4T42D-b6ac3e1566\/riak_community_proposal_-_2017-08-25_-_v0.1_thumb_pdf.png?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_pdf_w": 935,
+            "thumb_pdf_h": 1210,
+            "permalink": "https:\/\/postriak.slack.com\/files\/peterclark\/F6TA4T42D\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T6PE2GNC8-F6TA4T42D-043708d30b",
+            "channels": [
+                "C6R9UK5LZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1
+        },
+        "comment": {
+            "id": "Fc6UNKUHAA",
+            "created": 1503679420,
+            "timestamp": 1503679420,
+            "user": "U6Q6G7S82",
+            "is_intro": false,
+            "comment": "any changes from the document you linked earlyer?"
+        },
+        "is_intro": false,
+        "ts": "1503679420.000426"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No.",
+        "ts": "1503679452.000410"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "kk",
+        "ts": "1503679455.000398"
+    },
+    {
+        "text": "looks",
+        "type": "message",
+        "subtype": "me_message",
+        "user": "U6S4RDVEE",
+        "ts": "1503679470.000116"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6Q92JWHY> Should we start separate threads for changes? Such as:",
+        "edited": {
+            "user": "U6S4RDVEE",
+            "ts": "1503679568.000000"
+        },
+        "ts": "1503679538.000491"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "Typos",
+        "thread_ts": "1503679569.000118",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U6S4RDVEE",
+                "ts": "1503679596.000458"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503679639.000384"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1503679569.000118",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I recon just start at section 1 and work down.",
+        "ts": "1503679587.000393"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "has announced they intend to all Basho",
+        "thread_ts": "1503679569.000118",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503679596.000458"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Thanks - fixed.",
+        "thread_ts": "1503679569.000118",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503679639.000384"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6Q92JWHY> can we add Riak Core?",
+        "ts": "1503679670.000482"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It's already in there.",
+        "ts": "1503679679.000307"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Questions",
+        "ts": "1503679690.000545"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "scanned it, not really able to read that fast and process it. I'm pretty slow. Like I might have opinions by Monday",
+        "ts": "1503679696.000520"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "<@U6Q92JWHY> is that document available anywhere but in slack?",
+        "ts": "1503679709.000053"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Just spotted a formatting error in section 8.",
+        "ts": "1503679728.000439"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Not at the moment, but I can make it so.",
+        "ts": "1503679738.000398"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6Q92JWHY|peterclark> uploaded a file: <https:\/\/postriak.slack.com\/files\/peterclark\/F6U0FEFKP\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf|Riak Community Proposal - 2017-08-25 - v0.1.1.pdf>",
+        "file": {
+            "id": "F6U0FEFKP",
+            "created": 1503679773,
+            "timestamp": 1503679773,
+            "name": "Riak Community Proposal - 2017-08-25 - v0.1.pdf",
+            "title": "Riak Community Proposal - 2017-08-25 - v0.1.1.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U6Q92JWHY",
+            "editable": false,
+            "size": 522134,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": true,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6U0FEFKP\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6U0FEFKP\/download\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6U0FEFKP-a530afbddd\/riak_community_proposal_-_2017-08-25_-_v0.1_thumb_pdf.png?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_pdf_w": 935,
+            "thumb_pdf_h": 1210,
+            "permalink": "https:\/\/postriak.slack.com\/files\/peterclark\/F6U0FEFKP\/riak_community_proposal_-_2017-08-25_-_v0.1.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T6PE2GNC8-F6U0FEFKP-b5db1a9fcd",
+            "channels": [
+                "C6R9UK5LZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U6Q92JWHY",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "peterclark",
+        "bot_id": null,
+        "ts": "1503679774.000429"
+    },
+    {
+        "type": "message",
+        "user": "U6RSL1K16",
+        "text": "It's probably easier to collaborate on changes\/suggestions etc as a Googledoc or similar (unless that can happen through slack)",
+        "ts": "1503679781.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6RPFG5FH",
+                    "U6Q6G7S82",
+                    "U6R6ETJU8",
+                    "U6SUK860N"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6RSL1K16> agreed",
+        "ts": "1503679796.000365"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark election for the release team membership does not cover the case that an (possible) electee does not want the position",
+        "ts": "1503679814.000287"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Valid point!",
+        "ts": "1503679834.000088"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Not considered that.",
+        "ts": "1503679842.000089"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "N eyes see more then M eyes if N &gt; M",
+        "ts": "1503679870.000008"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Added to 9.2.2 Membership:\n`\tCandidates have to accept the nomination.`",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503679908.000000"
+        },
+        "thread_ts": "1503679882.000165",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503679920.000166"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1503679882.000165",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "prevents unnecessary votes if the nominee doesn’t want it in the first place.",
+        "thread_ts": "1503679882.000165",
+        "parent_user_id": "U6Q92JWHY",
+        "ts": "1503679920.000166",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "9.2.8. `Check the tests are passed by the code.` seems redundant, I hope we’ll have a CI system if code doesn’t pass the tests it should never leave the development team.",
+        "ts": "1503680021.000118"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So would I.",
+        "ts": "1503680031.000535"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But I like double checks :slightly_smiling_face:",
+        "ts": "1503680039.000389"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "I'm Bryan Hunt - former Basho support\/solutions architect - spent a year at bet365 on contract after leaving Basho - Elixir enthusiast - lots of Riak problem solving\/client exposure. Product has loads of potential - I'd love to stay involved. ",
+        "ts": "1503680043.000319",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "I'm +1 on the aims section",
+        "ts": "1503680052.000209",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY",
+                    "U6Q6G7S82",
+                    "U6S4RDVEE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6RSL1K16",
+        "text": "I'd also like to identify and contact the major enterprise users who, arguably, have the biggest commercial interest in this project and contact them to ensure active participation (or a firm 'no, we don't want to participate'). We know who they are and now we have at least some more certainty re IPR we can contact them all. Getting them on board now will mean a better outcome and potentially greater resources to ensure the community can deliver on its plans for Riak. This will be an OSS project but will need some commercial funding too",
+        "thread_ts": "1503680063.000176",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6R6ETJU8",
+                "ts": "1503680294.000694"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1503680063.000176",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6R6ETJU8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Welcome <@U6T3BQN2V>.",
+        "ts": "1503680094.000066"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Stuart - good idea.",
+        "ts": "1503680107.000204"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "More people involved the better. And the more commercial support, the better the resources we can devote.",
+        "ts": "1503680125.000020"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6RSL1K16> and the customers who walked away cause the contract wasn't very opensource friendly",
+        "ts": "1503680127.000352"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "9.2.* Who is responsible to test that builds actually function as documented, as the build is at the very end that seems to fall off the cliff a bit (been tehre once too often myself :P)",
+        "ts": "1503680131.000174"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I had thought that would be part of the build team.",
+        "ts": "1503680169.000550"
+    },
+    {
+        "type": "message",
+        "user": "U6RSL1K16",
+        "text": "yep",
+        "attachments": [
+            {
+                "fallback": "[August 25th, 2017 5:55 PM] deadzen: <@U6RSL1K16> and the customers who walked away cause the contract wasn't very opensource friendly",
+                "ts": "1503680127.000352",
+                "author_subname": "deadzen",
+                "channel_id": "C6R9UK5LZ",
+                "channel_name": "planning-2017-08-25",
+                "is_msg_unfurl": true,
+                "text": "<@U6RSL1K16> and the customers who walked away cause the contract wasn't very opensource friendly",
+                "author_name": "Pedram Nimreezi",
+                "author_link": "https:\/\/postriak.slack.com\/team\/deadzen",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/5a56ec488240d49012f2318ae2a6a9a5.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0016-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/postriak.slack.com\/archives\/C6R9UK5LZ\/p1503680127000352",
+                "is_share": true,
+                "footer": "Posted in #planning-2017-08-25"
+            }
+        ],
+        "ts": "1503680171.000299"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "whose providing money and time for a testing architecture public facing, member login (ci\/cd) ?",
+        "thread_ts": "1503680171.000636",
+        "reply_count": 7,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503680231.000444"
+            },
+            {
+                "user": "U6T3BQN2V",
+                "ts": "1503680278.000355"
+            },
+            {
+                "user": "U6S4RDVEE",
+                "ts": "1503680348.000134"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503680385.000320"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503680417.000116"
+            },
+            {
+                "user": "U6S4RDVEE",
+                "ts": "1503681536.000386"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681583.000344"
+            }
+        ],
+        "unread_count": 7,
+        "ts": "1503680171.000636"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Need another group to double check that?",
+        "ts": "1503680177.000390"
+    },
+    {
+        "type": "message",
+        "user": "U6TA2DSRK",
+        "text": "The document at the moment mixes governance with product direction (esp in section 9) - I think these need to more decoupled",
+        "thread_ts": "1503680190.000057",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503680331.000253"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503680357.000395"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1503680190.000057"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6TA2DSRK> yeah that seems logical",
+        "ts": "1503680207.000077"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark not nessesarily, but steps like “do updates work (between which versions?)“, “do fresh installations work” should be spelled out at least I think",
+        "thread_ts": "1503680217.000140",
+        "reply_count": 5,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503680285.000003"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503680366.000250"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503680391.000133"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681226.000077"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681234.000281"
+            }
+        ],
+        "unread_count": 5,
+        "ts": "1503680217.000140"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6S4RDVEE> - the idea is that those of us making money off Riak will support the community through money or resources (or both).",
+        "thread_ts": "1503680171.000636",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503680231.000444"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "I'd be willing to spend time on that - built more Riak than I've had hot dinners",
+        "thread_ts": "1503680171.000636",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503680278.000355"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "i.e. it will happen that a fresh installation changes how things work which means the documentaiton has to be adjusted, or that a update requires extra steps, which need to be documented. Those are things that really only can be fully tested once the final package is build.",
+        "ts": "1503680282.000281"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Part of the build sanity checks?",
+        "thread_ts": "1503680217.000140",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503680285.000003"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "As an aside, have you spoken the Goldman Sachs? Weren't they a large core user?",
+        "thread_ts": "1503680063.000176",
+        "parent_user_id": "U6RSL1K16",
+        "ts": "1503680294.000694"
+    },
+    {
+        "type": "message",
+        "user": "U6SGRGW4V",
+        "text": "Sorry guys how can I join? Is it open for anybody?",
+        "ts": "1503680295.000117"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes!",
+        "ts": "1503680304.000040"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6SGRGW4V> - Yes, too :slightly_smiling_face:",
+        "ts": "1503680312.000230"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Where would you split it?",
+        "thread_ts": "1503680190.000057",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503680331.000253"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "That would be ideal",
+        "thread_ts": "1503680171.000636",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503680348.000134"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. who would be the governance group?",
+        "thread_ts": "1503680190.000057",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503680357.000395"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "my main thought is that this can be a lot of work to do properly and if we are explict about work packages this feels like it dererves a own mention not  a “this should be part of X”",
+        "thread_ts": "1503680217.000140",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503680366.000250"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "governance in the coding process",
+        "ts": "1503680367.000078"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Great!",
+        "thread_ts": "1503680171.000636",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503680385.000320"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Just to make the work visable and people understand waht’s involved",
+        "thread_ts": "1503680217.000140",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503680391.000133"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I know my partner, <@U6QC6EQH2>, has just started making a build environment. Experience would be a major plus!",
+        "thread_ts": "1503680171.000636",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503680417.000116"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "for instance like I was alluding to basho before.. they did things like code freezes.. do we want to do any of that?",
+        "ts": "1503680444.000516"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "UNder riak_kv team, does that include all the various backends?",
+        "ts": "1503680480.000086"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "bitcask, leveldb etc, 'cos there is some pretty specialized skills there",
+        "ts": "1503680502.000273"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If it needs to be further broken down, we break it down more.",
+        "ts": "1503680504.000035"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "id like to see more backends :stuck_out_tongue_winking_eye:",
+        "ts": "1503680522.000075"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "search…CRDTs…would hate for something to get lost",
+        "ts": "1503680527.000376"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The idea is that the Project Direction Group says \"we want XYZ\". The Developers figure out how, and the Release Management Group sanity check it and make a release.",
+        "ts": "1503680570.000248"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If a Developer wanted a new backend, just propose it to the Project Direction Group and it goes in the stack of things to get built.",
+        "ts": "1503680593.000339"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "<@U6Q92JWHY> often developers 80% make things first, and then it would go to product to decide if needs finishing, but I get your meaning",
+        "ts": "1503680651.000600"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face: Yes - the old 'proof of concept' being a nearly finished project!",
+        "ts": "1503680672.000158"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "we just can't stop making things",
+        "ts": "1503680675.000303"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": ":d",
+        "ts": "1503680677.000472"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I made a repo called bashosync that has everything from basho and basho labs..  btw, some inventory of that might be good",
+        "ts": "1503680681.000091"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Now this might be an odd case but what if the project does not want a company involved in the project?",
+        "ts": "1503680709.000066"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "<@U6Q6G7S82> can you give an example, I don't understand?",
+        "ts": "1503680729.000073"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "As in Westboro Baptist Church decides to get into tech?",
+        "ts": "1503680730.000044"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6Q6G7S82> as an odd case or as an ethical case?",
+        "ts": "1503680739.000206"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "russelldb 9.3.2 says everyone who provides a certain amount of recuires is guaranteed a seat w\/o any safeguard",
+        "ts": "1503680764.000079"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Ethical, odd, but not entirely impossible.",
+        "ts": "1503680789.000435"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Ah - the resources have to be accepted :slightly_smiling_face:",
+        "ts": "1503680791.000179"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We should add in something to review that, true.",
+        "ts": "1503680801.000534"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yes it should be clearly governed however",
+        "ts": "1503680811.000451"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Maybe get the Governance Group to OK them?",
+        "ts": "1503680821.000403"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Sounds good to me",
+        "ts": "1503680835.000614"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "In which case the Project Direction Group essentially has two hats.",
+        "ts": "1503680837.000450"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "It just feels good to have a saveguard against crazy",
+        "edited": {
+            "user": "U6Q6G7S82",
+            "ts": "1503680862.000000"
+        },
+        "ts": "1503680847.000069"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So we split them as Stuart(?) suggested.",
+        "ts": "1503680861.000503"
+    },
+    {
+        "type": "message",
+        "user": "U6TA2DSRK",
+        "text": "There's always a trade off between strict governance to create a single version and encouraging innovation\/flexiblity. If governance is too restrictive then Riak will fragment\/fork.",
+        "ts": "1503680877.000480"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes. I'd have Governance as part of the Admin Group, and chosen by the Project Direction Group.",
+        "ts": "1503680916.000052"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Governance would then do the safety checks.",
+        "ts": "1503680928.000014"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. Project Direction Group is the board, Governance is the executive.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503680969.000000"
+        },
+        "ts": "1503680953.000323"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "It probably doesn’t matter for most small stuff, but just someone doing a sanity check, on “yes we want that company\/group as part of our directional board” makes sense, every other office is elected so we get that checks there automatically.",
+        "ts": "1503680993.000326"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6Q92JWHY> has a layout like this been used before with any other groups?",
+        "ts": "1503681023.000045"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Inserting:\n```9.4.3.\tGovernance Team\nIn charge of:\n\tExecuting the vision laid down by the Project Direction Group.\n\tCo-ordinating between Groups and Teams.\n```",
+        "ts": "1503681041.000555"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6S4RDVEE> - no idea. I just went with what I thought was best.",
+        "ts": "1503681060.000090"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I did read up on a few others but most of them seems to have a lot more overhead.",
+        "ts": "1503681077.000543"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think it’s good to start off with little overhead, it’s always easy to grow more complex but very hard to simplify",
+        "ts": "1503681129.000060"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Also easy to grow wrong :slightly_smiling_face:",
+        "ts": "1503681149.000162"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I've been researching a lot into management cybernetics, theres some valuable insight on reducing oscillation between groups and teams..  This is not a new problem by any means",
+        "ts": "1503681162.000656"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```\tChecks new build works as expected.```",
+        "thread_ts": "1503680217.000140",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503681226.000077",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So:\n\n```9.2.10.\tBuild Team\n\tReceive work packet from Documentation Team.\n\tCreates build process.\n\tChecks new build works as expected.\n\tEither releases new version to the public, or returns to the Development Group team for fixes.\n```",
+        "thread_ts": "1503680217.000140",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503681234.000281"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "so reading through it all in all I think it’s a really great starting point",
+        "ts": "1503681262.000442"
+    },
+    {
+        "type": "message",
+        "user": "U6TA2DSRK",
+        "text": "When Basho was alive - the direction \/ roadmap was a result of customers buying the product and influencing the roadmap. This is being market driven demand is being lost. If a company funds the development of a feature (either publicly or privately) then I guess it should by default be included in the Product Direction.",
+        "thread_ts": "1503681320.000256",
+        "reply_count": 20,
+        "replies": [
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503681394.000593"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681418.000117"
+            },
+            {
+                "user": "U6R6ETJU8",
+                "ts": "1503681456.000194"
+            },
+            {
+                "user": "U6SF36D37",
+                "ts": "1503681655.000497"
+            },
+            {
+                "user": "U6SF36D37",
+                "ts": "1503681692.000216"
+            },
+            {
+                "user": "U6SF36D37",
+                "ts": "1503681694.000307"
+            },
+            {
+                "user": "U6R6ETJU8",
+                "ts": "1503681740.000144"
+            },
+            {
+                "user": "U6R6ETJU8",
+                "ts": "1503681745.000485"
+            },
+            {
+                "user": "U6SF36D37",
+                "ts": "1503681758.000019"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681764.000304"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503681765.000298"
+            },
+            {
+                "user": "U6SF36D37",
+                "ts": "1503681779.000112"
+            },
+            {
+                "user": "U6SF36D37",
+                "ts": "1503681791.000172"
+            },
+            {
+                "user": "U6S4RDVEE",
+                "ts": "1503681873.000005"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503681893.000541"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503681926.000360"
+            },
+            {
+                "user": "U6S4RDVEE",
+                "ts": "1503681949.000298"
+            },
+            {
+                "user": "U6R6ETJU8",
+                "ts": "1503681978.000142"
+            },
+            {
+                "user": "U6T3BQN2V",
+                "ts": "1503682019.000444"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503682236.000015"
+            }
+        ],
+        "unread_count": 20,
+        "ts": "1503681320.000256"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "How would changes to the process happen? Say we just took this today, how weould we go about changing something we found worked or didn’t work",
+        "thread_ts": "1503681339.000050",
+        "reply_count": 6,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681497.000105"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503681543.000199"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681592.000260"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681599.000302"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503681655.000547"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681692.000081"
+            }
+        ],
+        "unread_count": 6,
+        "ts": "1503681339.000050"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "the membership management seems a little lottery\/game theory to me",
+        "thread_ts": "1503681343.000413",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681550.000150"
+            },
+            {
+                "user": "U6S4RDVEE",
+                "ts": "1503681688.000362"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1503681343.000413"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think not nessessariy, some features might come with an incredibly high maintainaince\/longterm overhead which we might not want to carry just because someone initially sponsored it.",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681394.000593"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "As I see it, they would propose a new feature, the PDG would discuss how (or if) it fits with Riak. If they decide it doesn't it either gets added as low priority or it happens in a company-specific fork.",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681418.000117",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "That sounds like most of the basho added features tbf. It's best if we don't think of Riak as a good template imo",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681456.000194"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We would have to have a review process in place going to Governance, which then got voted on by the relevant Team or Group or everyone.",
+        "thread_ts": "1503681339.000050",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503681497.000105"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I have experience with riak_test",
+        "thread_ts": "1503680171.000636",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503681536.000386"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Yap, something along the lines. Review process should be part of the charter (I call it that  now :P) so it ‘protects itself’ in a way.",
+        "thread_ts": "1503681339.000050",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503681543.000199"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I imagine that it will take some refining to get it going smoothly.",
+        "thread_ts": "1503681343.000413",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503681550.000150"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Handy!",
+        "thread_ts": "1503680171.000636",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503681583.000344"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Makes sense.",
+        "thread_ts": "1503681339.000050",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503681592.000260"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That will go in the next revision!",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503681620.000000"
+        },
+        "thread_ts": "1503681339.000050",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503681599.000302"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "what defines a work packet?",
+        "thread_ts": "1503681612.000518",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681670.000019"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1503681612.000518"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "I mean... I can't ever remember an outside contribution coming into to riak_kv or core that wasn't from someone already deep into Basho (either current or former) so my expectation is that people who are funding specific development are going to be working with a consultant (like <@U6R6ETJU8> probably) to do that sort of thing and they're going to be maintaining some kind of \"internal\" facing fork and contributing back to larger project periodically",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681655.000497"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "We might also want to schedule a fixed review time ahead of time that forces us to consider if things work. At least for the first year or so that we’re not growing complacent and just accept it because calling for a get together is so much work.",
+        "thread_ts": "1503681339.000050",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503681655.000547"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "From the PDG it will be fairly high level (\"make replication work between datacenters\".\nThe Developers would then break it down into smaller parts.",
+        "thread_ts": "1503681612.000518",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503681670.000019"
+    },
+    {
+        "type": "message",
+        "user": "U6RSL1K16",
+        "text": "Need to drop off. Good start, thanks Peter. Look forward to seeing next iteration",
+        "ts": "1503681685.000513"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "yeah, when would we schedule an election?",
+        "thread_ts": "1503681343.000413",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1503681688.000362"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That sounds sensible..",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503681696.000000"
+        },
+        "thread_ts": "1503681339.000050",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503681692.000081"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "I think heinz is the one exception to that.",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681692.000216"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "lol",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681694.000307"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "ttyl",
+        "ts": "1503681695.000058"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "Martin Sumner at NHS put in some hefty 2i contributions",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681740.000144"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "but I get your meaning",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681745.000485"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "ok, true",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681758.000019"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes - but some company specific changes won't be accepted if they cause issues.",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681764.000304"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Yay I’m an exception :stuck_out_tongue: so mrallen1 I don’t think any of the stuff I did was ever maged :wink:",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681765.000298"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "But I guess the point is, external contributions are \"rare\"",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681779.000112"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6TA2DSRK> I imagine that's how redis got into riak?",
+        "ts": "1503681790.000131"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "so (shrug)",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681791.000172"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Thanks!",
+        "ts": "1503681793.000473"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "That's not exactly how I'd characterize that work <@U6S4RDVEE> but it doesn't really matter now anyway.",
+        "ts": "1503681825.000447"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I am 99.999% sure we will got to refine this after a few month of reality one way or another",
+        "thread_ts": "1503681865.000068",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681935.000482"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1503681865.000068"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6Q6G7S82> don't feel bad :smile: I knew why you stopped bothering",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681873.000005"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "I'd really like to see the current doc in some kind of markup \/ comment friendly editor thing, maybe meet again every X {days, weeks } to discuss the comments\/markups",
+        "thread_ts": "1503681882.000358",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503682001.000394"
+            },
+            {
+                "user": "U6SGRGW4V",
+                "ts": "1503682011.000341"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1503681882.000358",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6RPFG5FH",
+                    "U6Q92JWHY",
+                    "U6Q6G7S82"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "hehe",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681893.000541"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "let's start now and check it in somewhere",
+        "ts": "1503681919.000544"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "But on a serious note, even when the work is 100% sponsored it needs to go through the process of being approved.",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681926.000360"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "For sure!",
+        "thread_ts": "1503681865.000068",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503681935.000482"
+    },
+    {
+        "type": "message",
+        "user": "U6SGRGW4V",
+        "text": "<@U6Q92JWHY> I read it twice quickly as I joined later, but so far like it, thanks a lot for putting this doc together.",
+        "thread_ts": "1503681943.000367",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503681984.000025"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1503681943.000367"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "yea",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681949.000298"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "+1",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503681978.000142"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Happy to be helpful!",
+        "thread_ts": "1503681943.000367",
+        "parent_user_id": "U6SGRGW4V",
+        "ts": "1503681984.000025"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "google docs is, for better or worse, really good for that",
+        "thread_ts": "1503681882.000358",
+        "parent_user_id": "U6SF36D37",
+        "ts": "1503682001.000394",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6T3BQN2V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6SGRGW4V",
+        "text": "Dropbox Paper too (pseudo MD and exports to MD)",
+        "edited": {
+            "user": "U6SGRGW4V",
+            "ts": "1503682037.000000"
+        },
+        "thread_ts": "1503681882.000358",
+        "parent_user_id": "U6SF36D37",
+        "ts": "1503682011.000341"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Kresten and aae fullsync is another",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503682019.000444"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I use OneDrive over GoogleDocs. Any issues with that?",
+        "ts": "1503682020.000424"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "I have to go. Thanks <@U6Q92JWHY> for all the work on the doc and setting this up. It's a great start.",
+        "ts": "1503682028.000307"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark can one drive do shared editing \/ comments?",
+        "ts": "1503682045.000241"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6R6ETJU8> ttyl",
+        "ts": "1503682045.000592"
+    },
+    {
+        "type": "message",
+        "user": "U6TA2DSRK",
+        "text": "I think a key thing is some guiding principles for product direction.  Riak started off aiming to be bullet proof and do something well. It's lost direction over time and things which were probably a good idea but half baked ended up being released (eg Yokuzuna).  There are plenty of companies using Riak because it's a mission critical application - I think we need to get back to basics and do things well. So document needs a \"mission statement\" I suppose for Riak direction.",
+        "ts": "1503682046.000143",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6T3BQN2V",
+                    "U6Q6G7S82"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U6Q6G7S82",
+                    "U6RPFG5FH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "take care russelldb was great talking to you again :smile:",
+        "ts": "1503682055.000472"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6TA2DSRK> agree",
+        "ts": "1503682067.000105"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6TA2DSRK> - yes - Russell said something similar a few days ago.",
+        "ts": "1503682100.000438"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Thoughts on the wording would be great.",
+        "ts": "1503682111.000163"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "<@U6TA2DSRK> I agree. I'd be happy to write what my opinion of that is.",
+        "ts": "1503682119.000163"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "<@U6Q92JWHY> I don't really care either way :slightly_smiling_face:",
+        "ts": "1503682123.000248"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "we have basho_bench and work coming out, I think we need to see where riak is today, in a way that can be externally validated",
+        "ts": "1503682129.000101"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "there's a lot of legitimacy that needs to be earned back",
+        "ts": "1503682137.000079"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "And perhaps, a lot of code that needs to be deleted. ",
+        "ts": "1503682156.000348"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "<@U6T3BQN2V> +1000",
+        "ts": "1503682163.000174"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "tech debt is almost as bad as basho's debt",
+        "ts": "1503682175.000100"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "lol",
+        "ts": "1503682182.000352"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "oh my",
+        "ts": "1503682187.000320"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6R6ETJU8> I'm on board with that",
+        "ts": "1503682188.000120"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "don’t delete my code :stuck_out_tongue:",
+        "ts": "1503682191.000348"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "getting lunch afk for a bit",
+        "ts": "1503682199.000516"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "And modern Erlang i.e. build on 19\/20 and forget the rest",
+        "ts": "1503682202.000078",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6TA2DSRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Is that a fair idea?",
+        "ts": "1503682209.000329"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - shared copy of the document in OneDrive \/ Word Online is here: <https:\/\/1drv.ms\/w\/s!AlL0Y30lZHlTud1JSYv422UWAUaMvg>",
+        "ts": "1503682212.000084"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "<@U6Q92JWHY> thank you for writing the initial doc :slightly_smiling_face: I'm sure it wasn't easy",
+        "ts": "1503682212.000108",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6T3BQN2V",
+                    "U6Q6G7S82"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "gotta be done",
+        "ts": "1503682213.000244"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Guten Hunger mrallen1!",
+        "ts": "1503682218.000011"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "All can edit.",
+        "ts": "1503682221.000354"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "Bitte",
+        "ts": "1503682226.000158"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U6Q6G7S82",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[August 25th, 2017 10:30 AM] peterclark: OK - shared copy of the document in OneDrive \/ Word Online is here: <https:\/\/1drv.ms\/w\/s!AlL0Y30lZHlTud1JSYv422UWAUaMvg>",
+                "ts": "1503682212.000084",
+                "author_subname": "peterclark",
+                "channel_id": "C6R9UK5LZ",
+                "channel_name": "planning-2017-08-25",
+                "is_msg_unfurl": true,
+                "text": "OK - shared copy of the document in OneDrive \/ Word Online is here: <https:\/\/1drv.ms\/w\/s!AlL0Y30lZHlTud1JSYv422UWAUaMvg>",
+                "author_name": "Peter Clark",
+                "author_link": "https:\/\/postriak.slack.com\/team\/peterclark",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-08-18\/228371050276_a17fd2340757b9be054a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U6Q6G7S82|heinz> pinned a message to this channel.",
+        "ts": "1503682235.000539"
+    },
+    {
+        "type": "message",
+        "user": "U6R6ETJU8",
+        "text": "aight, gotta go, laters all",
+        "ts": "1503682236.000008",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U6Q6G7S82",
+                    "U6Q92JWHY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "God yes!",
+        "thread_ts": "1503681320.000256",
+        "parent_user_id": "U6TA2DSRK",
+        "ts": "1503682236.000015"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "(Can someone check that it actually works, and is editable?)",
+        "ts": "1503682283.000064"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark at it",
+        "ts": "1503682292.000490"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "<@U6Q92JWHY> wfm",
+        "ts": "1503682313.000410"
+    },
+    {
+        "type": "message",
+        "user": "U6SF36D37",
+        "text": "ty",
+        "ts": "1503682323.000269"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "yes thanks",
+        "ts": "1503682344.000642"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Great.",
+        "ts": "1503682358.000496"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Shall we meet back here same time next week?",
+        "ts": "1503682366.000248",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6R6ETJU8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "im in",
+        "ts": "1503682368.000083"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "for both :wink:",
+        "ts": "1503682374.000029"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yes I can",
+        "ts": "1503682394.000170"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We can review what people have done to the document and see where we are.",
+        "ts": "1503682421.000245"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I like that you didn't force it into a hierarchy",
+        "ts": "1503682434.000394"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I’m going to be a jerk and suggest we put this in Markdown and then put it in a Git repo, like everything else…",
+        "ts": "1503682456.000518"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Version control for history",
+        "ts": "1503682470.000579",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6RPFG5FH",
+                    "U6SGRGW4V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "smarg we don’t have a github yet",
+        "ts": "1503682476.000611"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We (TI Tokyo) do.",
+        "ts": "1503682485.000082"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "At that note if there is interst I happiey donate the <https:\/\/github.com\/Kyorai> org",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Kyorai",
+                "title_link": "https:\/\/github.com\/Kyorai",
+                "text": "GitHub is where people build software. More than 23 million people use GitHub to discover, fork, and contribute to over 65 million projects.",
+                "fallback": "GitHub: Kyorai",
+                "from_url": "https:\/\/github.com\/Kyorai",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/29925928?v=4&s=280",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1503682496.000652"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We have riak-docs and a bunch of other stuff in there.",
+        "ts": "1503682496.000688"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6SUK860N> I suggested the same, just don't have an official repo yet",
+        "ts": "1503682498.000357"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We can make one public.",
+        "ts": "1503682500.000234"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'll look at doing that over the weekend and make a link here.",
+        "ts": "1503682537.000298"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Kyorai being Bashos most known deciple the name was fitting :stuck_out_tongue:",
+        "ts": "1503682544.000604"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes - but the domain name costs a bundle.",
+        "ts": "1503682557.000186"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nope I have it",
+        "ts": "1503682563.000023"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6Q6G7S82|heinz> uploaded a file: <https:\/\/postriak.slack.com\/files\/heinz\/F6TQF7K5H\/pasted_image_at_2017_08_25_07_36_pm.png|Pasted image at 2017-08-25, 7:36 PM>",
+        "file": {
+            "id": "F6TQF7K5H",
+            "created": 1503682605,
+            "timestamp": 1503682605,
+            "name": "Pasted image at 2017_08_25 07_36 PM.png",
+            "title": "Pasted image at 2017-08-25, 7:36 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U6Q6G7S82",
+            "editable": false,
+            "size": 10158,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6TQF7K5H\/pasted_image_at_2017_08_25_07_36_pm.png?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6TQF7K5H\/download\/pasted_image_at_2017_08_25_07_36_pm.png?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6TQF7K5H-8e93232c55\/pasted_image_at_2017_08_25_07_36_pm_64.png?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6TQF7K5H-8e93232c55\/pasted_image_at_2017_08_25_07_36_pm_80.png?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6TQF7K5H-8e93232c55\/pasted_image_at_2017_08_25_07_36_pm_360.png?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "thumb_360_w": 203,
+            "thumb_360_h": 172,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6TQF7K5H-8e93232c55\/pasted_image_at_2017_08_25_07_36_pm_160.png?t=xoxe-227478566416-233249568391-233048519014-3d7103500f",
+            "image_exif_rotation": 1,
+            "original_w": 203,
+            "original_h": 172,
+            "permalink": "https:\/\/postriak.slack.com\/files\/heinz\/F6TQF7K5H\/pasted_image_at_2017_08_25_07_36_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T6PE2GNC8-F6TQF7K5H-335ab4d921",
+            "channels": [
+                "C6R9UK5LZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U6Q6G7S82",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "heinz",
+        "bot_id": null,
+        "ts": "1503682607.000137"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Really? GoDaddy lists it for sale at JPY382,000.",
+        "ts": "1503682615.000266"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Ah - was looking at .com.",
+        "ts": "1503682622.000535"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "First rule of domain names, buy first, ask questions later",
+        "ts": "1503682625.000342"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "btw I own <http:\/\/erlang.io|erlang.io>",
+        "ts": "1503682628.000357"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Cool.",
+        "ts": "1503682636.000067"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I've been thinking about making an organization here in america, 501(c)3 specifically for our purposes here",
+        "ts": "1503682644.000290"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think org \/ io kind of fits us better then com anyways :stuck_out_tongue:",
+        "ts": "1503682656.000006"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I've grabbed things like <http:\/\/riakdocs.com|riakdocs.com>, <http:\/\/riak.info|riak.info>, etc...",
+        "ts": "1503682658.000711"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Figure we would donate them when we get running.",
+        "ts": "1503682668.000155"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "same",
+        "ts": "1503682674.000455"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I think getting more people to get really good at OTP and distributed computing is the best thing we can do for Riak",
+        "ts": "1503682682.000322"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1503682711.000060"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I've been thinking about making an organization here in america, 501(c)3 specifically for our purposes here, some kind of academy",
+        "ts": "1503682762.000229"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark I’m not tied to the Kyorai name but if we want it I’ll donate it :stuck_out_tongue: I mostly wanted something to centralize the hex packages and repos that feed them after basho exploded (impolded?)",
+        "thread_ts": "1503682798.000299",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6T3BQN2V",
+                "ts": "1503682856.000329"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1503682798.000299"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We did the same with around 282 repos.",
+        "ts": "1503682817.000794"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6Q6G7S82> I am oddly ok with that name",
+        "ts": "1503682824.000295",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If we can keep Riak, I would for brand purposes.",
+        "ts": "1503682836.000047"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<https:\/\/github.com\/bashosync>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "bashosync",
+                "title_link": "https:\/\/github.com\/bashosync",
+                "text": "bashosync has 188 repositories available. Follow their code on GitHub.",
+                "fallback": "GitHub: bashosync",
+                "from_url": "https:\/\/github.com\/bashosync",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/28240445?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1503682844.000408"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Collapsed, folded, sagged out of existence.",
+        "thread_ts": "1503682798.000299",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1503682856.000329",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Our are all marked private for the time being.",
+        "ts": "1503682904.000034"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "One question - forgive if tangential - Elixir. It's a long term question but I'd the future of Riak always going to be Erlang? ",
+        "thread_ts": "1503682906.000277",
+        "reply_count": 14,
+        "replies": [
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503682945.000506"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503682986.000230"
+            },
+            {
+                "user": "U6RPFG5FH",
+                "ts": "1503682996.000314"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503682999.000575"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503683039.000065"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503683061.000155"
+            },
+            {
+                "user": "U6RPFG5FH",
+                "ts": "1503683136.000392"
+            },
+            {
+                "user": "U6RPFG5FH",
+                "ts": "1503683194.000247"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503683203.000337"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503683226.000338"
+            },
+            {
+                "user": "U6RPFG5FH",
+                "ts": "1503683256.000136"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503683276.000471"
+            },
+            {
+                "user": "U6RPFG5FH",
+                "ts": "1503683308.000214"
+            },
+            {
+                "user": "U6SUK860N",
+                "ts": "1503683508.000222"
+            }
+        ],
+        "unread_count": 14,
+        "ts": "1503682906.000277",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6RPFG5FH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark oh yea not about renaming the db, I just couldn’t make a basho repo (or dind’t wanted to deal with the legal comsequeces so went with somethinfg fresh and unique ;)",
+        "ts": "1503682914.000423"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<http:\/\/www.tiot.jp\/riak-docs|www.tiot.jp\/riak-docs> is a mirror-clone of basho-docs and modified.",
+        "ts": "1503682929.000047"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Please yes as using erlang code from elixir is easy, using elixir code from erlang is hard.",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503682945.000506"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "At least for anything that is even remotely a library we should stick with pure erlang",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503682986.000230"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "I wrote some posts of how to use riak_core from elixir thanks to <@U6Q6G7S82>",
+        "edited": {
+            "user": "U6RPFG5FH",
+            "ts": "1503683055.000000"
+        },
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503682996.000314",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Sounds like something to discuss. I would imagine that moving language would involve a LOT of discussion!",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503682999.000575"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Unless the reasons were freakin' awesome, I'd lean towards sticking with Erlang.",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503683039.000065"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Okay let me be clear what I mean, making riak (and all it’s libs) work on elixir  is something we should do. But if we start writing things in elixir we exclude any erlang applications from using them.",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503683061.000155"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "cool, what part of japan are you based out of?",
+        "ts": "1503683087.000425"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "tokyo would be my first guess heh",
+        "ts": "1503683135.000429"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "In rabbit they are using elixir for some tools the cli for example",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503683136.000392"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Odaiba, Minato-ku, Tokyo-to.",
+        "ts": "1503683149.000532"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Our office is a bit more central in Toranomon, Minato-ku, Tokyo-to.",
+        "ts": "1503683164.000132"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "It's not impossible call elixir code from erlang I suppose ...",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503683194.000247"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "no but VERY hard",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503683203.000337"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'm on the 32nd floor with a view from the balcony over the beach and the bay, with Mt Fuji in the background.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503683225.000000"
+        },
+        "ts": "1503683219.000142"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it also explodes the dependencies as you suddenly also need entire elixir",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503683226.000338"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "sounds majestic",
+        "ts": "1503683233.000041"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It can be if the weather co-operates.",
+        "ts": "1503683252.000072"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Yes I understand ",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503683256.000136"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Best views are in winter.",
+        "ts": "1503683257.000457"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "yeah I'm in south florida, it is not cooperating currently",
+        "ts": "1503683262.000371"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "For the same reason that system libraries are not written in perl (even so you can call perl form c, calling c form perl is a lot easier) :wink:",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503683276.000471"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": ":grinning:",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503683308.000214"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I get the feeling the discussions de-rail a bit, should we call the 1st meeting over and all re-read the proposal put in some thoughts \/ make suggestions and re-conveen in a week?",
+        "ts": "1503683451.000053"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I took it as a first draft till next week",
+        "ts": "1503683486.000198"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes.",
+        "ts": "1503683497.000074"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yap",
+        "ts": "1503683501.000269"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I would like some time as well to form thoughts I can express fully :slightly_smiling_face:",
+        "ts": "1503683505.000043"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Actually, this leads me to wonder about “official” clients post-Basho",
+        "thread_ts": "1503682906.000277",
+        "parent_user_id": "U6T3BQN2V",
+        "ts": "1503683508.000222"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Next Fiday, same time, new channel.",
+        "ts": "1503683510.000320"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think we all need a bit of time to digest it",
+        "ts": "1503683512.000020"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "sounds good",
+        "ts": "1503683516.000516"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'll make a markdown version in GitHub for easy editing.",
+        "ts": "1503683527.000075"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "can we download the content of the channel to preserve it?",
+        "ts": "1503683527.000137"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Not going to delete it.",
+        "ts": "1503683536.000324"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Just start a new clean channel for next meeting.",
+        "ts": "1503683543.000212"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it will get deleted due to the message limit",
+        "ts": "1503683548.000273"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Oh - free version.",
+        "ts": "1503683555.000053"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Good point.",
+        "ts": "1503683557.000036"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yup",
+        "ts": "1503683559.000167"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "the few things I know about slack (due to having run into it :P)",
+        "ts": "1503683574.000500"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I’m working on preserving this in JSON",
+        "ts": "1503683576.000616"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "give me a bit, I'll bring in my chat bot from irc",
+        "ts": "1503683577.000390"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6SUK860N> - great!",
+        "ts": "1503683585.000422"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Well, whoever gets there first, send me the log :slightly_smiling_face:",
+        "ts": "1503683602.000172"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Tools seem pretty easy",
+        "ts": "1503683610.000186"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "yea slack is extensible",
+        "ts": "1503683620.000222"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "its just a bit capitalistic compared to my beloved IRC :smile:",
+        "ts": "1503683629.000034"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I am probably the among oldest nerds alive who never really got into IRC",
+        "ts": "1503683667.000613"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Eventually we should have some standardized infra, I understand that in the beginning it’s not ideal either but evntually I would love to move to a voice (or voice\/videa) system.",
+        "ts": "1503683677.000649"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "(for those whom it made sense)",
+        "ts": "1503683683.000311"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6SUK860N> its not too late :smile:",
+        "ts": "1503683691.000396"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "imagine a chat client that doesn't use a gig of ram",
+        "ts": "1503683704.000358"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I still have a ICQ handle :slightly_smiling_face:",
+        "ts": "1503683713.000159"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "368047 :slightly_smiling_face:",
+        "ts": "1503683717.000216"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I DO TOO!",
+        "ts": "1503683717.000507"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "i just don't remember my damn password",
+        "ts": "1503683724.000373"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "12630653",
+        "ts": "1503683726.000387"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Same here!",
+        "ts": "1503683728.000445"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "rofl",
+        "ts": "1503683733.000016"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And the email address is gone LONG ago.",
+        "ts": "1503683736.000156"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "wow you got yours really early",
+        "ts": "1503683750.000416"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1503683757.000024"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "What can I say, I had a misspent childhood.",
+        "ts": "1503683763.000571"
+    },
+    {
+        "text": "low integer envies",
+        "type": "message",
+        "subtype": "me_message",
+        "user": "U6S4RDVEE",
+        "ts": "1503683777.000296"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1503683789.000299"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "yeah now its a weird useless number permanently stored in my brain for some reason",
+        "ts": "1503683825.000229"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yup.",
+        "ts": "1503683836.000187"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Right - g'night all!",
+        "ts": "1503683881.000258"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "thanks for the hard work",
+        "ts": "1503683894.000239"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I fear it is just the beginning :slightly_smiling_face:",
+        "ts": "1503683907.000641"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "yes, you have awoken dragons.",
+        "ts": "1503683922.000432"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Thanks again <@U6Q92JWHY> ",
+        "ts": "1503683939.000399",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY",
+                    "U6T3BQN2V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Good? :slightly_smiling_face:",
+        "ts": "1503683941.000189"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Bye",
+        "ts": "1503683952.000190"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Bye.",
+        "ts": "1503683957.000063"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "night peterclark thanks for the great document!",
+        "ts": "1503684192.000662"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Have made a public repo and a Markdown version of the document. Available at <https:\/\/github.com\/TI-Tokyo\/riak-community-admin>.",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin",
+                "text": "Contribute to riak-community-admin development by creating an account on GitHub.",
+                "fallback": "GitHub: TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/30156093?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1503724270.000012"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I have started a new channel (<#C6TD30YTA|planning-2017-09-01>) for our next meeting and pinned the link in there, too.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503726232.000000"
+        },
+        "ts": "1503724341.000012"
+    }
+]

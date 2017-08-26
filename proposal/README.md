@@ -3,7 +3,7 @@
 
 ## Riak Community Proposal
 
-[Riak Community Proposal.md](Riak%20Community%20Proposal.md)
+[Riak Community Proposal](Riak%20Community%20Proposal.md)
 
 # Editing notes
 

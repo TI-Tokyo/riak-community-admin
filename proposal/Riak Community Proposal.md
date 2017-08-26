@@ -2,12 +2,7 @@
 
 ## Contents
 
-* [History](#history)
-* [Authors](#authors)
-* [Introduction](#introduction)
-* [Purpose](#purpose)
-* [Scope](#scope)
-* [Naming Conventions](#naming-conventions)
+* [Document Information](#document-information)
 * [Background](#background)
 * [Aims](#aims)
 * [Short-term objectives and time periods](#short-term-objectives-and-time-periods)
@@ -18,12 +13,14 @@
 * [Project Direction Group](#project-direction-group)
 * [Admin Group](#admin-group)
 
-## History
+## Document Information
+
+### History
 
 * 2017-08-24 - v0.1.0 - First version created from discussions on Slack.
 * 2017-08-26 - v0.1.1 - Updated with feedback from Slack meeting on 2017-08-25.
 
-## Authors
+### Authors
 
 These people took active part in the disucssions on Slack providing inspiration, review and feedback of this document.
 
@@ -41,20 +38,17 @@ These people took active part in the disucssions on Slack providing inspiration,
 | Bill Smargiassi | smarg | TI Tokyo | bill.smargiassi@tiot.jp
 | Stuart Whitfield | sjmw | Erlang Solutions Limited | stuart.whitfield@erlang-solutions.com
 
-## Introduction 
-([Return to top](#contents))
+### Introduction 
 
 This is a proposal for the structure of a community-led open source project for the promotion and development of Riak and related software. 
 
 This document is not intended to be final, and it is expected to go through considerable revision from discussion with end-users and developers. 
 
-## Purpose 
-([Return to top](#contents))
+### Purpose 
 
 The purpose of this document is to define a structure for the project and an outline of procedures that shall be implemented by the members of the groups defined in the document.  
 
-## Scope 
-([Return to top](#contents))
+### Scope 
 
 The scope of this document is to: 
 * define overall aims of the project 
@@ -66,16 +60,15 @@ The scope of this document is to:
 * timescales 
 * funding 
 
-## Naming conventions 
-([Return to top](#contents))
+### Naming conventions 
 
-### Riak 
+#### Riak 
 
 The open source version of Riak is licensed under the Apache license which means we are entitled to use the name Riak to describe the product (but not in a company name). The new owner of Riak (bet365) has announced they intend to make all Basho IPR open source, so I have assumed the same.  
 
 Riak has commonly referred to Riak KV as well as the larger Riak family. In this document, it shall refer to the family of all Riak products. 
 
-### Riak {Product Name} 
+#### Riak {Product Name} 
 
 * Riak KV - the open source version of Riak KV, the key-value store. 
 * Riak CS - the open source version of Riak CS, aka Riak S2. 

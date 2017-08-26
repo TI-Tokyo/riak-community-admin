@@ -18,7 +18,7 @@
 ### History
 
 * 2017-08-24 - v0.1.0 - First version created from discussions on Slack.
-* 2017-08-26 - v0.1.1 - Updated with feedback from Slack meeting on 2017-08-25.
+* 2017-08-26 - v0.1.1 - Updated with feedback from [Slack meeting on 2017-08-25](meeting-minutes/2017-08-25-slack.md).
 
 ### Authors
 

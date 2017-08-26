@@ -7,18 +7,21 @@
 
 ## Authors
 
+These people took active part in the disucssions on Slack providing inspiration, review and feedback of this document.
+
 *Name (Slack handle) - Company - Email address*
 
-* Mark Allen (mrallen1) - Alert Logic - 
-* Russell Brown (russeldb) - Infinity Works - 
+* Mark Allen (mrallen1) - Alert Logic - mrallen1@yahoo.com
+* Russell Brown (russeldb) - Infinity Works - russell@wombat.me
 * Peter Clark (peterclark) - TI Tokyo - peter.clark@tiot.jp
-* Heinz Gies (heinz) - Project-Fifo - 
-* Pedram Nimreezi (deadzen) - Zen Enterprise Networks - 
-* Azhar Nisar (azhar.nisar_nhs) - NHS Digital - 
-* Gianluca Padovani (gpad) - Coders51 - 
-* Steve Roberts (steve_erlang) - Erlang Solutions Limited - 
-* Bill Smargiassi (smarg) TI Tokyo - bill.smargiassi@tiot.jp
-* Stuart Whitfield (sjmw) - Erlang Solutions Limited - 
+* Heinz Gies (heinz) - Project-Fifo - heinz@licenser.net
+* Bryan Hunt (binarytemple) - Unknown (ex-Basho) - admin@binarytemple.co.uk
+* Pedram Nimreezi (deadzen) - Zen Enterprise Networks - deadzen@deadzen.com
+* Azhar Nisar (azhar.nisar_nhs) - NHS Digital - azhar.nisar@hscic.gov.uk
+* Gianluca Padovani (gpad) - Coders51 - gpadovani@gmail.com
+* Steve Roberts (steve_erlang) - Erlang Solutions Limited - steve.roberts@erlang-solutions.com
+* Bill Smargiassi (smarg) - TI Tokyo - bill.smargiassi@tiot.jp
+* Stuart Whitfield (sjmw) - Erlang Solutions Limited - stuart.whitfield@erlang-solutions.com
 
 ## Introduction 
 

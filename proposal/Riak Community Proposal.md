@@ -1,5 +1,23 @@
 # Riak Community Proposal v0.1.1
 
+## Contents
+
+* [History](#history)
+* [Authors](#authors)
+* [Introduction](#introduction)
+* [Purpose](#purpose)
+* [Scope](#scope)
+* [Naming Conventions](#naming-conventions)
+* [Background](#background)
+* [Aims](#aims)
+* [Short-term objectives and time periods](#short-term-objectives-and-time-periods)
+* [Groups and Teams list](#groups-and-teams-list)
+* [Governance](#governance)
+* [Development Group](#development-group)
+* [Release Management Group](#release-management-group)
+* [Project Direction Group](#project-direction-group)
+* [Admin Group](#admin-group)
+
 ## History
 
 * 2017-08-24 - v0.1.0 - First version created from discussions on Slack.
@@ -9,31 +27,34 @@
 
 These people took active part in the disucssions on Slack providing inspiration, review and feedback of this document.
 
-*Name (Slack handle) - Company - Email address*
-
-* Mark Allen (mrallen1) - Alert Logic - mrallen1@yahoo.com
-* Russell Brown (russeldb) - Infinity Works - russell@wombat.me
-* Peter Clark (peterclark) - TI Tokyo - peter.clark@tiot.jp
-* Heinz Gies (heinz) - Project-Fifo - heinz@licenser.net
-* Bryan Hunt (binarytemple) - Unknown (ex-Basho) - admin@binarytemple.co.uk
-* Pedram Nimreezi (deadzen) - Zen Enterprise Networks - deadzen@deadzen.com
-* Azhar Nisar (azhar.nisar_nhs) - NHS Digital - azhar.nisar@hscic.gov.uk
-* Gianluca Padovani (gpad) - Coders51 - gpadovani@gmail.com
-* Steve Roberts (steve_erlang) - Erlang Solutions Limited - steve.roberts@erlang-solutions.com
-* Bill Smargiassi (smarg) - TI Tokyo - bill.smargiassi@tiot.jp
-* Stuart Whitfield (sjmw) - Erlang Solutions Limited - stuart.whitfield@erlang-solutions.com
+| Name | Slack alias | Company | Email address |
+| --- | --- | --- | --- |
+| Mark Allen | mrallen1 | Alert Logic | mrallen1@yahoo.com
+| Russell Brown | russeldb | Infinity Works | russell@wombat.me
+| Peter Clark | peterclark | TI Tokyo | peter.clark@tiot.jp
+| Heinz Gies | heinz | Project-Fifo | heinz@licenser.net
+| Bryan Hunt | binarytemple | Unknown (ex-Basho) | admin@binarytemple.co.uk
+| Pedram Nimreezi | deadzen | Zen Enterprise Networks | deadzen@deadzen.com
+| Azhar Nisar | azhar.nisar_nhs| NHS Digital | azhar.nisar@hscic.gov.uk
+| Gianluca Padovani | gpad | Coders51 | gpadovani@gmail.com
+| Steve Roberts | steve_erlang | Erlang Solutions Limited | steve.roberts@erlang-solutions.com
+| Bill Smargiassi | smarg | TI Tokyo | bill.smargiassi@tiot.jp
+| Stuart Whitfield | sjmw | Erlang Solutions Limited | stuart.whitfield@erlang-solutions.com
 
 ## Introduction 
+([Return to top](#contents))
 
 This is a proposal for the structure of a community-led open source project for the promotion and development of Riak and related software. 
 
 This document is not intended to be final, and it is expected to go through considerable revision from discussion with end-users and developers. 
 
 ## Purpose 
+([Return to top](#contents))
 
 The purpose of this document is to define a structure for the project and an outline of procedures that shall be implemented by the members of the groups defined in the document.  
 
 ## Scope 
+([Return to top](#contents))
 
 The scope of this document is to: 
 * define overall aims of the project 
@@ -46,6 +67,7 @@ The scope of this document is to:
 * funding 
 
 ## Naming conventions 
+([Return to top](#contents))
 
 ### Riak 
 
@@ -60,6 +82,7 @@ Riak has commonly referred to Riak KV as well as the larger Riak family. In this
 * Riak TS - the open source version of Riak TS, the time-series store. 
 
 ## Background 
+([Return to top](#contents))
 
 Much has changed since May when Basho started to demonstrate issues at maintaining company stability. End-users have had their support services cut off, most without notice and with no plan in place by Basho to replace them.  
 
@@ -68,6 +91,7 @@ As the owner and primary developer of Riak has now gone, and the product has bee
 To stabilize this, we need a single canonical source for Riak and other Basho software to demonstrate to end-users that this platform is stable (won’t disappear), safe (bugfixes, security patches) and under development (new features and new OS support). 
 
 ## Aims 
+([Return to top](#contents))
 
 The overarching ethos of this project is to produce a high-reliability light-weight key-value store that can be easily extended with end-user desired functionality.
 
@@ -80,6 +104,7 @@ The aim of this project is to provide:
 * A public and easily understood minimalist structure.  
 
 ## Short-term objectives and time periods
+([Return to top](#contents))
 
 * Initial Period (starting 2017-08-25)
     * By October 2017 (2017-10-01), this document should be finalised. 
@@ -89,6 +114,7 @@ The aim of this project is to provide:
 * Continuing Period (starting 2018-07-01)
 
 ## Groups and Teams list 
+([Return to top](#contents))
 
 * Development Group 
     * Coding Standards Team 
@@ -105,22 +131,31 @@ The aim of this project is to provide:
     * Documentation Team 
 * Project Direction Group 
 * Admin Group 
-    * Governance Team
+    * Management Team
     * Commercial Engagement Team (Riak promotion, public websites, etc...) 
     * Finance Team (Handling donations, payments, subscriptions, etc...) 
     * Services Team (running common services like FTP, web, CI/CD servers, email and mailing list provision, backups, etc...) 
     * Feedback Team (collate bug reports, proposal submissions, security notifications, etc...) 
 
 ## Governance
+([Return to top](#contents))
+
+### Overview
+
+The Project Direction Group provides the overall guidance to the project. They decide where the project should go and what is important. Their directives are sent to the Admin Group's Management Team for implementation.
+
+Day-to-day activities will be managed by the Admin Group's Management Team, who will direct members of the Admin Group to ensure the project's services and facilities are working properly. It is similar to the Executive office of a company.
+
+The most important function of the Management Team will be to manage the elections.
 
 ### Election Rules
 
 Elections will happen at least once per year, but may also occur whenever a Team decides by majority vote to call an election. This allows for a Team to get more help if needed.  An Election can be called in one of three ways:
 * By the majority (more than 50%) of the members of a Group or Team the Election is for. This allows for Groups or Teams to deal internally with issues.
-* By the Governance Team. This allows for periodic elections, and emergency actions like when there are no Team members.
+* By the Management Team. This allows for periodic elections, and emergency actions like when there are no Team members.
 * By request of more than 30% of the members of all Groups. This allows for the general opinion to be heard.
 
-Elections are run by the Governance Team, and will be done online.
+Elections are run by the Management Team, and will be done online.
 
 Elections automatically happen if a Team has 0 members. 
 
@@ -166,10 +201,11 @@ Project Direction Group
 Admin Group
 * All members of the Admin Group may vote.
 
-Admin Group Governance Team
+Admin Group's Management Team
 * All members of the Project Direction Group may vote.
 
 ## Development Group
+([Return to top](#contents))
 
 ### Overview 
 Members of this group actually write the code.
@@ -232,6 +268,7 @@ Other teams will include:
 * The Documentation Standards Team will produce one documentation standard. All documentation must meet this standard to pass the Documentation Team. 
 
 ## Release Management Group 
+([Return to top](#contents))
 
 ### Overview 
 
@@ -302,6 +339,7 @@ Build Team Process
 4. Either releases new version to the public, or returns to the Development Group team for fixes. 
 
 ## Project Direction Group 
+([Return to top](#contents))
 
 ### Overview 
 
@@ -360,20 +398,21 @@ For each proposal:
 7. The work packet will then be sent to the Development Group. 
 
 ## Admin Group 
+([Return to top](#contents))
 
 ### Overview 
 
 The Admin Group handles all the support mechanisms to keep the project afloat. These people will be either employed by the corporate sponsors, or just be very dedicated! 
 
-### Membership (excluding Governance Team)
+### Membership (excluding Management Team)
 
-Positions are appointed by the Governance Team.
+Positions are appointed by the Management Team.
 
-### Membership (Governance Team)
+### Membership (Management Team)
 
 Positions are elected by the Project Direction Group.
 
-### Governance Team 
+### Management Team 
 In charge of: 
 * Executing the vision laid down by the Project Direction Group. 
 * Co-ordinating between Groups and Teams. 

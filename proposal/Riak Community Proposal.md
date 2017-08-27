@@ -26,11 +26,13 @@ These people took active part in the disucssions on Slack providing inspiration,
 
 | Name | Slack alias | Company | Email address |
 | --- | --- | --- | --- |
+| Nick Adams | nadams | TI Tokyo | nicholas.adams@tiot.jp
 | Mark Allen | mrallen1 | Alert Logic | mrallen1@yahoo.com
-| Russell Brown | russeldb | Infinity Works | russell@wombat.me
+| Russell Brown | russelldb | Infinity Works | russell@wombat.me
 | Peter Clark | peterclark | TI Tokyo | peter.clark@tiot.jp
+| Sargun Dhillon | sargun |  | sargun@sargun.me
 | Heinz Gies | heinz | Project-Fifo | heinz@licenser.net
-| Bryan Hunt | binarytemple | Unknown (ex-Basho) | admin@binarytemple.co.uk
+| Bryan Hunt | binarytemple | (ex-Basho) | admin@binarytemple.co.uk
 | Pedram Nimreezi | deadzen | Zen Enterprise Networks | deadzen@deadzen.com
 | Azhar Nisar | azhar.nisar_nhs| NHS Digital | azhar.nisar@hscic.gov.uk
 | Gianluca Padovani | gpad | Coders51 | gpadovani@gmail.com

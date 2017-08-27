@@ -129,7 +129,7 @@ The aim of this project is to provide:
     * Management Team
     * Commercial Engagement Team (Riak promotion, public websites, etc...) 
     * Finance Team (Handling donations, payments, subscriptions, etc...) 
-    * Services Team (running common services like FTP, web, CI/CD servers, email and mailing list provision, backups, etc...) 
+    * Services Team (running common services like FTP, web, CD/CI servers, email and mailing list provision, backups, etc...) 
     * Feedback Team (collate bug reports, proposal submissions, security notifications, etc...) 
 
 ## Governance

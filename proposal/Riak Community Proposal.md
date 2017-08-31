@@ -1,4 +1,4 @@
-# Riak Community Proposal v0.1.1
+# Riak Community Proposal v0.1.2
 
 ## Contents
 
@@ -19,6 +19,7 @@
 
 * 2017-08-24 - v0.1.0 - First version created from discussions on Slack.
 * 2017-08-26 - v0.1.1 - Updated with feedback from [Slack meeting on 2017-08-25](meeting-minutes/2017-08-25-slack.md).
+* 2017-09-01 - v0.1.2 - Updated with feedback given in the past week.
 
 ### Authors
 
@@ -88,7 +89,7 @@ To stabilize this, we need a single canonical source for Riak and other Basho so
 ## Aims 
 ([Return to top](#contents))
 
-The overarching ethos of this project is to produce a high-reliability light-weight key-value store that can be easily extended with end-user desired functionality.
+The overarching ethos of this project is to produce a high-reliability, light-weight key-value store that can be easily extended with end-user desired functionality.
 
 The aim of this project is to provide: 
 
@@ -102,7 +103,7 @@ The aim of this project is to provide:
 ([Return to top](#contents))
 
 * Initial Period (starting 2017-08-25)
-    * By October 2017 (2017-10-01), this document should be finalised. 
+    * By October 2017 (2017-10-01), this document should reach version 1.0. 
     * By November 2017 (2017-11-01), all groups should have initial members. 
     * By December 2017 (2017-12-01), basic services should be up and running. 
     * By July 2018 (2018-07-01), set a date for the first set of elections and voting.
@@ -216,7 +217,7 @@ In the Continuing Period, this is anyone who has committed code in the last 6 mo
 ### Member removal 
 
 A Development Group member can be removed from the Development Group by:
-* a majority vote (more than 50%) of the other members of the Development Group. This should only happen in the case of serious misconduct, such as introducing flaws on purpose, or causing intentional damage to systems. 
+* a majority vote (more than 50%) of the other members of the Development Group. A removal vote shall only occur in the case of serious misconduct. 
 * themselves at any time. 
 
 ### How they choose what to work on 
@@ -284,7 +285,7 @@ Anyone in the Development Group can be nominated for membership to any Release M
 ### Member removal 
 
 A Release Management Group member can be removed from the Release Management Group by:
-* a majority vote (more than 50%) of the members of the Release Management Group. This should only happen in the case of serious misconduct, such as introducing flaws on purpose, or causing intentional damage to systems. This is specifically not done at a team level to stop camps developing.
+* a majority vote (more than 50%) of the members of the Release Management Group. A removal vote shall only occur in the case of serious misconduct. This is specifically not done at a team level to stop camps developing.
 * themselves at any time.
 * if a member loses an Election.
 
@@ -366,7 +367,7 @@ Each member is in the Project Direction Group for 1 year, but can be re-nominate
 
 Any member can be removed:
 * At any time by themselves.
-* By a majority (more than 50%) vote of the other members of the Project Direction Group. This should only happen in the case of serious misconduct.
+* By a majority (more than 50%) vote of the other members of the Project Direction Group. A removal vote shall only occur in the case of serious misconduct.
 * By losing an Election.
 
 ### Type of work packets 

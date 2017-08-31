@@ -95,6 +95,7 @@ The aim of this project is to provide:
 
 * A canonical open source version of source code for Riak. 
 * Tested installation packages of Riak for supported OSs. 
+* A canonical set of client libraries for Riak.
 * Canonical documentation on how to use Riak. 
 * Product information on when and why to use Riak. 
 * A public and easily understood minimalist structure.  

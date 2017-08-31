@@ -212,7 +212,7 @@ Open to anyone actively developing Riak.
 
 In the Initial Period, this is anyone who registers. 
 
-In the Continuing Period, this is anyone who has committed code in the last 6 months.
+In the Continuing Period, this is anyone who has committed code in the last 6 months that was either accepted or is undergoing review.
 
 ### Member removal 
 

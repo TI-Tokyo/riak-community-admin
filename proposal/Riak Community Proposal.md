@@ -329,7 +329,7 @@ Each team deals with work packets sent from the Development Group in this order:
 3. Check documentation describes what the item does and how to use it. 
 4. Either return item to the Development Group team for fixes or passes to Build Team. 
 
-Build Team Process
+### Build Team Process
 
 1. Receive work packet from Documentation Team. 
 2. Creates build process. 

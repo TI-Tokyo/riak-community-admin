@@ -105,7 +105,8 @@ The aim of this project is to provide:
 * Initial Period (starting 2017-08-25)
     * By October 2017 (2017-10-01), this document should reach version 1.0. 
     * By November 2017 (2017-11-01), all groups should have initial members. 
-    * By December 2017 (2017-12-01), basic services should be up and running. 
+    * By December 2017 (2017-12-01), basic services should be up and running.
+    * By January 2018 (2017-01-01), revisit proposal document to discuss possible required changes.
     * By July 2018 (2018-07-01), set a date for the first set of elections and voting.
 * Continuing Period (starting 2018-07-01)
 

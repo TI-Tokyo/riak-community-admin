@@ -198,7 +198,7 @@ The Election Process shall be:
 * All members of the Admin Group will get 1 vote.
 
 #### Admin Group's Management Team
-* All members of the Project Direction Group may vote.
+* All members of the Project Direction Group will get 1 vote.
 
 ### Process to change the Community's governance structure or processes
 

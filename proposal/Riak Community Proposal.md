@@ -164,19 +164,26 @@ A person can only hold one position in the Project Direction Group.
 The Election Process shall be:
 
 1. Day 0: An election is called.
-2. By day 7: All eligible voters are informed of the election details, and are asked for candidate nominations to be submitted within 14 calendar days. The elcection details sent shall comprise of;
+2. Within 1 week of step 1: All eligible voters are informed of the election details, and are asked for candidate nominations to be submitted within 14 calendar days. The elcection details sent shall comprise of;
     1. what positions; and
     2. why it was called; and
     3. when the vote will be; and
     4. who can vote.
-3. By day 21: All nominated people are contacted to confirm they wish to accept their nomination as a Candidate.
-4. By day 28: All Candidates have written a short blurb (max 500 works) on why they should be elected and submitted it.
-5. By day 35: All eligible voters are informed of all Candidates, their blurbs, and the voting dates.
-6. By day 49: The votes are cast and counted. Each voting person shall have one vote.
-7. This varies depending on the results:
-    1. Assuming a win: By day 56: The winners take their positions
-    2. Assuming a draw: Between days 56-61: a run-off election with the top 3 Candidates will cast and counted.
-    3. Assuming a technical failure: Between days 56-61, step 5 onwards will be repeated.
+3. Within 2 weeks of step 2: All nominated people are contacted to confirm they wish to accept their nomination as a Candidate.
+4. Within 1 week of step 3: All Candidates have written a short blurb (max 500 works) on why they should be elected and submitted it.
+5. Within 1 week of step 4: All eligible voters are informed of all Candidates, their blurbs, and the voting dates.
+6. Within 1 week of step 5: The votes are cast and counted. Each voting person shall have one vote.
+7. Within 1 week of step 6:
+    1. Assuming a win (more than 50%): 
+        - The winners take their positions.
+    2. Assuming a tie (there are two or more Candidates with an equally largest number of votes): 
+        - All Candidates below the tied Candidates are removed from the ballot.
+        - The election is re-run from step 5 with the smaller list of Candidates.
+    3. Assuming a majority is not achieved (all Candidates get 50% or less): 
+        - The Candidate with the lowest number of votes is removed.
+        - The election is re-run from step 5 with the smaller list of Candidates.
+    4. Assuming a technical failure: 
+        - The election is re-run from step 5.
 
 ### Voting Eligibility
 

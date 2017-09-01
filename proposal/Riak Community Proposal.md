@@ -120,7 +120,7 @@ The aim of this project is to provide:
     * N x Riak {subproject} Team – for example: 
         * Riak Core Team 
         * Riak KV Team 
-        * Riak CS Team 
+        * Riak CS Team
         * Riak Client Tools for Java Team 
 * Release Management Group 
     * Code Approval Team 
@@ -148,7 +148,7 @@ The most important function of the Management Team will be to manage the electio
 
 ### Election Rules
 
-Elections will happen at least once per year, but may also occur whenever a Team decides by majority vote to call an election. This allows for a Team to get more help if needed.  An Election can be called in one of three ways:
+Elections will happen at least once per year, but may also occur whenever a Group or Team decides by majority vote to call an election. This allows for a Team to get more help if needed.  An Election can be called in one of three ways:
 * By the majority (more than 50%) of the members of a Group or Team the Election is for. This allows for Groups or Teams to deal internally with issues.
 * By the Management Team. This allows for periodic elections, and emergency actions like when there are no Team members.
 * By request of more than 30% of the members of all Groups. This allows for the general opinion to be heard.
@@ -160,6 +160,12 @@ Elections automatically happen if a Team has 0 members.
 Each election will be decided by a Candidate getting a majority vote (more than 50%) of the votes cast. 
 
 A person can only hold one position in the Project Direction Group.
+
+Elections are for specific people, not positions for a company to fill. Shoud a person need to stand-down, a special election would be called.
+
+A company or organisation can only have a maximum of 1 End-User representative, 1 Developer Group representative and 1 Admin Group representative, and an overall maximum of 2 people in the Project Direction Group overall.
+
+For places on the Project Direction Boards, each sub-group (end-users, developers and admin) will have their regular elections staggered so as to be spread out across the year. Special elections can be called at any time, but should not be part of the regular election cycle.
 
 The Election Process shall be:
 

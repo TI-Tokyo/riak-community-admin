@@ -6,7 +6,6 @@
 * [Background](#background)
 * [Aims](#aims)
 * [Short-term objectives and time periods](#short-term-objectives-and-time-periods)
-* [Groups and Teams list](#groups-and-teams-list)
 * [Governance](#governance)
 * [Development Group](#development-group)
 * [Release Management Group](#release-management-group)

@@ -82,7 +82,7 @@ Riak has commonly referred to Riak KV as well as the larger Riak family. In this
 
 Much has changed since May when Basho started to demonstrate issues at maintaining company stability. End-users have had their support services cut off, most without notice and with no plan in place by Basho to replace them.  
 
-As the owner and primary developer of Riak has now gone, and the product has been made open source by both Basho (for the non-Enterprise Edition code) and bet365 (the new owners of the Enterprise Edition code and all other Basho IPR) the viability of the Riak platform has come into question. Some end-users have already made decisions to leave, and some have decided on a wait-and-see for a period of time. 
+As the owner and primary developer of Riak has now gone, and the product's Enterprise Edition code is being made Open Source by bet365 (the new owners of all Basho IPR) the viability of the Riak platform has come into question. Some end-users have already made decisions to leave, and some have decided on a wait-and-see for a period of time. 
 
 To stabilize this, we need a single canonical source for Riak and other Basho software to demonstrate to end-users that this platform is stable (won’t disappear), safe (bugfixes, security patches) and under development (new features and new OS support). 
 
@@ -107,7 +107,7 @@ The aim of this project is to provide:
     * By October 2017 (2017-10-01), this document should reach version 1.0. 
     * By November 2017 (2017-11-01), all groups should have initial members. 
     * By December 2017 (2017-12-01), basic services should be up and running.
-    * By January 2018 (2017-01-01), revisit proposal document to discuss possible required changes.
+    * By February 2018 (2018-02-01), revisit proposal document to discuss possible required changes.
     * By July 2018 (2018-07-01), set a date for the first set of elections and voting.
 * Continuing Period (starting 2018-07-01)
 
@@ -159,26 +159,24 @@ Elections automatically happen if a Team has 0 members.
 
 Each election will be decided by a Candidate getting a majority vote (more than 50%) of the votes cast. 
 
+A person can only hold one position in the Project Direction Group.
+
 The Election Process shall be:
 
 1. Day 0: An election is called.
-2. By day 7: All eligible voters are informed of the election details (what positions, why it was called, when the vote will be, who can vote), and are asked for candidate nominations to be submitted within 14 calendar days.
+2. By day 7: All eligible voters are informed of the election details, and are asked for candidate nominations to be submitted within 14 calendar days. The elcection details sent shall comprise of;
+    1. what positions; and
+    2. why it was called; and
+    3. when the vote will be; and
+    4. who can vote.
 3. By day 21: All nominated people are contacted to confirm they wish to accept their nomination as a Candidate.
 4. By day 28: All Candidates have written a short blurb (max 500 works) on why they should be elected and submitted it.
 5. By day 35: All eligible voters are informed of all Candidates, their blurbs, and the voting dates.
-6. By day 49: The votes are cast and counted.
-
-Assuming a win:
-
-7. By day 56: The winners take their positions
-
-Assuming a draw:
-
-7. Between days 56-61: a run-off election with the top 3 Candidates will cast and counted.
-
-Assuming a technical failure:
-
-7. Between days 56-61, step 5 onwards will be repeated.
+6. By day 49: The votes are cast and counted. Each voting person shall have one vote.
+7. This varies depending on the results:
+    1. Assuming a win: By day 56: The winners take their positions
+    2. Assuming a draw: Between days 56-61: a run-off election with the top 3 Candidates will cast and counted.
+    3. Assuming a technical failure: Between days 56-61, step 5 onwards will be repeated.
 
 ### Voting Eligibility
 

@@ -111,8 +111,18 @@ The aim of this project is to provide:
     * By July 2018 (2018-07-01), set a date for the first set of elections and voting.
 * Continuing Period (starting 2018-07-01)
 
-## Groups and Teams list 
+## Governance
 ([Return to top](#contents))
+
+### Overview
+
+The Project Direction Group provides the overall guidance to the project. They decide where the project should go and what is important. Their directives are sent to the Admin Group's Management Team for implementation.
+
+Day-to-day activities will be managed by the Admin Group's Management Team, who will direct members of the Admin Group to ensure the project's services and facilities are working properly. It is similar to the Executive office of a company.
+
+The most important function of the Management Team will be to manage the elections.
+
+### Groups and Teams list 
 
 The Riak Project (aka the Project) refers to all Teams and Groups that make it up. Riak Project Members (aka the Members) refers to all members of all Groups and Teams. 
 
@@ -141,17 +151,6 @@ Each Group is made up of Teams which deal with specific areas of responsibility.
         * Finance Team (Handling donations, payments, subscriptions, etc...) (a 'Team')
         * Services Team (running common services like FTP, web, CD/CI servers, email and mailing list provision, backups, etc...) (a 'Team')
         * Feedback Team (collate bug reports, proposal submissions, security notifications, etc...) (a 'Team')
-
-## Governance
-([Return to top](#contents))
-
-### Overview
-
-The Project Direction Group provides the overall guidance to the project. They decide where the project should go and what is important. Their directives are sent to the Admin Group's Management Team for implementation.
-
-Day-to-day activities will be managed by the Admin Group's Management Team, who will direct members of the Admin Group to ensure the project's services and facilities are working properly. It is similar to the Executive office of a company.
-
-The most important function of the Management Team will be to manage the elections.
 
 ### Election Rules
 

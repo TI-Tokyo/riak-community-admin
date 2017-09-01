@@ -207,7 +207,7 @@ The Election Process shall be:
 * All companies supporting the project through resources or financing in the 6 months prior to an election being called will get 1 vote for the End-User positions.
 * All members of the Admin Group will get 1 vote for the Admin position.
 
-* **How to decide membership of PDG for end-users is TO BE DECIDED.**
+* **How to decide membership of PDG for end-users is TO BE DECIDED.** [Issue 3](https://github.com/TI-Tokyo/riak-community-admin/issues/3).
 
 #### Admin Group
 * All members of the Admin Group will get 1 vote.

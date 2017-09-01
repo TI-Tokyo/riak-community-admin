@@ -1,4 +1,4 @@
-# Riak Community Proposal v0.1.2
+# Riak Project Proposal v0.1.2
 
 ## Contents
 
@@ -114,7 +114,13 @@ The aim of this project is to provide:
 ## Groups and Teams list 
 ([Return to top](#contents))
 
-* Riak Community (the 'Community')
+The Riak Project (aka the Project) refers to all Teams and Groups that make it up. Riak Project Members (aka the Members) refers to all members of all Groups and Teams. 
+
+The Project is made up of four Groups handling different areas. These Groups are the Development Group, the Release Management Group, the Project Direction Group and the Admin Group.
+
+Each Group is made up of Teams which deal with specific areas of responsibility. For example, a Team might deal with writing source code for Riak Core, and would therefore NOT deal with writing source code for Riak KV. Teams will work together, and membership is intended to be fluid between them.
+
+* Riak Project (the 'Project')
     * Development Group (a 'Group')
         * Coding Standards Team  (a 'Team')
         * Documentation Standards Team  (a 'Team')
@@ -216,16 +222,16 @@ The Election Process shall be:
 #### Admin Group's Management Team
 * All members of the Project Direction Group will get 1 vote.
 
-### Process to change the Community's governance structure or processes
+### Process to change the Project's governance structure or processes
 
 #### General Changes
-General changes to the Community's governance structure or processes can be proposed by any project member to the Project Direction Group via the Admin Group's Feedback Team. 
+General changes to the Project's governance structure or processes can be proposed by any project member to the Project Direction Group via the Admin Group's Feedback Team. 
 
 A Project Direction Group member must sponsor a proposal and it must be seconded by another member to then go to a vote of all members. 
 
 The vote is passed with a majority vote of more than 75% of the members of the Project Direction Group. 
 
-This result can be contested by a group consisting of more than 10% of the voting eligible members of the Community, which will lead to a Community-wide referendum held by the same rules as an election.
+This result can be contested by a group consisting of more than 10% of the voting eligible members of the Project, which will lead to a Project-wide referendum held by the same rules as an election.
 
 #### Group-level Changes
 Changes that apply to only one Group can be contested by a group consisting of more than 10% of the voting eligible members of the Group in question, which will lead to a Group-wide referendum held by the same rules as an election.

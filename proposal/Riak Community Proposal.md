@@ -180,24 +180,24 @@ The Election Process shall be:
 
 ### Voting Eligibility
 
-Development Group
-* All members of the Development Group may vote.
+#### Development Group
+* All members of the Development Group will get 1 vote.
 
-Development Group Teams
-* All members of the Development Group Team may vote.
+#### Development Group Teams
+* All members of the Development Group Team will get 1 vote.
 
-Release Management Group and Teams
-* All members of the Development Group may vote.
+#### Release Management Group and Teams
+* All members of the Development Group will get 1 vote.
 
-Project Direction Group
-* All members of the Development Group may vote for the Developer positions.
-* All companies supporting the project through resources or financing will get 1 vote for the End-User positions.
-* All members of the Admin Group may vote for the Admin position.
+#### Project Direction Group
+* All members of the Development Group will get 1 vote for the Developer positions.
+* All companies supporting the project through resources or financing in the 6 months prior to an election being called will get 1 vote for the End-User positions.
+* All members of the Admin Group will get 1 vote for the Admin position.
 
-Admin Group
-* All members of the Admin Group may vote.
+#### Admin Group
+* All members of the Admin Group will get 1 vote.
 
-Admin Group's Management Team
+#### Admin Group's Management Team
 * All members of the Project Direction Group may vote.
 
 ### Process to change the Community's governance structure or processes

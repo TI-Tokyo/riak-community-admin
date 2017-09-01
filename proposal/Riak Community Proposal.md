@@ -160,6 +160,8 @@ Elections will happen at least once per year, but may also occur whenever a Grou
 
 Elections are run by the Management Team, and will be done online.
 
+All election details are public, apart from individual votes.
+
 Elections automatically happen if a Team has 0 members. 
 
 Each election will be decided by a Candidate getting a majority vote (more than 50%) of the votes cast. 

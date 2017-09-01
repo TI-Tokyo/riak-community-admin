@@ -114,26 +114,27 @@ The aim of this project is to provide:
 ## Groups and Teams list 
 ([Return to top](#contents))
 
-* Development Group 
-    * Coding Standards Team 
-    * Documentation Standards Team 
-    * N x Riak {subproject} Team – for example: 
-        * Riak Core Team 
-        * Riak KV Team 
-        * Riak CS Team
-        * Riak Client Tools for Java Team 
-* Release Management Group 
-    * Code Approval Team 
-    * Testing Team 
-    * Build Team 
-    * Documentation Team 
-* Project Direction Group 
-* Admin Group 
-    * Management Team
-    * Commercial Engagement Team (Riak promotion, public websites, etc...) 
-    * Finance Team (Handling donations, payments, subscriptions, etc...) 
-    * Services Team (running common services like FTP, web, CD/CI servers, email and mailing list provision, backups, etc...) 
-    * Feedback Team (collate bug reports, proposal submissions, security notifications, etc...) 
+* Riak Community (the 'Community')
+    * Development Group (a 'Group')
+        * Coding Standards Team  (a 'Team')
+        * Documentation Standards Team  (a 'Team')
+        * N x Riak {subproject} Team – for example: (each a 'Team')
+            * Riak Core Team 
+            * Riak KV Team 
+            * Riak CS Team
+            * Riak Client Tools for Java Team 
+    * Release Management Group  (a 'Group')
+        * Code Approval Team (a 'Team')
+        * Testing Team (a 'Team')
+        * Build Team (a 'Team')
+        * Documentation Team (a 'Team')
+    * Project Direction Group  (a 'Group')
+    * Admin Group  (a 'Group')
+        * Management Team (a 'Team')
+        * Commercial Engagement Team (Riak promotion, public websites, etc...) (a 'Team')
+        * Finance Team (Handling donations, payments, subscriptions, etc...) (a 'Team')
+        * Services Team (running common services like FTP, web, CD/CI servers, email and mailing list provision, backups, etc...) (a 'Team')
+        * Feedback Team (collate bug reports, proposal submissions, security notifications, etc...) (a 'Team')
 
 ## Governance
 ([Return to top](#contents))

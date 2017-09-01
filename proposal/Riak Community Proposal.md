@@ -200,6 +200,25 @@ Admin Group
 Admin Group's Management Team
 * All members of the Project Direction Group may vote.
 
+### Process to change the Community's governance structure or processes
+
+#### General Changes
+General changes to the Community's governance structure or processes can be proposed by any project member to the Project Direction Group via the Admin Group's Feedback Team. 
+
+A Project Direction Group member must sponsor a proposal and it must be seconded by another member to then go to a vote of all members. 
+
+The vote is passed with a majority vote of more than 75% of the members of the Project Direction Group. 
+
+This result can be contested by a group consisting of more than 10% of the voting eligible members of the Community, which will lead to a Community-wide referendum held by the same rules as an election.
+
+#### Group-level Changes
+Changes that apply to only one Group can be contested by a group consisting of more than 10% of the voting eligible members of the Group in question, which will lead to a Group-wide referendum held by the same rules as an election.
+
+#### Team-level Changes
+A Team can change it's internal processes with a majority vote of more than 75% of the eligible voters.
+
+The Project Direction Group can veto the changes voted at on the Team level with a majority vote of more than 50% of the Project Direction Group members.
+
 ## Development Group
 ([Return to top](#contents))
 

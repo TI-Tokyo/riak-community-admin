@@ -1,4 +1,4 @@
-# Riak Project Proposal v0.1.2
+# Riak Project Proposal v0.1.3
 
 ## Contents
 
@@ -19,6 +19,7 @@
 * 2017-08-24 - v0.1.0 - First version created from discussions on Slack.
 * 2017-08-26 - v0.1.1 - Updated with feedback from [Slack meeting on 2017-08-25](meeting-minutes/2017-08-25-slack.md).
 * 2017-09-01 - v0.1.2 - Updated with feedback given in the past week.
+* 2017-09-01 - v0.1.3 - Updated with feedback from [Slack meeting on 2017-09-01](meeting-minutes/2017-09-01-slack.md).
 
 ### Authors
 
@@ -33,9 +34,11 @@ These people took active part in the disucssions on Slack providing inspiration,
 | Sargun Dhillon | sargun |  | sargun@sargun.me
 | Heinz Gies | heinz | Project-Fifo | heinz@licenser.net
 | Bryan Hunt | binarytemple | (ex-Basho) | admin@binarytemple.co.uk
+| Damien Krotkine | dams | Booking.com | damien@krotkine.com
 | Pedram Nimreezi | deadzen | Zen Enterprise Networks | deadzen@deadzen.com
 | Azhar Nisar | azhar.nisar_nhs| NHS Digital | azhar.nisar@hscic.gov.uk
 | Gianluca Padovani | gpad | Coders51 | gpadovani@gmail.com
+| Alejandro Ramallo | alejandro.ramallo | Leapsight | alejandro.ramallo@leapsight.com
 | Steve Roberts | steve_erlang | Erlang Solutions Limited | steve.roberts@erlang-solutions.com
 | Bill Smargiassi | smarg | TI Tokyo | bill.smargiassi@tiot.jp
 | Stuart Whitfield | sjmw | Erlang Solutions Limited | stuart.whitfield@erlang-solutions.com

@@ -1,0 +1,191 @@
+[
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6S4RDVEE> Can you check non-TI-Tokyo people can edit it?",
+        "ts": "1503731006.000042"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "looks like it",
+        "ts": "1503731082.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U6RPFG5FH",
+        "text": "<@U6RPFG5FH|gpad> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503732240.000040"
+    },
+    {
+        "user": "U6Q3413HP",
+        "text": "<@U6Q3413HP|mihailozarinschi> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503735831.000003"
+    },
+    {
+        "user": "U6Q6G7S82",
+        "text": "<@U6Q6G7S82|heinz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503749540.000059"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "hello channel!",
+        "ts": "1503749545.000049"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Hi <@U6Q6G7S82>!",
+        "ts": "1503749580.000031",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U6QC6EQH2",
+        "text": "<@U6QC6EQH2|nadams> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503753759.000054"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Code of Conduct\n--------------------\nTaken from <#C6R0LPH4N|general> discussions between <@U6Q6G7S82> and <@U6PHKFTA5> earlier today.\n\nSample CoC from other projects:\n\nUbuntu\n<https:\/\/www.ubuntu.com\/about\/about-ubuntu\/conduct>\n\nPython\n<https:\/\/www.python.org\/psf\/codeofconduct\/>\n\nFreeBSD\n<https:\/\/www.freebsd.org\/internal\/code-of-conduct.html>\n\nPostgres\n<https:\/\/wiki.postgresql.org\/wiki\/Code_of_Conduct>\n\nProject-Fifo (<@U6Q6G7S82>'s project)\n<https:\/\/project-fifo.net\/coc.html>\n\nThe thoughts so far is that short and simple is better for the time being. That would make the CoC from Python and Project-Fifo the ones to check out first, and Ubuntu's one as rather long and wordy.\n\nPlease reply in the thread.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503804352.000000"
+        },
+        "thread_ts": "1503804331.000061",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1503804485.000066"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1503838611.000002"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1503804331.000061"
+    },
+    {
+        "user": "U6PHKFTA5",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6PHKFTA5|kunthar> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503804337.000039"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I like the short and simple ones, too. We can always change it in the future. For the time being, I'd go for Project Fifo's one as it is very simple, easy to understand and hits all the right notes.",
+        "thread_ts": "1503804331.000061",
+        "parent_user_id": "U6Q92JWHY",
+        "ts": "1503804485.000066"
+    },
+    {
+        "user": "U6TRUK9R9",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6TRUK9R9|dams> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503804615.000019"
+    },
+    {
+        "user": "U6SF36D37",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6SF36D37|mrallen1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503804685.000059"
+    },
+    {
+        "user": "U6R6ETJU8",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6R6ETJU8|russelldb> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503804685.000068"
+    },
+    {
+        "user": "U6T3BQN2V",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6T3BQN2V|binarytemple> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503804685.000083"
+    },
+    {
+        "user": "U6SFU2VFW",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6SFU2VFW|azhar.nisar_nhs> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503804685.000088"
+    },
+    {
+        "user": "U6TA2DSRK",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6TA2DSRK|steve_erlang> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503804685.000094"
+    },
+    {
+        "user": "U6SUK860N",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6SUK860N|smarg> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503804685.000100"
+    },
+    {
+        "user": "U6RSL1K16",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6RSL1K16|sjmw> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503804685.000104"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I have added the active participants from <#C6R9UK5LZ|planning-2017-08-25>. Anyone else may join as this is public. I have placed a notice in the <#C6R0LPH4N|general> channel and the <#C6R9UK5LZ|planning-2017-08-25> channel to come here.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1503804893.000000"
+        },
+        "ts": "1503804762.000034"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Next Meeting\n----------------\nFriday 2017-09-01 at 17:30 BST in this channel.\n\nFor any discussion\/comments on the time\/place of this meeting, please make it in a thread.",
+        "ts": "1503804859.000009"
+    }
+]

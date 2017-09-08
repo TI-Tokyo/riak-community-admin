@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "<@U6TPP9N4F> nice to see you",
+        "ts": "1504012750.000105"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "<@U6TPP9N4F> Hey Jon - good to see you - it's been a long time. ",
+        "ts": "1504014091.000681"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "<@U6TRUK9R9> you too",
+        "ts": "1504014135.000478"
+    },
+    {
+        "type": "message",
+        "user": "U6TPP9N4F",
+        "text": "<@U6QC6EQH2> <@U6T3BQN2V> Good to see you bolth as well",
+        "ts": "1504015869.000023"
+    },
+    {
+        "type": "message",
+        "user": "U6TRUK9R9",
+        "text": "++",
+        "ts": "1504016555.000477"
+    }
+]

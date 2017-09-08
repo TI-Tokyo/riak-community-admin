@@ -1,0 +1,1134 @@
+[
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Feedback to integrate before tomorrow's meeting should be sent ASAP.",
+        "ts": "1504181930.000208",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6PHKFTA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I went through the doc and made 2 tickets for things I noticed but didn’t have a clear solution. Also a few PR’s with suggested changes.",
+        "ts": "1504206945.000250",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6PHKFTA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170901T1730&amp;p0=136&amp;msg=Riak+meeting&amp;font=cursive> Sorry, corrected countdown for the next meeting",
+        "attachments": [
+            {
+                "title": "Riak meeting",
+                "title_link": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170901T1730&p0=136&msg=Riak+meeting&font=cursive",
+                "text": "Countdown to Sep 1, 2017 5:30 pm. Showing days, hours, minutes and seconds ticking down to 0",
+                "fallback": "Riak meeting",
+                "image_url": "https:\/\/www.timeanddate.com\/scripts\/cdog.php?countdownto=Countdown%20to&image=generic&title=Riak%20meeting&date=Sep%201,%202017%20at%205%3a30%20pm&font=cursive",
+                "from_url": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170901T1730&p0=136&msg=Riak+meeting&font=cursive",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 72467,
+                "service_icon": "https:\/\/www.timeanddate.com\/favicon.ico",
+                "service_name": "timeanddate.com",
+                "id": 1
+            }
+        ],
+        "ts": "1504207073.000330"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Having a re-read and a few things came up:\n<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#riak-product-name> - currently lists all products with only open source. Once everything becomes open source, how will we differentiate the Enterprise Edition from the Open Source one by the currently suggested nomen culture?\n\n<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#background> - paragraph 2 `As the owner and primary developer of Riak has now gone, and the product has been made open source by both Basho (for the non-Enterprise Edition code) and bet365 (the new owners of the Enterprise Edition code and all other Basho IPR) the viability of the Riak platform has come into question. `\nWhy would making the product open source cause the viability of the Riak platform to come into question? Tesla made all their IP open source and their cars are booming. Also Basho has kept the Open Source version Open Source for ages, it is not a recent change. Possibly remove this part?\nSuggest rephrasing:  `As the owner and primary developer of Riak has now gone, and the product's Enterprise Edition code is being made Open Source by bet365 (the new owners of all Basho IPR) the viability of the Riak platform has come into question. `",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504229127.000000"
+        },
+        "thread_ts": "1504227072.000168",
+        "reply_count": 5,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504229606.000009"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504229626.000234"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504230523.000190"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504230540.000111"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504231106.000220"
+            }
+        ],
+        "unread_count": 5,
+        "ts": "1504227072.000168"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#short-term-objectives-and-time-periods> - `By January 2018 (2017-01-01), revisit proposal document to discuss possible required changes.` surely `By January 2018 (2018-01-01), revisit proposal document to discuss possible required changes.`\nAlso, does July 2018 seem a little late for the first set of elections?",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504229119.000000"
+        },
+        "thread_ts": "1504227261.000088",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504229734.000025"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504230409.000094"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1504227261.000088"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#election-rules> - other than being three \"7\"s here, \n```Assuming a draw:\n\n    Between days 56-61: a run-off election with the top 3 Candidates will cast and counted.\n```\nScenario A: 5 candidates for Election. Candidate 1 and Candidate 2 gain 45% of votes each with Candidate 3 only getting 5% and the other candidates sharing the remaining 5%. Why should Candidate 3 be given another chance?\nScenario B: 5 candidates for Election. Candidates 1-4 all score 24% while Candidate 5 scores 4%. Which of the 4 tied candidates should be excluded?",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504229112.000000"
+        },
+        "thread_ts": "1504228554.000007",
+        "reply_count": 10,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504229949.000045"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504230066.000240"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504230107.000050"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504231150.000170"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504231184.000198"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504231272.000003"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504231355.000066"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232095.000024"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232136.000231"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504245669.000157"
+            }
+        ],
+        "unread_count": 10,
+        "ts": "1504228554.000007"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Same section, `All companies supporting the project through resources or financing will get 1 vote for the End-User positions.` does that mean that if I am a member of a group and my company contributes, do I technically get two votes?",
+        "thread_ts": "1504228649.000174",
+        "reply_count": 53,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504230108.000124"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504230160.000021"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504230310.000160"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504231054.000155"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232293.000100"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504232345.000115"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232403.000011"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232411.000220"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504232448.000128"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232455.000184"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232469.000123"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504232493.000177"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504232507.000010"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504232517.000235"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232524.000064"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232538.000087"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504232543.000081"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232574.000027"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504232782.000123"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232859.000055"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504232913.000028"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232951.000069"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232972.000072"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504232978.000128"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504232991.000123"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504233030.000107"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233043.000127"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233053.000086"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504233073.000036"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233079.000141"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233087.000012"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504233148.000168"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233191.000102"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504233198.000088"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233208.000072"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504233220.000016"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233225.000007"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233235.000074"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233238.000220"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233246.000210"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233261.000078"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233277.000042"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504233278.000066"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233343.000118"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504233348.000143"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233352.000138"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233386.000083"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233417.000002"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504233482.000062"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233516.000008"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233534.000115"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233544.000032"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504233589.000135"
+            }
+        ],
+        "unread_count": 53,
+        "ts": "1504228649.000174"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#development-group> - `In the Continuing Period, this is anyone who has committed code in the last 6 months that was either accepted or is undergoing review.` does this imply that people who have not contributed anything from the last 6 months should be removed or are we looking to acquire a zombie following?",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#development-group",
+                "text": "riak-community-admin - This GitHub contains documents relating to the formation of a Riak Community.",
+                "fallback": "GitHub: TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#development-group",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/30156093?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1504229119.000067",
+        "reply_count": 5,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504230153.000021"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504230194.000114"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504231410.000105"
+            },
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504231439.000049"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504231723.000048"
+            }
+        ],
+        "unread_count": 5,
+        "ts": "1504229119.000067"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#membership-2> - `In the Initial Period, members of the Project Direction Group will be appointed by the start-up group. This gets us up-and-running quickly. In the Continuing Period, membership will be by election.` although should be a one off, what happens if there is competition for the lone admin position when positions are appointed instead of elected?",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#membership-2",
+                "text": "riak-community-admin - This GitHub contains documents relating to the formation of a Riak Community.",
+                "fallback": "GitHub: TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#membership-2",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/30156093?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504229496.000000"
+        },
+        "thread_ts": "1504229475.000170",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U6Q92JWHY",
+                "ts": "1504230933.000043"
+            },
+            {
+                "user": "U6QC6EQH2",
+                "ts": "1504230993.000010"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1504229475.000170"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "ok, I'm done",
+        "ts": "1504229600.000078"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The company heading all the development work has gone. The new owner has not said they will be continuing development - just making it open-source. Just being open-source does not make things viable - people have to spend time and money. That is what calls it into question. \n\nTesla is still there making things and investing lots of resources, so that is a false equivalent.",
+        "thread_ts": "1504227072.000168",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504229606.000009"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nadams I think appointed == elected by the project direction group",
+        "ts": "1504229616.000232"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The text change is nice, though. Makes it clearer.",
+        "thread_ts": "1504227072.000168",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504229626.000234"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I don't think so. 6 months will go by quickly, and a stable period is needed to get things moving.",
+        "thread_ts": "1504227261.000088",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504229734.000025"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I had a feeling that might just be a wording issue. I don't think it should be a real life issue but without lack of expansion, has the potential to be misunderstood",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504229785.000000"
+        },
+        "ts": "1504229774.000296"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ja I totally agree wording it carefully matters :slightly_smiling_face:",
+        "ts": "1504229908.000014"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "What phrasing do you suggest? Cut offs are arbitrary as they have to be. Sometimes that means silly events occur, but at least the rules are easily understood.",
+        "thread_ts": "1504228554.000007",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504229949.000045"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Maybe just a re-election between all tied candidates?\n`Between days 56-61: a run-off election with the top tied Candidates will be cast and counted`?",
+        "thread_ts": "1504228554.000007",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230066.000240"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "so for Scenario A, that would be the top 2 and Scenario B would be the top 4.",
+        "thread_ts": "1504228554.000007",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230107.000050"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If the Development Group has placed you in the PDG, and the end-users have chosen you as well then yes under the current rules. That should probably be limited to one vote per member.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230108.000124"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It means they can't vote.",
+        "thread_ts": "1504229119.000067",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230153.000021"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Maybe companies would need to elect a representative who would get their vote?",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230160.000021"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "So still a member but not able to vote if they are not actively producing things?",
+        "thread_ts": "1504229119.000067",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230194.000114"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Although I can also see a cross purpose here - as an Individual, I want to vote for A but my company wants to vote for B. With only one vote, should I abstain? If I abstain, wouldn't that essentially be a vote for C?",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230310.000160"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Fair enough",
+        "thread_ts": "1504227261.000088",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230409.000094"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "`The new owner has not said they will be continuing development` they have not denied it either to my knowledge",
+        "thread_ts": "1504227072.000168",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230523.000190"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "but the suggested phrasing works for me either way",
+        "thread_ts": "1504227072.000168",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230540.000111"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "In the initial period, all these positions are going to be appointed by us. 'Us' being defined as people who have contributed to the document. The PDG gets to choose the Management Team by voting. The Management Team picks Admin Group staff by whatever means they determine (which is why I wrote appoint - I don't want a non-techie running the server infrastructure!). Members of the Admin Group then choose their representative on the PDG in the Continuing phase. As this is circular, we need a starting point outside the system, which is us. How we do this is undecided, but a vote of the people who contributed seems fair.",
+        "thread_ts": "1504229475.000170",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230933.000043"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I'm good with that",
+        "thread_ts": "1504229475.000170",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504230993.000010"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Companies do have to elect a representative. It says so: \n\nEnd-users – technical representatives from companies\/organisations using Riak.\n\n5 positions for End-Users.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504231054.000155"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And that makes uncertaincy.",
+        "thread_ts": "1504227072.000168",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504231106.000220"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Makes sense.",
+        "thread_ts": "1504228554.000007",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504231150.000170"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Oh, and there are three 7's as there are three possible outcomes leading to three step 7's.",
+        "thread_ts": "1504228554.000007",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504231184.000198"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "not quite clear as is. Maybe suffix `a), b), c)`?",
+        "thread_ts": "1504228554.000007",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504231272.000003"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Good idea.",
+        "thread_ts": "1504228554.000007",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504231355.000066"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes. Someone might go dormant for a while and then come back.",
+        "thread_ts": "1504229119.000067",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504231410.000105"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Trying to avoid zombie voters :slightly_smiling_face:",
+        "thread_ts": "1504229119.000067",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504231439.000049"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "logical",
+        "thread_ts": "1504229119.000067",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504231723.000048"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Making it:\n\n```7. This varies depending on the results: \n    i. Assuming a win: By day 56: The winners take their positions\n    ii. Assuming a draw: Between days 56-61: a run-off election with the top 3 Candidates will cast and counted.\n    iii. Assuming a technical failure: Between days 56-61, step 5 onwards will be repeated.```",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504232126.000000"
+        },
+        "thread_ts": "1504228554.000007",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232095.000024"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Markdown generated list.",
+        "thread_ts": "1504228554.000007",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232136.000231"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Added the to the election process rules in #6 that each person shall have 1 vote.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232293.000100"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "how does that deal with the scenario above?",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232345.000115"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It means that if for some freakish reason you get elected by both the Development Group and by the group of end-users that you can only vote once in the Project Direction Group.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504232443.000000"
+        },
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232403.000011"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "How you vote is up to you.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232411.000220"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "So if my company wants A and I want B, I'm damned if I do and I'm damned if I don't?",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232448.000128"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232455.000184"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Much like in a regular election if you want things from two parties.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232469.000123"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "That's the issue - I know what I want but my company wants something else.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232493.000177"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "so that is two different entities wanting two different things",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232507.000010"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "problem is only one voice to express them with",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232517.000235"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Then either persuade your boss you are wrong, or resign from one or the other.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232524.000064"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Either way, you only get one vote.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232538.000087"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "This sounds sub-ideal",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232543.000081"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "What's your preferred solution?",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232574.000027"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Debating between two.\na) Company has to elect a representative who is not in any other group i.e. if you get elected to another group, you have to choose which group you belong to between being company representative or individual group member.\nb) Allow two votes as essentially the individual is wearing two hats but on condition that they vote in the best interests of the hat they are wearing, even if the votes would cancel each other out. This latter one does leave things slightly open to abuse unless corporate votes are open",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232782.000123"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I see no issue with being in the Development Group and being an end-user representative in the Project Direction Group. I just see issues with having both jobs *in* the PDG.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504232864.000000"
+        },
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232859.000055"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "possibly this should be discussed with more people later?",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504232915.000000"
+        },
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232913.000028"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Ideally yes. So far, I have found it best to propose a solution and see what people say.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232951.000069"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We should come up with a solution and then get feedback on it.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232972.000072"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Well, we have three-ish solutions there",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232978.000128"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "How about we keep it simple: A person can only hold one position in the Project Direction Group.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504232991.000123"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "i.e. if you are an appointed corporate rep, you can't become a candidate for another position in the same group?",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233030.000107"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No - only in the Project Direction Group.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233043.000127"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That's the only place this matters.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233053.000086"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "ok, so affix that the the sentence and we are good?",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233073.000036"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And corporates can't appoint anyone.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233079.000141"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They get elected by the group of end-users.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233087.000012"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "```\nCompanies do have to elect a representative. It says so:\n\nEnd-users – technical representatives from companies\/organisations using Riak.\n```",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233148.000168"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That was me, earlier.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233191.000102"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "yes",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233198.000088"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So you... agree?",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233208.000072"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "it contradicts what you said a minute ago",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233220.000016"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233225.000007"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I said companies can't appoint people.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233235.000074"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They can't.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233238.000220"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They have to elect them fair and square.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233246.000210"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If there are 50 companies and 5 places, how else is it going to work?",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233261.000078"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```* All companies supporting the project through resources or financing will get 1 vote for the End-User positions.```",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233277.000042"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "My new concern is that this could annoy companies enough that they lose interest.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233278.000066"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If they don't want to participate then they get no say in the project. They get to put their proposals just the same as anyone else.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233343.000118"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "As in a CEO says `If we are paying all this money to this project, why don't we have a say in where it goes?`",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233348.000143"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "You can't have a board of unlimited size.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233352.000138"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They do have a say - they just have to argue their case.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233386.000083"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The people on the Project Direction Group are like any elected people - you can talk to them and persuade them of your case to gain support.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233417.000002"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Although that does make sense, I have mild concerns but no recommendations",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233482.000062"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Talk it over with others and see if anything pops up.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233516.000008"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I imagine that once we get more company reps in here, we'll have more discussions.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233534.000115"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The idea is to organise the group as a whole.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233544.000032"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The end-users might decide that votes are based on the monetry value of their donations, for example. But that wouldn't change the number of places on the Project Direction Group.",
+        "thread_ts": "1504228649.000174",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504233589.000135"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Cleaned up the language to be simpler, and use time periods instead of fixed days from 0.",
+        "thread_ts": "1504228554.000007",
+        "parent_user_id": "U6QC6EQH2",
+        "ts": "1504245669.000157"
+    }
+]

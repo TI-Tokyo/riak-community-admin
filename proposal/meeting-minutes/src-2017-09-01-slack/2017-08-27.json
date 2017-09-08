@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U6Q92JWHY",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[August 26th, 2017 8:34 PM] peterclark: Next Meeting\n----------------\nFriday 2017-09-01 at 17:30 BST in this channel.\n\nFor any discussion\/comments on the time\/place of this meeting, please make it in a thread.",
+                "ts": "1503804859.000009",
+                "author_subname": "peterclark",
+                "channel_id": "C6TD30YTA",
+                "channel_name": "planning-2017-09-01",
+                "is_msg_unfurl": true,
+                "text": "Next Meeting\n----------------\nFriday 2017-09-01 at 17:30 BST in this channel.\n\nFor any discussion\/comments on the time\/place of this meeting, please make it in a thread.",
+                "author_name": "Peter Clark",
+                "author_link": "https:\/\/postriak.slack.com\/team\/peterclark",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-08-18\/228371050276_a17fd2340757b9be054a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U6Q92JWHY|peterclark> pinned a message to this channel.",
+        "ts": "1503826370.000029"
+    },
+    {
+        "user": "U6RBJQFC5",
+        "text": "<@U6RBJQFC5|senthil> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503826897.000004"
+    },
+    {
+        "user": "U6SGRGW4V",
+        "text": "<@U6SGRGW4V|alejandro.ramallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503829351.000048"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I’m obviously biased on this as I already made the decision for msyself :wink: but I do like the python one as well.",
+        "edited": {
+            "user": "U6Q6G7S82",
+            "ts": "1503838657.000000"
+        },
+        "thread_ts": "1503804331.000061",
+        "parent_user_id": "U6Q92JWHY",
+        "ts": "1503838611.000002"
+    },
+    {
+        "user": "U6TTB3G83",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6TTB3G83|mcx> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503841392.000003"
+    }
+]

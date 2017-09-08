@@ -1,0 +1,3212 @@
+[
+    {
+        "type": "message",
+        "user": "U6TRUK9R9",
+        "text": "\\o\/ I should be able to join the meeting tonight",
+        "ts": "1504273315.000044",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6TRUK9R9",
+        "text": "at least part of it",
+        "ts": "1504273324.000111"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Try to read the prposal before then, too.",
+        "ts": "1504274095.000184"
+    },
+    {
+        "type": "message",
+        "user": "U6TRUK9R9",
+        "text": "I have",
+        "ts": "1504280745.000484"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Hi <!channel> - it's coming up to 17:30 so shall we get this going?",
+        "ts": "1504283372.000689",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6SGRGW4V",
+                    "U6RPFG5FH",
+                    "U6TRUK9R9",
+                    "U6Q6G7S82"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Link to current proposal: <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md>",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504283468.000000"
+        },
+        "ts": "1504283456.000158"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Agenda:\n\n1. Introductions - any new people?\n2. Time of next meeting - some find this too early, some too late, seems worthwhile a quick discussion.\n3. Governance structure.\n4. Dev Teams and their projects",
+        "ts": "1504283555.000353"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Anyone got anything they want to add to that?",
+        "ts": "1504283562.000548"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Can I get some feedback, even if just in the form of thumbs up?",
+        "ts": "1504283738.000286",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6RPFG5FH",
+                    "U6SUK860N",
+                    "U6Q6G7S82"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Is there anyone from bet365? Any direct contact from their?",
+        "ts": "1504283807.000217"
+    },
+    {
+        "text": "is here",
+        "type": "message",
+        "subtype": "me_message",
+        "user": "U6Q6G7S82",
+        "ts": "1504283825.000508"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I think they are watching but not partaking until their deal goes through.",
+        "ts": "1504283853.000141"
+    },
+    {
+        "text": "is here (from <http:\/\/booking.com|booking.com>)",
+        "type": "message",
+        "subtype": "me_message",
+        "user": "U6TRUK9R9",
+        "ts": "1504283897.000385"
+    },
+    {
+        "type": "message",
+        "user": "U6SGRGW4V",
+        "text": "is here too.",
+        "ts": "1504283914.000024"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Hi <@U6SGRGW4V>, <@U6TRUK9R9> !",
+        "ts": "1504283952.000282"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Welcome!",
+        "ts": "1504283963.000148"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6TRUK9R9> - I understand that you use Riak KV at <http:\/\/Booking.com|Booking.com>?",
+        "ts": "1504283983.000533"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And <@U6SGRGW4V>, you run an IT consultancy in the UK?",
+        "ts": "1504284034.000172"
+    },
+    {
+        "type": "message",
+        "user": "U6SGRGW4V",
+        "text": "Yes <@U6Q92JWHY> , we have a Riak Core based relational\/graph DB (<http:\/\/leapsight.com\/pages\/products.html>) and we do Solution Architecture, Dev and Data Science consulting based from UK and Argentina, for customers in UK, LATAM and US.",
+        "edited": {
+            "user": "U6SGRGW4V",
+            "ts": "1504284188.000000"
+        },
+        "ts": "1504284182.000076"
+    },
+    {
+        "type": "message",
+        "user": "U6SGRGW4V",
+        "text": "I am based in UK (have been here for 12 years now) but originally from AR",
+        "ts": "1504284217.000161"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "alejandro.ramallo I love that it’s abbrivated LSD :joy:",
+        "ts": "1504284234.000280"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face: That has to be on purpose ^_^",
+        "ts": "1504284265.000470"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Yo. Holidays\/packing house\/office into a shipping container. Jumping in and out ",
+        "ts": "1504284283.000566"
+    },
+    {
+        "type": "message",
+        "user": "U6SGRGW4V",
+        "text": "And we were building a consumer engagement platform with it and the tagline was “marketing on acid without ACID” :slightly_smiling_face:",
+        "edited": {
+            "user": "U6SGRGW4V",
+            "ts": "1504284312.000000"
+        },
+        "ts": "1504284285.000605"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1504284318.000107"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6T3BQN2V> - good luck with that!",
+        "ts": "1504284349.000412",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82",
+                    "U6RPFG5FH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Well that seems to be the new people introduced.",
+        "ts": "1504284383.000031"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Next meeting time - any objections to same time next week?",
+        "ts": "1504284392.000431",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6RPFG5FH",
+                    "U6Q6G7S82"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nope",
+        "ts": "1504284406.000036"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'd like if it was earlier as it's 1:30am on a Friday night here :slightly_smiling_face:",
+        "ts": "1504284409.000141"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But it's the end of the work day in the EU, and the start in the US....",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504284433.000000"
+        },
+        "ts": "1504284424.000062"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "12:30p is great for us in US\/Eastern, but I could go hours either way",
+        "ts": "1504284465.000206"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I’m god with most of it soime hour earlyer later is all good for me, seems like europe raw the long straw :wink:",
+        "ts": "1504284486.000368"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Is there anyone in US\/Pacific?",
+        "ts": "1504284488.000047"
+    },
+    {
+        "type": "message",
+        "user": "U6SGRGW4V",
+        "text": "I would prefer a little bit earlier but same as <@U6Q6G7S82>",
+        "ts": "1504284505.000402"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I should add timezone to the authors page in the proposal so we can see stuff that that easily.",
+        "ts": "1504284529.000110"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Would 15:30 be too early. I.e. 2 hours earlier?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504284612.000000"
+        },
+        "ts": "1504284559.000390",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6SGRGW4V",
+                    "U6SUK860N",
+                    "U6Q6G7S82"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'll take the silence as a resounding agreement :slightly_smiling_face:",
+        "ts": "1504284680.000623"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Woot - that means only 11:30pm here!",
+        "ts": "1504284687.000181"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So - next meeting: 15:30 BST on Friday 2017-09-08",
+        "ts": "1504284717.000380"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Great.",
+        "ts": "1504284722.000140"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Next up - \n#3 - Governance structure.",
+        "ts": "1504284738.000322"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Any issues with Groups or Teams as laid out so far?",
+        "ts": "1504284757.000372"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I've had feedback from quite a few people that has gone into the document - check the History for specific details of changes since last week.",
+        "ts": "1504284840.000175"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170908T1530&amp;p0=136&amp;msg=Riak+Core+2017-09-08&amp;font=slab>",
+        "attachments": [
+            {
+                "title": "Riak Core 2017-09-08",
+                "title_link": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170908T1530&p0=136&msg=Riak+Core+2017-09-08&font=slab",
+                "text": "Countdown to Sep 8, 2017 3:30 pm. Showing days, hours, minutes and seconds ticking down to 0",
+                "fallback": "Riak Core 2017-09-08",
+                "image_url": "https:\/\/www.timeanddate.com\/scripts\/cdog.php?countdownto=Countdown%20to&image=generic&title=Riak%20Core%202017-09-08&date=Sep%208,%202017%20at%203%3a30%20pm&font=slab",
+                "from_url": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170908T1530&p0=136&msg=Riak+Core+2017-09-08&font=slab",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 84194,
+                "service_icon": "https:\/\/www.timeanddate.com\/favicon.ico",
+                "service_name": "timeanddate.com",
+                "id": 1
+            }
+        ],
+        "ts": "1504284860.000240"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No-one objected to the Groups and Teams in the last week (aside from making sure there were Riak Client Library teams).",
+        "ts": "1504284880.000208"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "(Which there are.)",
+        "ts": "1504284887.000082"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Thanks <@U6Q6G7S82>",
+        "ts": "1504284890.000304"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Biggest change was to the Project Direction Board, wherein we limited it to 11 places - 5 dev, 5 end-user, 1 admin.",
+        "ts": "1504284940.000396"
+    },
+    {
+        "type": "message",
+        "user": "U6TRUK9R9",
+        "text": "<@U6Q92JWHY> yes we use KV at <http:\/\/booking.com|booking.com> on meta-clusters (256+ nodes in total) for events storage. I experimented Riak TS as well (as a drop in repl for graphite storage nodes) but that's all",
+        "ts": "1504284974.000091"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Issues raised with that were \na) is that too small?\nb) How do the end-users pick their people if there are 50 end-user companies.\nc) What happens if a dev is also an end-user.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504285194.000000"
+        },
+        "ts": "1504284987.000044"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "i noticed something a bit more general when going thorugh the doc last weel. To staff all the groups we’d probably end up with &gt;100 people which seems unrealistic",
+        "ts": "1504285005.000230"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6TRUK9R9> - great. It's useful to know what people use and how.",
+        "ts": "1504285012.000129"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I imagine that lots of people will be in multiple places.",
+        "ts": "1504285031.000452"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "For example, no reason a Riak Core team member can't be in Riak KV.",
+        "ts": "1504285041.000359"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ah fair enough I dind’t think about that",
+        "ts": "1504285044.000343"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Or the server admins in the Admin Group can't also handle Feedback.",
+        "ts": "1504285057.000418"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It's a valid point, but I don't think it'll be an issue in reality. If it is, we can always re-visit it.",
+        "ts": "1504285087.000246",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82",
+                    "U6RPFG5FH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "There was also some cleanup of Election Rules to make them simpler and safer.",
+        "ts": "1504285120.000317"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "to the 11 people board,  1 - I think that’s a good size, usualy more people do not mean better work, it often means a lot less effective dicussion. 2 - no one says that they have to pick someone from their own company, the people elected might even be not part of any company involved (while I suspect they will the possibility that they’re not).  It means that those 5 elected will not only represent the interest of a single company but rather have to have a greater scope in mind which seems good. 3 - that’s a good question!",
+        "ts": "1504285289.000636"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "1 and 2, cool.",
+        "ts": "1504285348.000385"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "A option to solve 3) would be to forbid the same company to have both someone in the PG as dev and as user? not sure that’s fair or weather that does start making ‘gaming’ the system more likely.",
+        "ts": "1504285392.000005"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "For 3, my response to the asker (<@U6QC6EQH2>) was to make each person able to hold only 1 position on the PDG. I.e. they might be a dev in day-to-day things, but if an end-user on the PDG they should think of the overall goals from a business perspective.",
+        "ts": "1504285406.000290"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I can easily see it happening.",
+        "ts": "1504285426.000305"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ja totally",
+        "ts": "1504285456.000256"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Someone big like bet365 having an end-user place is probable, and having someone senior in their very mature Erlang dev team as a dev representative is also quite possible.",
+        "ts": "1504285462.000194"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We just need to make sure they are different people :slightly_smiling_face:",
+        "ts": "1504285471.000299"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark question is how many, I honestly wouldn’t want 10 people from the same company staffing the PG",
+        "ts": "1504285526.000426"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it’d invalidate ligitimacy IMHO",
+        "ts": "1504285542.000564"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Maybe limit to one rep per sub-group?",
+        "ts": "1504285548.000177"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. allow 1 end-user, 1 dev, 1 admin, but not 2 end-users?",
+        "ts": "1504285560.000477"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that’d mean a single company can hold nearly 30% of the votes in PG which seems a lot",
+        "ts": "1504285578.000439"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "To do that, it would have to be an extreme event.",
+        "ts": "1504285608.000173"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "might be a non issue",
+        "ts": "1504285614.000455"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Plus, 30% doesn't let them block or push anything through.",
+        "ts": "1504285620.000068"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They would still have to argue their case.",
+        "ts": "1504285644.000284"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "true true",
+        "ts": "1504285652.000165"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "They should be elected so it couldn't be so simple ",
+        "ts": "1504285666.000353"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6RPFG5FH> - yes. The end-users and the developers and the Admin staff would have to agree!",
+        "ts": "1504285723.000056"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "gpad  I think us germans are just extremely careful with loopholes in the foundational rules after some bad experience with that in the past :wink:",
+        "thread_ts": "1504285728.000101",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6RPFG5FH",
+                "ts": "1504285898.000278"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1504285728.000101"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It's worst case scenario planning :slightly_smiling_face:",
+        "ts": "1504285736.000093"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1504285752.000290"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think I’m overly cautios but hey better to talk about it then not",
+        "ts": "1504285753.000362"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Nah - better to talk it out now than when it's an issue.",
+        "ts": "1504285768.000056",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```A company can only have 1 person in each of the three Project Direction Group groups (1 End-User representative, 1 Developer Group representative and 1 Admin Group representative).```",
+        "ts": "1504285852.000470"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "?",
+        "ts": "1504285854.000187"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Company or Organisation?",
+        "ts": "1504285867.000305"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "hmm 1 per sup group means they can block changes to the charta (whatever we call our document)",
+        "ts": "1504285868.000011"
+    },
+    {
+        "type": "message",
+        "user": "U6SGRGW4V",
+        "text": "I do not have the rules clearly in my head but I agree with <@U6Q6G7S82> that having a situation where a single company can have 30% of the votes is not healthy",
+        "ts": "1504285874.000738"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Maximum of 2 overall, maximum of 1 per group?",
+        "ts": "1504285896.000123"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "I like your way of think you spot all the edge cases like a good developers should do (I'm Italian we are pizza and mandolino :joy:)",
+        "thread_ts": "1504285728.000101",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1504285898.000278"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```A company or organisation can only have 1 person in each of the three Project Direction Group groups (1 End-User representative, 1 Developer Group representative and 1 Admin Group representative) and a maximum of 2 people in the Project Direction Group overall.``` ?",
+        "ts": "1504285929.000209"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Another option would be to force to admin vote (tiebreaker) to be independant from the comapnies represented in the dev\/user group but that does seem a bit hard since especially the admin group might end up being staffed from companie",
+        "ts": "1504285963.000619"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I feel more comfortable with that 2 overall, max 1",
+        "ts": "1504285964.000264"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "3 seems too powerful",
+        "ts": "1504285971.000444"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Slightly clearer wording:\n```A company or organisation can only have a maximum of 1 End-User representative, 1 Developer Group representative and 1 Admin Group representative, and an overall maximum of 2 people in the Project Direction Group overall.```",
+        "ts": "1504285996.000257"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Might we state how that would happen?",
+        "ts": "1504286021.000024"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I come back to bet365. They are likely to have an end-user seat as they are a massive end-user.",
+        "ts": "1504286044.000386"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I.e. how do we stop elections with reps from org X, if org X has 2 members?",
+        "edited": {
+            "user": "U6SUK860N",
+            "ts": "1504286063.000000"
+        },
+        "ts": "1504286051.000089"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "smarg the rules would simply forbid that",
+        "ts": "1504286067.000111"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Ah - that kind of how that would happen!",
+        "ts": "1504286082.000204"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "i.e. if a organisation has 2 members then anyone of that organisation would be diqualified for being elected",
+        "ts": "1504286095.000200"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "So, do we invalidate votes for anyone with them? Perform a run-off without them?",
+        "ts": "1504286103.000378"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The Admin Group who is organising the election would tell them they can't stand.",
+        "ts": "1504286111.000571"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. they wouldn't be able to get any votes.",
+        "ts": "1504286118.000262"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "votes for all groups don’t need to happen in paralell",
+        "ts": "1504286134.000310"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "thinking about it, they probably shouldn’t to guarantee some kind of stability",
+        "ts": "1504286145.000268"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We should stagger Development and PDG elections to avoid both running at the same time.",
+        "ts": "1504286147.000161"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "So, here’s my reasoning, what if 2 groups *do* hold elections in parrallel?",
+        "ts": "1504286150.000293"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Ok, so, we stagger, and we’re fine",
+        "ts": "1504286158.000357"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Great.",
+        "ts": "1504286162.000286",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6RPFG5FH",
+                    "U6Q6G7S82"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":+1:",
+        "ts": "1504286166.000250"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```Elections at Group level must happen at different times.```",
+        "ts": "1504286200.000140"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So Dev's select their 5, then end-users select their 5, then Admin selects their 1.",
+        "ts": "1504286233.000390"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "a bit more clear “must have at least 3 month between them” ?",
+        "ts": "1504286234.000114"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "For example.",
+        "ts": "1504286238.000046"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Election cycle is probably enough.",
+        "ts": "1504286249.000431"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. between one being announced and one being finished, you can't.",
+        "ts": "1504286266.000241"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "staggering them further means more stability i.e. only 5 people can ever be “new” while 6 remain “old”",
+        "ts": "1504286280.000132"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Should we extend the terms to 2 years then?",
+        "ts": "1504286294.000108"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Have the elections every alternate year?",
+        "ts": "1504286301.000262"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I might do the math wrong",
+        "ts": "1504286310.000060"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I think 6 months is a lot of work.",
+        "ts": "1504286313.000362"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "oh I was thinking from start tos tart",
+        "ts": "1504286315.000007"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Ah - OK.",
+        "ts": "1504286324.000137"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "if start : start is 4 month then we get exactly 3 scheduled elections in a year",
+        "ts": "1504286345.000162"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "and also end-end will be 4 month given they run for the same time",
+        "ts": "1504286355.000201"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Fair enough.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504286368.000000"
+        },
+        "ts": "1504286365.000345"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "so when a new member is elected everyone else is at least 4 month in the PG",
+        "ts": "1504286369.000185"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Happy with Dev, then End-User, then Admin?",
+        "ts": "1504286381.000364"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that avoides the situation that suddenly there are 11 new peopel in the PG which would probably be quite disturbing",
+        "ts": "1504286396.000155"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "What about special elections? I.e resignation, deaths, etc...",
+        "ts": "1504286405.000283"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "totally, order is unimportant I think",
+        "ts": "1504286407.000063"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I don’t think we can force them into a schedule",
+        "ts": "1504286424.000206"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "the disruption from that already exists by the resignation (or god forbid death) so electing ASAP doesn’t make it worse just better",
+        "ts": "1504286474.000269"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```For places on the Project Direction Group, each sub-group (end-users, developers and admin) will have their regular elections staggered so as to be spread out across the year. Special elections can be called at any time, but should not be part of the regular election cycle.```",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504286553.000000"
+        },
+        "ts": "1504286536.000665",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82",
+                    "U6SGRGW4V",
+                    "U6RPFG5FH"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "?",
+        "ts": "1504286538.000225"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "During a special election, if one other org member is installed, and another is on the ballot for another position, then we can keep the special election from that org easily",
+        "ts": "1504286552.000153"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Do we need to spell out that people can’t be “Swapped” or is that clear enough?",
+        "ts": "1504286610.000449"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "How do you mean?",
+        "ts": "1504286622.000355"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "A specific person is elected, not a company who sends a person.",
+        "ts": "1504286642.000360"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If they need to leave, a special election would be called.",
+        "ts": "1504286655.000324"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Ok",
+        "ts": "1504286660.000345"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark exactly, I just wonder if we need to be specific about that to avoid confusion",
+        "ts": "1504286669.000149"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "We should explicitly state it",
+        "ts": "1504286673.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6SGRGW4V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "It won’t be confusing for developers, but might be for end-users",
+        "ts": "1504286690.000240"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK",
+        "ts": "1504286701.000211"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "because someone might just try that “Sarah resigned we’re sending Tom instead” and then it’d end up being an argument weather Sarah was elected or Sarah’s employer",
+        "ts": "1504286714.000396"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Precisely",
+        "ts": "1504286728.000230"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```Elections are for specific people, not positions for a company to fill. Should a person need to stand-down, a special election would be called.```",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504286747.000000"
+        },
+        "ts": "1504286737.000327",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82",
+                    "U6RPFG5FH",
+                    "U6SUK860N",
+                    "U6SGRGW4V"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "It is elected the person and not the company",
+        "ts": "1504286746.000195"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "--- i was quite sick really. trying to catch up asap. ---",
+        "ts": "1504286771.000151"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "sorry to hear that kunthar hope you’re better now?",
+        "ts": "1504286785.000182"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6PHKFTA5> - good to see you again. Hope you're feeling better?",
+        "ts": "1504286794.000316"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "better now \\o\/",
+        "ts": "1504286806.000134",
+        "reactions": [
+            {
+                "name": "cake",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pizza",
+                "users": [
+                    "U6RPFG5FH",
+                    "U6Q92JWHY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We're trying to close loopholes in Election Rules at the moment.",
+        "ts": "1504286870.000046"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark regarding the issue of minimal ‘support’ I think we do have to kind of make clear what makes somen enlightable for voting on that. It otherwise open up the place for abuse. I.e. splitting invistment to gain more votes, things like that.",
+        "ts": "1504286893.000311"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/3> &lt;- this thingy",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Eligibility for PG votes · Issue #3 · TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/3",
+                "text": "The proposed requirements to vote on Project Direction Group - End users are stated as: All companies supporting the project through resources or financing This opens the possibility for abuse and ...",
+                "fallback": "GitHub: Eligibility for PG votes · Issue #3 · TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/3",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/119093?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504286915.000145"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I agree - but how to quantify it?",
+        "ts": "1504286939.000542"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "i.e. I could support riak_core with 0.01€ as 10000 organisations and get a lot of votes that way",
+        "ts": "1504286947.000567"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "For cash donations, it's fairly easy - you set a threshold of EUR1,000 a year or something to be a member.",
+        "ts": "1504286983.000467"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But what about donating 20 hours of developer time a week?",
+        "ts": "1504286995.000163"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Is that EUR30,000 as they are in Asia? EUR80,000 as they are in the EU?",
+        "ts": "1504287020.000178"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "hmm",
+        "ts": "1504287020.000252"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Can we convert it in money using the local of the developer?",
+        "ts": "1504287043.000442"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Plus, we just have to trust them when they tell us what that person is worth.",
+        "ts": "1504287045.000017"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Maybe - but what if they go with opportunity lost maths?",
+        "ts": "1504287063.000337"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "We could just not count that",
+        "ts": "1504287085.000504"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. they charge out a developer at EUR300 an hour, but pay him EUR100 an hour?",
+        "ts": "1504287090.000200"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "most foundations don’t I think",
+        "ts": "1504287091.000443"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Also if someone spends devleopment time that person already is enlightable for a seat in the dev group and by that in the dev part of the PG",
+        "ts": "1504287119.000401"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So we limit it to actual cost to the company donated and not value to the company?",
+        "ts": "1504287125.000252"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "no real reason to double count hat",
+        "ts": "1504287126.000338"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "if we got with “monetary \/ infrastructure” donations it’d become very easy as both can be counted 1:1",
+        "ts": "1504287165.000586"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "if someone sponsors admin work, they get a shot at the admin spot in PG, if they sponsor dev work they get a shot for the dev seats in the PG (given their developers admins are good enough to go through that process)",
+        "ts": "1504287211.000091"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'd go with a minimum commit value to get a vote, and anything over that is just generosity of spirit.",
+        "ts": "1504287238.000089"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "well it won’t be automatic",
+        "ts": "1504287256.000106"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "What won't?",
+        "ts": "1504287288.000259"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "but if, say I sponsor a developper, they will work and commit to riak, by that they can be elected in the dev group and from there they can be elected in the PG",
+        "edited": {
+            "user": "U6Q6G7S82",
+            "ts": "1504287305.000000"
+        },
+        "ts": "1504287292.000060"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes?",
+        "ts": "1504287310.000556"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that kind of eliminates the need to also give me a vote in the end-user PG elections",
+        "edited": {
+            "user": "U6Q6G7S82",
+            "ts": "1504287345.000000"
+        },
+        "ts": "1504287334.000176"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Not really.",
+        "ts": "1504287341.000181"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Dev people are intended to guide technical parts of the project - i.e. make sure that the end-users don't add the kitchen sink.",
+        "ts": "1504287360.000243"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "true",
+        "ts": "1504287370.000662"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "End-Users are intended to get new features added.",
+        "ts": "1504287375.000047"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. things they want it to do that they can sell\/use.",
+        "ts": "1504287386.000495"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "you’re right",
+        "ts": "1504287396.000394"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Cool.",
+        "ts": "1504287403.000232"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Shall we pencil in a minimum commit of EUR10,000?",
+        "ts": "1504287421.000019"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That allows for a bunch of cash, or a few hours a week of dev work.",
+        "ts": "1504287438.000376"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I know I said EUR1,000 earlier, but I got to thinking that is *very* low.",
+        "ts": "1504287462.000131"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "1s let me dig something uop",
+        "ts": "1504287474.000204"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Small companies can join in with hours.",
+        "ts": "1504287476.000593"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK.",
+        "ts": "1504287479.000398"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<https:\/\/www.cncf.io\/about\/join\/>",
+        "ts": "1504287496.000109",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6SGRGW4V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that’s how CNCF does it",
+        "ts": "1504287500.000158"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "they go w\/ anual prices",
+        "ts": "1504287528.000364"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "based on organisational size",
+        "ts": "1504287534.000150"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that does kind of sound fair IMHO",
+        "ts": "1504287550.000183"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That is some serious cheddar.",
+        "ts": "1504287561.000390"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But having a scaling system makes sense.",
+        "ts": "1504287578.000191"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "well at 10k that’d equal the ~ 500 employee range",
+        "ts": "1504287590.000211"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "which does sound sensible I think",
+        "ts": "1504287602.000369"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yup. I was thinking more of the Platinum Members :slightly_smiling_face:",
+        "ts": "1504287606.000609"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "hah",
+        "ts": "1504287612.000426"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yea I have to look up the difference there :stuck_out_tongue:",
+        "ts": "1504287618.000451"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "reading it I don’t like the different menbership levels to be honest, the scale is nice however",
+        "ts": "1504287650.000236"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Actually it makes quite a bit of sense to me.",
+        "ts": "1504287662.000179"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it allows smaller companies to contribute w\/o going bankrupt and and still get involved",
+        "ts": "1504287664.000047"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Who is the money going to? ",
+        "ts": "1504287677.000050"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "oh yeah replication and resurrection of the bad old world's rules inside of the team. i will not join to live discussion here but rather i'll modify and PR on docs.",
+        "ts": "1504287683.000273"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Cheap for small players, gets more expensive for larger players, and with a threshold if you want to be able to run for the board.",
+        "ts": "1504287688.000586"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "binarytemple me!",
+        "ts": "1504287689.000191"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "This is a very common model in network protocols etc",
+        "ts": "1504287703.000188"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Lol",
+        "ts": "1504287706.000095"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "A consortium model.",
+        "ts": "1504287712.000471"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Wonder if it's a bit heavy duty.",
+        "ts": "1504287726.000577"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "There would have to be an EU Charity or a US 501\/c type setup.",
+        "ts": "1504287735.000143"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "what I don’t like about their levels is that they are a guaranteed buy-in at some point",
+        "ts": "1504287778.000053"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "This is going to need a lot more discussion, especially with the end-users like bet365, the NHS, some companies in Japan and people like Erlang and me.",
+        "ts": "1504287806.000316"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I think we table it for now, and wait until bet365 finish their deal.",
+        "ts": "1504287828.000302"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it’s sure not going to be simple :stuck_out_tongue:",
+        "ts": "1504287830.000424",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U6RPFG5FH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Nope!",
+        "ts": "1504287835.000402"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```* **How to decide membership of PDG for end-users is TO BE DECIDED.**```",
+        "ts": "1504287919.000068"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We will revisit.",
+        "ts": "1504287944.000029"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think we did agree on how to decide membership, just not how votes are cast?",
+        "ts": "1504287952.000231"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Comments in the Issue that Heinz started.",
+        "ts": "1504287959.000488"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Not on what type of resource counts, how different regions affect it, and what each member can do.",
+        "ts": "1504287991.000273"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And without a buy-in from the larger end-users, not great.",
+        "ts": "1504288010.000285"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I reckon table until we can discuss with them.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504288058.000000"
+        },
+        "ts": "1504288025.000210"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "makes sense",
+        "ts": "1504288120.000504"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "but we do have to eventually move forward too, we can’t table it forever if there is no interest in participating in the process",
+        "ts": "1504288142.000179"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Very true!",
+        "ts": "1504288203.000050"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "how about we explictely invite bet, HNS, ES for next weeks (or in 2 weeks) to set a date",
+        "ts": "1504288209.000321"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "If they decide they are not intersted that’s fair too, they might not want to bother with small details as long as riak keeps existing",
+        "ts": "1504288248.000072",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6RPFG5FH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Good idea.",
+        "ts": "1504288294.000251"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I think write to each of the personally and introduce the proposed community with its charter so far.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504288323.000000"
+        },
+        "ts": "1504288318.000265",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Random aside - how do I write a link to a Github issue in a Markdown file in Github?",
+        "ts": "1504288363.000150"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Docs say \"just press # and a menu pops up', but so not happening.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504288383.000000"
+        },
+        "ts": "1504288377.000276"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "just do #&lt;issueid&gt;",
+        "ts": "1504288392.000032"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "i.e. #3",
+        "ts": "1504288400.000481"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Nope - just getting text when I do that.",
+        "ts": "1504288429.000296"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Oh in the file? I don’t think you can that just works in the issues",
+        "ts": "1504288446.000453"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Oh - darn.",
+        "ts": "1504288454.000347"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "you can always do: `[Issue 3](<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/3>)`",
+        "ts": "1504288464.000259"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "You can just make a standard link though",
+        "ts": "1504288465.000192"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "That :slightly_smiling_face:",
+        "ts": "1504288470.000034"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "brilliant minds think alike :wink:",
+        "ts": "1504288478.000363"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Erm - I honestly hadn't though of that....",
+        "ts": "1504288486.000369"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "or the german version: stupid and stupid likes to come together",
+        "ts": "1504288493.000022"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I really prefer the english saying :joy:",
+        "ts": "1504288507.000096"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I like the German version less :slightly_smiling_face:",
+        "ts": "1504288508.000117"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Gentlemen I need to go thanks to everyone ",
+        "ts": "1504288602.000207",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U6Q6G7S82",
+                    "U6T3BQN2V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I think you need to be in a PR\/Issue for the \\# issue bit to work",
+        "ts": "1504288617.000140"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Have a nice weekend!!!",
+        "ts": "1504288624.000023"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "since we table the election rules for now I would without any bit of shame plug the next issue I opned on GH: how to govern our own document once it’s done? <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/6>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "We are lacking a change process for the governing rules · Issue #6 · TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/6",
+                "text": "We do not specify any process of approving changes to the governing rules and process. This includes rules for the 1st approval of our results. I would propose the following rules: General changes ...",
+                "fallback": "GitHub: We are lacking a change process for the governing rules · Issue #6 · TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/6",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/119093?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504288642.000086"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6RPFG5FH> - thanks for taking part!",
+        "ts": "1504288645.000144"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": ":pizza::beer:",
+        "ts": "1504288648.000031"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "enjoy your weekend gpad",
+        "ts": "1504288668.000165"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Now I’m hungry :joy: give me :pizza: !",
+        "thread_ts": "1504288680.000266",
+        "reply_count": 4,
+        "replies": [
+            {
+                "user": "U6RPFG5FH",
+                "ts": "1504288754.000169"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1504288778.000406"
+            },
+            {
+                "user": "U6RPFG5FH",
+                "ts": "1504288832.000366"
+            },
+            {
+                "user": "U6Q6G7S82",
+                "ts": "1504288841.000076"
+            }
+        ],
+        "unread_count": 4,
+        "ts": "1504288680.000266"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> what are you thoughts on my suggestions?",
+        "ts": "1504288681.000366"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```#### General Changes\nGeneral changes to the Community's governance structure or processes can be proposed by any project member to the Project Direction Group via the Admin Group's Feedback Team. \n\nA Project Direction Group member must sponsor a proposal and it must be seconded by another member to then go to a vote of all members. \n\nThe vote is passed with a majority vote of more than 75% of the members of the Project Direction Group. \n\nThis result can be contested by a group consisting of more than 10% of the voting eligible members of the Community, which will lead to a Community-wide referendum held by the same rules as an election.\n\n#### Group-level Changes\nChanges that apply to only one Group can be contested by a group consisting of more than 10% of the voting eligible members of the Group in question, which will lead to a Group-wide referendum held by the same rules as an election.\n\n#### Team-level Changes\nA Team can change it's internal processes with a majority vote of more than 75% of the eligible voters.\n\nThe Project Direction Group can veto the changes voted at on the Team level with a majority vote of more than 50% of the Project Direction Group members.```",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504288730.000000"
+        },
+        "ts": "1504288691.000316"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "If you'll came in Italy I'll be happy to give you all the pizza that you can eat :grinning:",
+        "thread_ts": "1504288680.000266",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1504288754.000169"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "what’s the difference between group and team level changes?",
+        "ts": "1504288755.000470"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Group level changes affect the organisation as a whole.",
+        "ts": "1504288771.000016"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I will print this and one day take you up on it!",
+        "thread_ts": "1504288680.000266",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1504288778.000406"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. more seats at the PDG, establishment of a new Team.",
+        "ts": "1504288793.000018"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I thought general changes affect the organisation as a whole?",
+        "ts": "1504288797.000392"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Team level changes are more \"our current process sucks, let's change it to this\".",
+        "ts": "1504288804.000272"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": ":pizza::pizza:",
+        "thread_ts": "1504288680.000266",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1504288832.000366"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":pizza: :pizza: :pizza:",
+        "thread_ts": "1504288680.000266",
+        "parent_user_id": "U6Q6G7S82",
+        "ts": "1504288841.000076"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "General changes are for really big things, like changes in Aims.",
+        "ts": "1504288841.000310"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "but more seats in the PDG would kidn of seem like a big change that’d affect the entire project, perhaps just a bad example?",
+        "ts": "1504288883.000195"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It would still go to the PDG.",
+        "ts": "1504288926.000047"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The Group Level bit allows for Groups to complain and bad decisions revisited.",
+        "ts": "1504288946.000328"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It is an intentionally low bar to entry to complain!",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504288965.000000"
+        },
+        "ts": "1504288953.000476"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that makes sense",
+        "ts": "1504288986.000140"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I did misunderstad that part :slightly_smiling_face:",
+        "edited": {
+            "user": "U6Q6G7S82",
+            "ts": "1504288995.000000"
+        },
+        "ts": "1504288990.000347"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So if the PDG decided that 100 seats were needed, the PDG could get a review with 2 members complaining, and the Community could get a review with 10% of the Community complaining.",
+        "ts": "1504289020.000085"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If the PDF decided to change the Development Group, the PDG could get a review with 2 members complaining and the Development Group could get a review with 10% of the Development Group complaining.",
+        "ts": "1504289063.000310"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Ah In think the wording is a bit unclear on that. Most what exactly ‘group’, ‘team’ and ‘community’ is",
+        "ts": "1504289071.000199"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Things at Team level are the opposite. Teams get on with stuff and PDG acts as the brakes if it goes against the Community's ethos.",
+        "ts": "1504289100.000119"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "okay to clarify by examples, Team = “riak core development team”; Group = “Development group” \/ “PDG”; Community = “All groups”?",
+        "ts": "1504289151.000325"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes.",
+        "ts": "1504289162.000365"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Clearly needs better phrasing :slightly_smiling_face:",
+        "ts": "1504289182.000158"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Okay that makes sense",
+        "ts": "1504289185.000356"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Maybe define those in the Groups and Teams list section?",
+        "ts": "1504289202.000331"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it’s always easy to undersrtand your own things :wink: I have that problem all the time",
+        "ts": "1504289203.000207"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "+1!",
+        "ts": "1504289209.000409"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. have a top level item called \"Riak Community\" with Development Group, Admin Group, Release Management Group and Project Direction Group under it?",
+        "ts": "1504289232.000343"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Also maybe tack on \" (the 'Community')\", \" (a 'Group')\" and ' (a 'Team')\" to relevant items?",
+        "ts": "1504289280.000032"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Sounds good. It might sound like nit picking but it’ll probably save us trouble at one point and prevents missunderstandings",
+        "ts": "1504289352.000415"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yup.",
+        "ts": "1504289359.000135"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "We really don’t want to argue semantics when we’re dealign with a real problem ^.^",
+        "ts": "1504289370.000558"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Perhaps even just add a section like\n```\nCommunity in this context refferences the whole of the groups and teams that are part of the riak project; Group refferences one of the sub groups: Development Group, Admin group; Direction Group. Team refferences a single team inside one of the gorup such as, for example, the riak_kv development team.\n```",
+        "edited": {
+            "user": "U6Q6G7S82",
+            "ts": "1504289475.000000"
+        },
+        "ts": "1504289401.000032"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#groups-and-teams-list>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#groups-and-teams-list",
+                "text": "riak-community-admin - This GitHub contains documents relating to the formation of a Riak Community.",
+                "fallback": "GitHub: TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#groups-and-teams-list",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/30156093?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504289454.000533"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Like that?",
+        "ts": "1504289460.000528"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "personally I like the pre-amble form better as it explains intent of the naming rather then assigning it so we won’t run into (`\"but the document doens't state that X is a group!!!\"`)",
+        "ts": "1504289525.000110"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1504289537.000086"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "otoh it’s opens up the option of being arguable",
+        "ts": "1504289557.000394"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "this is hard :joy:",
+        "ts": "1504289562.000365"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Think that should be in the Group and Team definition section so it's all in the same place.",
+        "ts": "1504289582.000090"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ja",
+        "ts": "1504289591.000221"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "A slightly unrelated thing, I don’t think “riak community” is a good name, it makes it seem like we are making the communtiy exclusive. Perhaps Project is a better word here? We already call it Project Direction Group not Community Direction Group",
+        "ts": "1504289673.000173"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think what I’m saying is we should not exclude people form what we call “the community” just because they’re not in any of the groups",
+        "ts": "1504289864.000228"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "someone hanging out in IRC and helping people even so not in a group is still part of “the community”",
+        "ts": "1504289883.000217"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```The Riak Project (aka the Project) refers to all Teams and Groups that make it up. Riak Project Members (aka the Members) refers to all members of all Groups and Teams. \n\nThe Project is made up of four Groups handling different areas. These Groups are the Development Group, the Release Management Group, the Project Direction Group and the Admin Group.\n\nEach Group is made up of Teams which deal with specific areas of responsibility. For example, a Team might deal with writing source code for Riak Core, and would therefore NOT deal with writing source code for Riak KV. Teams will work together, and membership is intended to be fluid between them.\n```",
+        "ts": "1504289905.000140"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "How is that?",
+        "ts": "1504289907.000256"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That is to go just above the list of Groups and Teams.",
+        "ts": "1504289927.000271"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "wonderful!",
+        "ts": "1504289945.000316"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Also updated all 'Community' references to 'Project'.",
+        "ts": "1504290001.000435",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6Q6G7S82",
+                    "U6RPFG5FH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md#groups-and-teams-list>",
+        "ts": "1504290035.000351"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "loving it!",
+        "ts": "1504290053.000547"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That section should be moved into Governanace, shouldn't it?",
+        "ts": "1504290078.000275"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think you’re right there, yap",
+        "ts": "1504290107.000034"
+    },
+    {
+        "type": "message",
+        "user": "U6TRUK9R9",
+        "text": "Have to go now, thanks for this! :wave:",
+        "ts": "1504290112.000012",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6TRUK9R9> - OK - thanks for your feedback.",
+        "ts": "1504290141.000048"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Please submit anything new via Issues on Github.",
+        "ts": "1504290149.000456"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "bye dams be well!",
+        "ts": "1504290155.000268"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Something else that we did’t clarify, should elections be held in secret or in public?",
+        "ts": "1504290187.000026"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Public.",
+        "ts": "1504290204.000325"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I personally prefere non public votes as it prevents pressure on people",
+        "ts": "1504290205.000040"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Always public.",
+        "ts": "1504290207.000449"
+    },
+    {
+        "type": "message",
+        "user": "U6TRUK9R9",
+        "text": "public please!",
+        "ts": "1504290216.000116"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The actual vote is private.",
+        "ts": "1504290217.000372"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But everything else is public.",
+        "ts": "1504290224.000179"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. no-one will know you voted for X.",
+        "ts": "1504290237.000091"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "okay let me calrify: the topic to vote on, the end results of ccause public, the vote of the individual member, private",
+        "ts": "1504290253.000374"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes.",
+        "ts": "1504290259.000319"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That is exactly what I meant.",
+        "ts": "1504290263.000558"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "sounds ok",
+        "ts": "1504290279.000246"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "heya deadzen",
+        "ts": "1504290286.000551"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "howdy",
+        "ts": "1504290306.000550"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "dams since you said public did you mean all public or the same thing that peterclark and me ment? just to be sure",
+        "ts": "1504290313.000147"
+    },
+    {
+        "type": "message",
+        "user": "U6TRUK9R9",
+        "text": "sorry, yeah, what <@U6Q92JWHY> and you said",
+        "ts": "1504290354.000336"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Cool. All on the same page, then.",
+        "ts": "1504290362.000562"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'll add in a line just to make that clear.",
+        "ts": "1504290381.000345"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "no reason to be sorry, I just wanted to make sure we don’t steamroll your opinion :wink:",
+        "ts": "1504290384.000371"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```All election details are public, apart from individual votes.```",
+        "ts": "1504290411.000256"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":+1:",
+        "ts": "1504290445.000066"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "have we scheduled one?",
+        "ts": "1504290478.000105"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "ugh forgot to bring the bot in",
+        "ts": "1504290498.000317"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Scheduled one of what?",
+        "ts": "1504290523.000157"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "election?",
+        "ts": "1504290566.000248"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Well, the general start date yes.",
+        "ts": "1504290579.000328"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Which is 01 July 2018.",
+        "ts": "1504290597.000037"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Before that, we are setting things up and trying to get stable.",
+        "ts": "1504290614.000117"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So 3 months to organise, 6 months to settle in, then elect people.",
+        "ts": "1504290636.000258"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that makes no sense plese disregard",
+        "ts": "1504290664.000318"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No need.",
+        "ts": "1504290666.000363"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I was miss thinking",
+        "ts": "1504290667.000374"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The order and timing is already specified.",
+        "ts": "1504290672.000249"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Just needs the start date.",
+        "ts": "1504290677.000376"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Which is 2018-07-01.",
+        "ts": "1504290692.000014"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ja",
+        "ts": "1504290692.000039"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Anything more for the Governance structure?",
+        "ts": "1504290724.000185"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It's been 2 hours now :slightly_smiling_face: Longer than I had expected, but worth it. Good feedback!",
+        "ts": "1504290754.000131"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Agreed, we’ve gotten quite a alot done today",
+        "ts": "1504290775.000113"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I can’t think of anything more regarding the govering structure",
+        "ts": "1504290796.000129"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Oh yes I can, 1 thing :stuck_out_tongue:",
+        "ts": "1504290810.000201"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Oh?",
+        "ts": "1504290817.000121"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "We should eventually define what\/who\/why the founding group is, when it comes to filling the first stpots, voting on the document etc",
+        "ts": "1504290843.000493"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that got to eventually be formalized",
+        "ts": "1504290851.000550"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That is why I have been keeping a list of who contributed in the Authors section :slightly_smiling_face:",
+        "ts": "1504290864.000335"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "can I introduce a document on IT governance?",
+        "ts": "1504290890.000222"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Sure.",
+        "ts": "1504290895.000245"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I saw that ^.^ so authors == ‘founding members’ for the lack of a better word",
+        "ts": "1504290904.000138"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "... In this paper, we introduce the Viable Systems Model (VSM) as a sensitizing lens with which to explore the governance of IT to achieve alignment. We argue that scholars must move beyond considering alignment only at a strategic level and focus on the optimising of value from investments made in IT, of which alignment at a strategic level is but one element.",
+        "ts": "1504290909.000292"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Oh - Code of Conduct should also into Governance.",
+        "ts": "1504290912.000356"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> for the time being, yes.",
+        "ts": "1504290948.000013"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That may well change.",
+        "ts": "1504290957.000468"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Who knows :slightly_smiling_face:",
+        "ts": "1504290964.000432"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Had to start somewhere!",
+        "ts": "1504290967.000553"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6S4RDVEE> - not sure what that is getting at.",
+        "ts": "1504290980.000104"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6Q92JWHY> it's the introduction to a big document",
+        "ts": "1504290997.000487"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Any chance of the actual document?",
+        "ts": "1504291009.000482"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Viable_system_model>",
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/df\/Performance.png",
+                "image_width": 609,
+                "image_height": 273,
+                "image_bytes": 13325,
+                "title": "Viable system model",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Viable_system_model",
+                "author_name": "Wikipedia",
+                "author_link": "http:\/\/en.wikipedia.org\/",
+                "text": "The viable system model (VSM) is a model of the organisational structure of any autonomous system capable of producing itself. A viable system is any system organised in such a way as to meet the demands of surviving in the changing environment. One of the prime features of systems that survive is that they are adaptable. The VSM expresses a model for a viable system, which is an abstracted cybernetic (regulation theory) description that is applicable to any organisation that is a viable system and capable of autonomy.",
+                "fallback": "wikipedia: Viable system model",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504291020.000027"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "yes",
+        "ts": "1504291026.000202"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Or just Wikipedia :slightly_smiling_face:",
+        "ts": "1504291027.000165"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I am pretty studied in this area",
+        "ts": "1504291042.000303"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "but I was referring to a specific doc",
+        "ts": "1504291051.000510"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "the stuff you'll find usually wont regard IT governance",
+        "ts": "1504291061.000163"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "the field itself kinda preceded IT",
+        "ts": "1504291071.000389"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Benefits over the current setup? And what changes would we need to make?",
+        "ts": "1504291079.000440"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Can you put together a short summary for next week?",
+        "ts": "1504291091.000008"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "something to keep in mind",
+        "ts": "1504291099.000242"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "absolutely, thats why I want to get to this point step and introduce some concepts",
+        "ts": "1504291113.000570"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Cool. Raise it as an Issue on Github and add in all the details there.",
+        "ts": "1504291136.000161"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "its more about automating organizations and decentralizing hierarchies so that work units can coordinate effectively",
+        "ts": "1504291168.000494"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That sounds super handy, especially at the Team level.",
+        "ts": "1504291197.000012"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<http:\/\/deadzen.mynetgear.com\/cyber\/#\/>",
+        "attachments": [
+            {
+                "title": "reveal.js – The HTML Presentation Framework",
+                "title_link": "http:\/\/deadzen.mynetgear.com\/cyber\/#\/",
+                "text": "A framework for easily creating beautiful presentations using HTML",
+                "fallback": "reveal.js – The HTML Presentation Framework",
+                "from_url": "http:\/\/deadzen.mynetgear.com\/cyber\/#\/",
+                "service_name": "deadzen.mynetgear.com",
+                "id": 1
+            }
+        ],
+        "ts": "1504291200.000582"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "i made some very very simple melt down of the concepts into some slides",
+        "ts": "1504291214.000204"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "here's a document more for institutional\/government level that describes a lot as well",
+        "ts": "1504291228.000401"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "oh yes the COC thigy",
+        "ts": "1504291240.000320"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6S4RDVEE|deadzen> uploaded a file: <https:\/\/postriak.slack.com\/files\/deadzen\/F6WHHGBCG\/vsmgovernance.pdf|VSMGovernance.pdf>",
+        "file": {
+            "id": "F6WHHGBCG",
+            "created": 1504291261,
+            "timestamp": 1504291261,
+            "name": "VSMGovernance.pdf",
+            "title": "VSMGovernance.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U6S4RDVEE",
+            "editable": false,
+            "size": 1087170,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6WHHGBCG\/vsmgovernance.pdf?t=xoxe-227478566416-237860639127-236245049953-38a9ea11c3",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6WHHGBCG\/download\/vsmgovernance.pdf?t=xoxe-227478566416-237860639127-236245049953-38a9ea11c3",
+            "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6WHHGBCG-f8656ca830\/vsmgovernance_thumb_pdf.png?t=xoxe-227478566416-237860639127-236245049953-38a9ea11c3",
+            "thumb_pdf_w": 909,
+            "thumb_pdf_h": 1286,
+            "permalink": "https:\/\/postriak.slack.com\/files\/deadzen\/F6WHHGBCG\/vsmgovernance.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T6PE2GNC8-F6WHHGBCG-a1f3c06955",
+            "channels": [
+                "C6TD30YTA"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U6S4RDVEE",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "deadzen",
+        "bot_id": null,
+        "ts": "1504291262.000252"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Great - add it to the Issues list to be discussed next week, plus your thoughts on how it applies to us.",
+        "ts": "1504291262.000292"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<http:\/\/www.reinventingorganizations.com\/>",
+        "attachments": [
+            {
+                "title": "Reinventing Organizations",
+                "title_link": "http:\/\/www.reinventingorganizations.com\/",
+                "text": "Based on three years of research, the book Reinventing Organizations describes the emergence of a new management paradigm, a radically more soulful, purposeful and powerful ways to structure and run businesses and non-profits, schools and hospitals.",
+                "fallback": "Reinventing Organizations",
+                "image_url": "http:\/\/www.reinventingorganizations.com\/uploads\/2\/1\/9\/8\/21988088\/_9251422.jpg",
+                "from_url": "http:\/\/www.reinventingorganizations.com\/",
+                "image_width": 250,
+                "image_height": 183,
+                "image_bytes": 8589,
+                "service_icon": "http:\/\/www.reinventingorganizations.com\/uploads\/2\/1\/9\/8\/21988088\/4943578_orig.png",
+                "service_name": "reinventingorganizations.com",
+                "id": 1
+            }
+        ],
+        "ts": "1504291280.000248"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I was reading this on the plane this year, it's another spin on organizations",
+        "ts": "1504291293.000142"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "by looking at the last 100,000 years of human development",
+        "ts": "1504291301.000024"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "and it case studies some major companies (Southwest Airlines for instance) that have evolved their organizations",
+        "ts": "1504291361.000128"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that’s going to be a intersting next week going through that :wink:",
+        "ts": "1504291396.000448"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yup.",
+        "ts": "1504291431.000169"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I look forward to reading the Issue on Github.",
+        "ts": "1504291442.000264"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "as I know, few if anyone does cybernetics, but since at its core its for system modeling that involves human processes and works as a heuristic for automating them so that the information itself starts to serve as real time data for coordinating the system under focus",
+        "ts": "1504291472.000244"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "a small model of it could be useful for something that is trying to achieve near 100% uptime and has a completely decentralized mgmt",
+        "ts": "1504291520.000331"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Cool.\n\nFinally, is there anything pressing on Dev teams and projects (#4 on my agenda today), or run away and think things over during the week?",
+        "ts": "1504291600.000326"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "as far as what? code projects?",
+        "ts": "1504291638.000346"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Anything.",
+        "ts": "1504291644.000149"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I'd like to start with getting the latest riak core bugs fixed and a riak kv  tested against it and push out a release",
+        "ts": "1504291664.000249"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I don't see anything yet, but there was a lot of discussion this week about Riak Core vs Riak KV vs Riak CS....",
+        "ts": "1504291665.000460"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "What do you need to get that going?",
+        "ts": "1504291683.000055"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I'll work on it and put blockers down on a list",
+        "ts": "1504291713.000519"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U6Q6G7S82",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[September 1st, 2017 9:32 AM] peterclark: Agenda:\n\n1. Introductions - any new people?\n2. Time of next meeting - some find this too early, some too late, seems worthwhile a quick discussion.\n3. Governance structure.\n4. Dev Teams and their projects",
+                "ts": "1504283555.000353",
+                "author_subname": "peterclark",
+                "channel_id": "C6TD30YTA",
+                "channel_name": "planning-2017-09-01",
+                "is_msg_unfurl": true,
+                "text": "Agenda:\n\n1. Introductions - any new people?\n2. Time of next meeting - some find this too early, some too late, seems worthwhile a quick discussion.\n3. Governance structure.\n4. Dev Teams and their projects",
+                "author_name": "Peter Clark",
+                "author_link": "https:\/\/postriak.slack.com\/team\/peterclark",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-08-18\/228371050276_a17fd2340757b9be054a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U6Q6G7S82|heinz> pinned a message to this channel.",
+        "ts": "1504291716.000237"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Cool.",
+        "ts": "1504291719.000185"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think we’ll eventually need to define what oparts of riak we want to continue, but agian that depends on end-user input",
+        "ts": "1504291767.000163",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "<@U6Q6G7S82> my goodness CNCF pulls in a lot of money",
+        "ts": "1504291770.000309"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "riak core and riak pipe are my favorite things out of basho",
+        "ts": "1504291806.000197"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "well core \/ kv are kind of a given",
+        "ts": "1504291821.000191"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "yeah next to that kv and ts",
+        "ts": "1504291826.000233"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "since core is required for kv",
+        "ts": "1504291835.000228"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "question is CS\/TS mostly I think and what client libraires to support",
+        "ts": "1504291846.000053"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Plus dev - some things might be super useful in general.",
+        "ts": "1504291857.000371"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "CS is used a lot.",
+        "ts": "1504291861.000326"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "TS is used to a fair degree in Asia.",
+        "ts": "1504291868.000414"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I'd like to see TS be used more here",
+        "ts": "1504291883.000079",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6SGRGW4V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I think things like that will get dealt with by the priorities list.",
+        "ts": "1504291883.000156"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "I'm sure basho wanted that too :smile:",
+        "ts": "1504291898.000366"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. we don't have to junk projects - just make sure the important ones get done first!",
+        "ts": "1504291907.000260"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "don't have to junk projects, just don't want to maintain projects that are junk :smile:",
+        "thread_ts": "1504291928.000453",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6T3BQN2V",
+                "ts": "1504294069.000389"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1504291928.000453"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "cool",
+        "ts": "1504291940.000363"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Awesome.",
+        "ts": "1504291946.000026"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "In that case, I have made the channel for the next meeting (<#C6XBBP677|planning-2017-09-08>)",
+        "ts": "1504291959.000359"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":smile:",
+        "ts": "1504291967.000168"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "yey",
+        "ts": "1504291977.000221"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "This channel will be archived on Sunday (36 hours from now).",
+        "ts": "1504291978.000200"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I will export the messages and put up the meeting minutes as before.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504292002.000000"
+        },
+        "ts": "1504291996.000450"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "To anyone reading - please read the updated proposal on Github, and raise new issues in the Issues section. Feel free to add to any discussions or start your own in there.",
+        "ts": "1504292080.000119"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/tree\/master\/proposal>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/tree\/master\/proposal",
+                "text": "riak-community-admin - This GitHub contains documents relating to the formation of a Riak Community.",
+                "fallback": "GitHub: TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/tree\/master\/proposal",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/30156093?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504292090.000469",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82",
+                    "U6RPFG5FH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6SGRGW4V",
+        "text": "<!channel> Sorry I had to run early, thanks a lot, I will review all the latest agreements",
+        "ts": "1504292138.000074"
+    },
+    {
+        "type": "message",
+        "user": "U6SGRGW4V",
+        "text": "This was something I wanted to touch on. Maybe jumpting the gun here but are we going to bootstrap the whole Project\/Process with the definition of a Product Vision? Or this is something we expect to come out of the process without being prompted. And if yes, shouldn;t we set a date for that?",
+        "attachments": [
+            {
+                "fallback": "[September 1st, 2017 7:49 PM] heinz: I think we’ll eventually need to define what oparts of riak we want to continue, but agian that depends on end-user input",
+                "ts": "1504291767.000163",
+                "author_subname": "heinz",
+                "channel_id": "C6TD30YTA",
+                "channel_name": "planning-2017-09-01",
+                "is_msg_unfurl": true,
+                "text": "I think we’ll eventually need to define what oparts of riak we want to continue, but agian that depends on end-user input",
+                "author_name": "Heinz Gies",
+                "author_link": "https:\/\/postriak.slack.com\/team\/heinz",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/06be31af4f70327008242e8fbcb2d63c.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0025-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/postriak.slack.com\/archives\/C6TD30YTA\/p1504291767000163",
+                "is_share": true,
+                "footer": "Posted in #planning-2017-09-01"
+            }
+        ],
+        "ts": "1504292374.000156"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "JavaScript engine, legacy Riak search, legacy ring stuff, legacy object format, legacy repl, legacy handoff. Would be good to get a list going. ",
+        "thread_ts": "1504291928.000453",
+        "parent_user_id": "U6S4RDVEE",
+        "ts": "1504294069.000389"
+    }
+]

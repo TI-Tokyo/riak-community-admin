@@ -1,0 +1,237 @@
+[
+    {
+        "user": "U6S21QLH3",
+        "text": "<@U6S21QLH3|danabr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503930001.000104"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark I’ve invited you to <https:\/\/github.com\/Kyorai>, I think it’s a better staging point then the TI Tokio repo for our docs and stuff. The org not related to any company or person, rather was created to host the gh repos that feed the riak\/core realted hex packages. Given there is nothing company related we can much easier give out admin or other rights w\/o risking exposing internals.",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Kyorai",
+                "title_link": "https:\/\/github.com\/Kyorai",
+                "text": "GitHub is where people build software. More than 23 million people use GitHub to discover, fork, and contribute to over 65 million projects.",
+                "fallback": "GitHub: Kyorai",
+                "from_url": "https:\/\/github.com\/Kyorai",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/29925928?v=4&s=280",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1503931276.000300"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'd rather hold off until bet365 finish their deal. I'd hate to move everything only to then move it all again!",
+        "ts": "1503931476.000336"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They said it should be done in the next week or so, so not much of a delay.",
+        "ts": "1503931495.000185"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Having said that, we should put that on the agenda for the meeting - branding\/domains.",
+        "ts": "1503931527.000031"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Oh renaming an org is possible too, that’s why I’d prefer things to be on a blank slate GH-org not a company one :slightly_smiling_face:",
+        "ts": "1503931602.000471"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "but if bet gets the GH repo from basho it’d be esiest to rename that I guess",
+        "ts": "1503931644.000313"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I didn’t think about that good point peterclark !",
+        "ts": "1503931650.000537"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes.",
+        "ts": "1503931651.000189"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Hopefully, only a week or two more.",
+        "ts": "1503931661.000421",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Actually, you could ask Martin Cox (mcx).",
+        "ts": "1503931684.000440"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "He should know timing and might have an idea of what their plans are.",
+        "ts": "1503931698.000020"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yea i wasn’t making the mental connection bertween bet buying the assets and getting access to the GH repo",
+        "ts": "1503931733.000439"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We *assume* they are getting access!",
+        "ts": "1503931761.000424"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yea it does make sense",
+        "ts": "1503931778.000368",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "With this sort of this, one never really knows until the dust settles.",
+        "ts": "1503931779.000051"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yup",
+        "ts": "1503931823.000052"
+    },
+    {
+        "type": "message",
+        "user": "U6TRUK9R9",
+        "text": "Hi, I have an issue with the next meeting, it says Friday 2017-09-01 at 17:30 BST in this channel. But 2017-09-01 is a Saturday, not a Friday.",
+        "ts": "1503937448.000274"
+    },
+    {
+        "type": "message",
+        "user": "U6TRUK9R9",
+        "text": "I'd like to attend this one, so if someone could let me know what's the real date :slightly_smiling_face:",
+        "ts": "1503937470.000576"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Well we just need to change the calender to fit our schedule, that should be easy! Who is in charge of mapping days to date? WTO?",
+        "ts": "1503937772.000406"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "for me the 09-01 is a frieday",
+        "ts": "1503937792.000172"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6Q6G7S82|heinz> uploaded a file: <https:\/\/postriak.slack.com\/files\/heinz\/F6U62F53K\/pasted_image_at_2017_08_28_06_30_pm.png|Pasted image at 2017-08-28, 6:30 PM>",
+        "file": {
+            "id": "F6U62F53K",
+            "created": 1503937811,
+            "timestamp": 1503937811,
+            "name": "Pasted image at 2017_08_28 06_30 PM.png",
+            "title": "Pasted image at 2017-08-28, 6:30 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U6Q6G7S82",
+            "editable": false,
+            "size": 38900,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6U62F53K\/pasted_image_at_2017_08_28_06_30_pm.png?t=xoxe-227478566416-237860639127-236245049953-38a9ea11c3",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F6U62F53K\/download\/pasted_image_at_2017_08_28_06_30_pm.png?t=xoxe-227478566416-237860639127-236245049953-38a9ea11c3",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6U62F53K-ecadc8fb74\/pasted_image_at_2017_08_28_06_30_pm_64.png?t=xoxe-227478566416-237860639127-236245049953-38a9ea11c3",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6U62F53K-ecadc8fb74\/pasted_image_at_2017_08_28_06_30_pm_80.png?t=xoxe-227478566416-237860639127-236245049953-38a9ea11c3",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6U62F53K-ecadc8fb74\/pasted_image_at_2017_08_28_06_30_pm_360.png?t=xoxe-227478566416-237860639127-236245049953-38a9ea11c3",
+            "thumb_360_w": 360,
+            "thumb_360_h": 85,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6U62F53K-ecadc8fb74\/pasted_image_at_2017_08_28_06_30_pm_480.png?t=xoxe-227478566416-237860639127-236245049953-38a9ea11c3",
+            "thumb_480_w": 480,
+            "thumb_480_h": 114,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6U62F53K-ecadc8fb74\/pasted_image_at_2017_08_28_06_30_pm_160.png?t=xoxe-227478566416-237860639127-236245049953-38a9ea11c3",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F6U62F53K-ecadc8fb74\/pasted_image_at_2017_08_28_06_30_pm_720.png?t=xoxe-227478566416-237860639127-236245049953-38a9ea11c3",
+            "thumb_720_w": 720,
+            "thumb_720_h": 171,
+            "image_exif_rotation": 1,
+            "original_w": 775,
+            "original_h": 184,
+            "permalink": "https:\/\/postriak.slack.com\/files\/heinz\/F6U62F53K\/pasted_image_at_2017_08_28_06_30_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T6PE2GNC8-F6U62F53K-635134ace6",
+            "channels": [
+                "C6TD30YTA"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U6Q6G7S82",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "heinz",
+        "bot_id": null,
+        "ts": "1503937813.000467"
+    },
+    {
+        "user": "U6TPP9N4F",
+        "text": "<@U6TPP9N4F|glickbot> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503938291.000198"
+    },
+    {
+        "type": "message",
+        "user": "U6TRUK9R9",
+        "text": "<@U6Q6G7S82> ah indeed, somehow my damaged brain was reading 09\/09, sorry about that",
+        "ts": "1503962528.000107"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "been there done that :wink:",
+        "ts": "1503962794.000260"
+    }
+]

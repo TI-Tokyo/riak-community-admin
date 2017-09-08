@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q92JWHY|peterclark> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503717257.000047"
+    },
+    {
+        "user": "U6Q92JWHY",
+        "purpose": "Further discussions on the Post-Basho Riak Community",
+        "text": "<@U6Q92JWHY|peterclark> set the channel purpose: Further discussions on the Post-Basho Riak Community",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1503717258.000020"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Riak Community Proposal files are on GitHib at <https:\/\/github.com\/TI-Tokyo\/riak-community-admin>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin",
+                "text": "Contribute to riak-community-admin development by creating an account on GitHub.",
+                "fallback": "GitHub: TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/30156093?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1503724299.000067"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U6Q92JWHY",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[August 25th, 2017 10:11 PM] peterclark: Riak Community Proposal files are on GitHib at <https:\/\/github.com\/TI-Tokyo\/riak-community-admin>",
+                "ts": "1503724299.000067",
+                "author_subname": "peterclark",
+                "channel_id": "C6TD30YTA",
+                "channel_name": "planning-2017-09-01",
+                "is_msg_unfurl": true,
+                "text": "Riak Community Proposal files are on GitHib at <https:\/\/github.com\/TI-Tokyo\/riak-community-admin>",
+                "author_name": "Peter Clark",
+                "author_link": "https:\/\/postriak.slack.com\/team\/peterclark",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-08-18\/228371050276_a17fd2340757b9be054a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U6Q92JWHY|peterclark> pinned a message to this channel.",
+        "ts": "1503724307.000080"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Please direct all future edits and comments to the GitHub file at <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md",
+                "text": "Contribute to riak-community-admin development by creating an account on GitHub.",
+                "fallback": "GitHub: TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/30156093?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1503724420.000059"
+    },
+    {
+        "user": "U6S4RDVEE",
+        "text": "<@U6S4RDVEE|deadzen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503726693.000030",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U6Q92JWHY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

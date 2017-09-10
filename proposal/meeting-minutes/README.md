@@ -1,21 +1,12 @@
 # Minutes of Meetings
 
-## 2017-09-08 on Slack
+## Slack
 
-Location: postriak.slack.com - channel #planning-2017-09-08
+Location: [postriak.slack.com](https://postriak.slack.com)
 
-[Minutes](2017-09-08-slack.md) (Source: [Raw JSON exports](src-2017-09-08-slack/))
+| Channel | Date | Minutes | Source |
+| --- | --- | --- | --- |
+| #planning-2017-09-08 | 2017-09-08 | [Minutes](2017-09-08-slack.md) | [Raw JSON exports](src-2017-09-08-slack/)
+| #planning-2017-09-01 | 2017-09-08 | [Minutes](2017-09-01-slack.md) | [Raw JSON exports](src-2017-09-01-slack/)
+| #planning-2017-08-25 | 2017-09-08 | [Minutes](2017-08-25-slack.md) | [Raw JSON exports](src-2017-08-25-slack/)
 
-
-## 2017-09-01 on Slack
-
-Location: postriak.slack.com - channel #planning-2017-09-01
-
-[Minutes](2017-09-01-slack.md) (Source: [Raw JSON exports](src-2017-09-01-slack/))
-
-
-## 2017-08-25 on Slack
-
-Location: postriak.slack.com - channel #planning-2017-08-25
-
-[Minutes](2017-08-25-slack.md) (Source: [Raw JSON exports](src-2017-08-25-slack/))

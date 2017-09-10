@@ -1,5 +1,12 @@
 # Minutes of Meetings
 
+## 2017-09-08 on Slack
+
+Location: postriak.slack.com - channel #planning-2017-09-08
+
+[Minutes](2017-09-08-slack.md) (Source: [Raw JSON exports](src-2017-09-08-slack/))
+
+
 ## 2017-09-01 on Slack
 
 Location: postriak.slack.com - channel #planning-2017-09-01

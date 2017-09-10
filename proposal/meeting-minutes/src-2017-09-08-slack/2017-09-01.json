@@ -1,0 +1,123 @@
+[
+    {
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q92JWHY|peterclark> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1504291767.000394"
+    },
+    {
+        "user": "U6Q92JWHY",
+        "purpose": "3rd meeting regarding the Riak Project.",
+        "text": "<@U6Q92JWHY|peterclark> set the channel purpose: 3rd meeting regarding the Riak Project.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1504291768.000481"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Current Riak Project Proposal is here: <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md>",
+        "ts": "1504291795.000357"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Next meeting is **15:30 BST on Friday 2017-09-08**",
+        "ts": "1504291807.000152"
+    },
+    {
+        "user": "U6S4RDVEE",
+        "text": "<@U6S4RDVEE|deadzen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1504291984.000159"
+    },
+    {
+        "user": "U6Q6G7S82",
+        "text": "<@U6Q6G7S82|heinz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1504291997.000025"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170908T1530&amp;p0=136&amp;msg=Riak+Core+2017-09-08&amp;font=slab>",
+        "attachments": [
+            {
+                "title": "Riak Core 2017-09-08",
+                "title_link": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170908T1530&p0=136&msg=Riak+Core+2017-09-08&font=slab",
+                "text": "Countdown to Sep 8, 2017 3:30 pm. Showing days, hours, minutes and seconds ticking down to 0",
+                "fallback": "Riak Core 2017-09-08",
+                "image_url": "https:\/\/www.timeanddate.com\/scripts\/cdog.php?countdownto=Countdown%20to&image=generic&title=Riak%20Core%202017-09-08&date=Sep%208,%202017%20at%203%3a30%20pm&font=slab",
+                "from_url": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170908T1530&p0=136&msg=Riak+Core+2017-09-08&font=slab",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 84231,
+                "service_icon": "https:\/\/www.timeanddate.com\/favicon.ico",
+                "service_name": "timeanddate.com",
+                "id": 1
+            }
+        ],
+        "ts": "1504291999.000216"
+    },
+    {
+        "type": "message",
+        "user": "U6S4RDVEE",
+        "text": "w00t",
+        "ts": "1504292003.000151"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U6Q6G7S82",
+        "item_type": "C",
+        "attachments": [
+            {
+                "title": "Riak Core 2017-09-08",
+                "title_link": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170908T1530&p0=136&msg=Riak+Core+2017-09-08&font=slab",
+                "text": "Countdown to Sep 8, 2017 3:30 pm. Showing days, hours, minutes and seconds ticking down to 0",
+                "fallback": "Riak Core 2017-09-08",
+                "image_url": "https:\/\/www.timeanddate.com\/scripts\/cdog.php?countdownto=Countdown%20to&image=generic&title=Riak%20Core%202017-09-08&date=Sep%208,%202017%20at%203%3a30%20pm&font=slab",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 84231,
+                "service_icon": "https:\/\/www.timeanddate.com\/favicon.ico",
+                "service_name": "timeanddate.com",
+                "id": 1
+            }
+        ],
+        "text": "<@U6Q6G7S82|heinz> pinned a message to this channel.",
+        "ts": "1504292006.000128"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "shameless self pining",
+        "ts": "1504292015.000025"
+    },
+    {
+        "text": "highfives <@U6Q6G7S82|heinz> and <@U6Q92JWHY|peterclark>",
+        "type": "message",
+        "subtype": "me_message",
+        "user": "U6S4RDVEE",
+        "ts": "1504292018.000374",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hand",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,4523 @@
+[
+    {
+        "user": "U6R6ETJU8",
+        "text": "<@U6R6ETJU8|russelldb> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1504878459.000559"
+    },
+    {
+        "user": "U6RPFG5FH",
+        "text": "<@U6RPFG5FH|gpad> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1504880953.000351"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "About to start.",
+        "ts": "1504880953.000500"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "AGENDA\n\n1. Introductions - any new people?\n\n2. Time of next meeting.\n\n3. Issues on GitHub.\n\n4. Anything else to do with the Proposal so far.\n\n5. Other business.",
+        "ts": "1504881127.000279"
+    },
+    {
+        "user": "U6XF1C665",
+        "text": "<@U6XF1C665|marianoguerra> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1504881174.000537"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Item 1 - anyone new want to introduce themselves?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504881211.000000"
+        },
+        "ts": "1504881204.000186"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "aloa",
+        "ts": "1504881264.000210"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Hi <@U6Q6G7S82>",
+        "ts": "1504881271.000042"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "sorry for the delay I had to crawl out of the server cabinet :joy:",
+        "ts": "1504881286.000537"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face: Pretty good reason. Although why you hide the good beer back there, I have no idea.",
+        "ts": "1504881310.000289"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it has good cooling",
+        "ts": "1504881320.000316"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "+1",
+        "ts": "1504881328.000758"
+    },
+    {
+        "user": "U6RAJPUUR",
+        "text": "<@U6RAJPUUR|sargun> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1504881355.000303"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Still got a few people joining, but I recon we move to Item #2.",
+        "ts": "1504881382.000195"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Is this time good for people?",
+        "ts": "1504881393.000344"
+    },
+    {
+        "user": "U6T3BQN2V",
+        "text": "<@U6T3BQN2V|binarytemple> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1504881401.000255"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We have a LOT fewer people here, but don't know if that is due to bad timing, random events, or just thinking it's in 2 hours time.",
+        "ts": "1504881430.000651"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "On the other hand, we have several of the major commenters to date.",
+        "ts": "1504881460.000481"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Thoughts?",
+        "ts": "1504881463.000768"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think some of the people joining last week and before were more here for curiosity and to observe (nothing wrong with that), they might just have decided it’s not that interesting in comparison with what’s on Netflix. I mean we come close to House of Cards but we really need Kevin Spacey for next week :wink:",
+        "ts": "1504881592.000376"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'll ask on Twitter if he's interested....",
+        "ts": "1504881648.000293"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1504881651.000203"
+    },
+    {
+        "user": "U6QC6EQH2",
+        "text": "<@U6QC6EQH2|nadams> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1504881681.000102"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So - stick with now? I.e. 15:30 BST?",
+        "ts": "1504881709.000270",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6T3BQN2V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I made it",
+        "ts": "1504881745.000387"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I’ve no complaints on the time",
+        "ts": "1504881779.000461"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "being before midnight now is nice for me",
+        "ts": "1504881796.000135"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And me ^_^",
+        "ts": "1504881826.000534"
+    },
+    {
+        "type": "message",
+        "user": "U6XF1C665",
+        "text": "don't know if I fit here but the time is good for me",
+        "ts": "1504881829.000459"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If you're interested in Riak, then yes you \"fit\" here :slightly_smiling_face:",
+        "ts": "1504881846.000203"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "marianoguerra we’ll make you fit :wink:",
+        "ts": "1504881848.000250"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "square peg, round hole? No problem",
+        "ts": "1504881862.000393"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yap the solution is obvious: saussage!",
+        "ts": "1504881874.000535"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6XF1C665> Care for a quick intro about yourself?",
+        "ts": "1504881882.000421"
+    },
+    {
+        "type": "message",
+        "user": "U6XF1C665",
+        "text": "<@U6Q92JWHY> sure",
+        "ts": "1504881905.000078"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark there is a tiny typo in your CoC, it still says “Python” in one place",
+        "ts": "1504881916.000428"
+    },
+    {
+        "type": "message",
+        "user": "U6XF1C665",
+        "text": "I use riak_core for a backend of a product I built, I'm playing with riak_ensemble now (<http:\/\/marianoguerra.org\/posts\/multi-paxos-with-riak_ensemble-part-1\/>) and I gave some tals about riak_core and wrote this <https:\/\/marianoguerra.github.io\/little-riak-core-book\/>",
+        "attachments": [
+            {
+                "service_name": "Mariano Guerra's Log",
+                "title": "Multi-Paxos with riak_ensemble Part 1",
+                "title_link": "http:\/\/marianoguerra.org\/posts\/multi-paxos-with-riak_ensemble-part-1\/",
+                "text": "In this post I will do the initial steps to setup a project using riak_ensemble and use its core APIs, we will do it manually in the shell on purpose, later (I hope) I will post how to build it proper",
+                "fallback": "Mariano Guerra's Log: Multi-Paxos with riak_ensemble Part 1",
+                "ts": 1504169718,
+                "from_url": "http:\/\/marianoguerra.org\/posts\/multi-paxos-with-riak_ensemble-part-1\/",
+                "service_icon": "http:\/\/marianoguerra.org\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1504881975.000543",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6RPFG5FH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Sounds like you very much belong :slightly_smiling_face:",
+        "ts": "1504882021.000626"
+    },
+    {
+        "type": "message",
+        "user": "U6XF1C665",
+        "text": "if I have time I would like to update the little riak core book and create an event littler (?) riak_ensemble book",
+        "ts": "1504882036.000021",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6T3BQN2V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82>, not there yet :slightly_smiling_face:",
+        "ts": "1504882040.000119"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6XF1C665> - Sounds like you might enjoy helping out with documentation ^_^ Which would be awesome.",
+        "ts": "1504882066.000085"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Have you read the current proposal? <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md>",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504882103.000000"
+        },
+        "ts": "1504882081.000225"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "sorry I’m always a too eager :wink:",
+        "ts": "1504882093.000339"
+    },
+    {
+        "type": "message",
+        "user": "U6XF1C665",
+        "text": "I read a document that was shared by bytemeorg last week I think",
+        "ts": "1504882107.000247"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Hopefully the same thing.",
+        "ts": "1504882121.000071"
+    },
+    {
+        "type": "message",
+        "user": "U6XF1C665",
+        "text": "yep, that one",
+        "ts": "1504882135.000206"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "On GitHub, there are also a list of outstanding Issues we're looking at.",
+        "ts": "1504882140.000160"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Add more :slightly_smiling_face:",
+        "ts": "1504882146.000054"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - So Item 2, then Item 1, and now on to Item #3 on my agenda :slightly_smiling_face:",
+        "ts": "1504882170.000036"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Issue #3 `Eligibility for PG votes`",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504882232.000000"
+        },
+        "ts": "1504882224.000217"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "This is about memberships for end-users.",
+        "ts": "1504882274.000486"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> - would it work for you if a high-end corp membership allows them to nominate someone who might be from anywhere?",
+        "ts": "1504882353.000249"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "so a non-corp affiliated person to act as their rep?",
+        "ts": "1504882394.000029"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes - Heinz's point was that a corp might want to nominate a 3rd party as their candidate.",
+        "ts": "1504882428.000035"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I have no issue with that but can see most companies nominating their chief IT guy",
+        "ts": "1504882451.000049"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "so that would work out to the 5 end user seats being nominated by the high end users and voted for by all users?",
+        "ts": "1504882456.000792"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "simply because they probably don't know the community well enough to nominate a 3rd party",
+        "ts": "1504882469.000023"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Voted for by all end-users, yes.",
+        "ts": "1504882475.000128"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6QC6EQH2> - that is most likely, yes. This is for edge cases.",
+        "ts": "1504882490.000223"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "What happens when there are less then 5 high end companies?",
+        "ts": "1504882522.000380"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "boundary shifts?",
+        "ts": "1504882530.000400"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So 50 companies who are paying end-user members get 1 vote a piece. The 10 members who pay lots get to nominate 1 person each. All 50 people vote on the 10 to find 5 positions.",
+        "ts": "1504882550.000216"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> - good question.",
+        "ts": "1504882560.000340"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No idea.",
+        "ts": "1504882561.000405"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Thoughts?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504882565.000000"
+        },
+        "ts": "1504882562.000682"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Open it up to general nominations from the other end-users?",
+        "ts": "1504882582.000482"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "worried about buying votes",
+        "ts": "1504882583.000211"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6QC6EQH2> - why, and how?",
+        "ts": "1504882598.000770"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Actually I do: The existing board gets to fill the missing nominations",
+        "ts": "1504882605.000387"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "sorry, mistyped - buying nominations",
+        "ts": "1504882623.000300"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nadams ja",
+        "ts": "1504882626.000655"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that was my main issue with this",
+        "ts": "1504882637.000321"
+    },
+    {
+        "type": "message",
+        "user": "U6XF1C665",
+        "text": "isn't there something about this documented in some foundations? (apache, eclipse, cloud native etc)",
+        "ts": "1504882653.000523"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "family of companies. By donating lots, they control the nominees through the 10 or so paying faces they present",
+        "ts": "1504882672.000256"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> suggested having to make all affiliations known when accepting nomination.",
+        "ts": "1504882720.000549"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Which seems like a good idea.",
+        "ts": "1504882725.000693"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The other 50 companies would then at least KNOW what they are voting for.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504882745.000000"
+        },
+        "ts": "1504882742.000150"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "affiliations as in companies in the same group?",
+        "ts": "1504882755.000711"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Hmm something that might slightly mitigate this: allowing the current board nominate 1 additional person",
+        "ts": "1504882777.000498"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Or to services. products, family, friendship etc... relating to Riak",
+        "ts": "1504882788.000092"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that way at least 1 nominee is not nessessarily affiliated with the high donating comapnies",
+        "ts": "1504882807.000685"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "e.g. Fiat owns both Ferrari and Maseratti. If Ferrari, Maseratti and Fiat all put forward one nominee each, Fiat would technically be controlling 3 of them",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504882831.000000"
+        },
+        "ts": "1504882809.000173"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nadams thats a very good point",
+        "ts": "1504882839.000019"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So long as each is paying $100,000 a year, good for them.",
+        "ts": "1504882844.000156"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The other 50 companies should take that into account and vote for one and not all three.",
+        "ts": "1504882879.000117"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "so the buying nominations case it true then",
+        "ts": "1504882879.000175"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "As in all politics. They are called parties.",
+        "ts": "1504882892.000254"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "and the ones with the most money get control",
+        "ts": "1504882922.000239"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Not really.",
+        "ts": "1504882927.000275"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "isn't democracy great?",
+        "ts": "1504882930.000073"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The ones with the most money are more likely to have a seat at the table.",
+        "ts": "1504882938.000583"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "exactly",
+        "ts": "1504882948.000828"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "the rule about members \/ companie should probably include subsediaries (sop?)",
+        "ts": "1504882950.000195"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Remember that this group is under 50% of the PDG.",
+        "ts": "1504882950.000248"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "only just",
+        "ts": "1504882992.000705"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And major changes need 75% to pass.",
+        "ts": "1504883004.000513"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "then again, Peter is right - if they are paying that much, why not?",
+        "ts": "1504883042.000015"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "if they are willing to plough money into the project, shouldn't it be fair for them to have a say at the table?",
+        "ts": "1504883070.000081"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "without funding and resources, the project dies anyway",
+        "ts": "1504883093.000183"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "why keep big investors away?",
+        "ts": "1504883103.000308"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Without funding the project dies, that is debatable.",
+        "ts": "1504883126.000108"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Slows down a lot, though :slightly_smiling_face:",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504883150.000000"
+        },
+        "ts": "1504883145.000004"
+    },
+    {
+        "type": "message",
+        "user": "U6XF1C665",
+        "text": "but if you use 300k to buy 3 seats at a community to make it do what you want, why not use the 300k to fund development of a fork?",
+        "ts": "1504883160.000195"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yup!",
+        "ts": "1504883171.000292"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "<@U6XF1C665> - that would seem obvious to me",
+        "ts": "1504883177.000141"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "\"without funding, the project suffers\" is probably fairer",
+        "ts": "1504883181.000749"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Also, you would get more control by donating a load of Developers.",
+        "ts": "1504883186.000524"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "maybe because you want to pay the project as a whole and keep it together?",
+        "ts": "1504883201.000522"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. you can propose a subproject, and assign developers to make it happen.",
+        "ts": "1504883217.000152"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Why did Bet365 buy this stuff and open source it when they have the debatably biggest development team in Europe?",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504883256.000000"
+        },
+        "ts": "1504883246.000090"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "they want the knowledge that is not in house for a guess.",
+        "ts": "1504883293.000651"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Presumably for good publicity, to air everything in public, and to keep the knowledge alive.",
+        "ts": "1504883307.000394"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Also, they know that to keep something like this alive you need a larger team than they are willing to assign. This way they get to pool resources with other groups.",
+        "ts": "1504883344.000458"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "I’m sure they have some very good in house knowledge, they have publicly stated that they have been using Riak heavily for 4 years now.",
+        "ts": "1504883350.000174"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "usage knowledge or development knowledge - both are different",
+        "ts": "1504883378.000436"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Both - from what I have been told.",
+        "ts": "1504883393.000599"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Usually I’m the doomsdayer but there is a more positive point of view: because projects prosper more with input form many different places",
+        "ts": "1504883442.000176"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "I publicly submitted p\/r on behalf of bet365 to basho last year - expose GSET CRTD to pb\/http\/yoko",
+        "ts": "1504883444.000697"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "<@U6Q6G7S82> agree",
+        "ts": "1504883467.000065"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "I think it’s fair to say they are capable of understanding Riak codebase.",
+        "ts": "1504883474.000783"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Seem to be getting slightly sidetracked here.",
+        "ts": "1504883521.000448"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I think we are making valid points but are going slightly off course",
+        "ts": "1504883529.000212"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "snap",
+        "ts": "1504883543.000047"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1504883543.000198"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Jinx?",
+        "ts": "1504883555.000579"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "no, I need to type",
+        "ts": "1504883563.000413"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "hehe",
+        "ts": "1504883569.000038"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Dind’t we already discuss that one company can’t have multiple people in the PG?",
+        "ts": "1504883589.000597"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "that seems fine. it was what to do with subsidaries when we went off course",
+        "ts": "1504883617.000200"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yea but it seems sensible to treat that as athe same company",
+        "ts": "1504883635.000717"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "also when it comes for votes",
+        "ts": "1504883642.000259"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If the parent company isn't involved, and there are 15 layers between them?",
+        "ts": "1504883653.000016"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It gets messy and murky.",
+        "ts": "1504883662.000167"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "yes or two sister companies when the parent doesn't care",
+        "ts": "1504883677.000098"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Or two fifth-cousin companies!",
+        "ts": "1504883693.000646"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "if possible",
+        "ts": "1504883701.000138"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that we can’t cover the extreme cases doesn’t mean we shouldn’t cover the obvious one",
+        "ts": "1504883712.000519"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "True.",
+        "ts": "1504883729.000642"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "if a company goes through the effort of making 15 layers of subsidearies to fool us, and we don’t notice they deserve to trick us",
+        "ts": "1504883731.000444"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face: Valid point :slightly_smiling_face:",
+        "ts": "1504883744.000304"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "how about majority share holder?",
+        "ts": "1504883752.000220"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "(opens new can of worms)",
+        "ts": "1504883759.000015"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "“The PG can question the enlightability for a nomination based on bla”?",
+        "ts": "1504883822.000422"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I can live with that",
+        "ts": "1504883849.000741"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "As can I.",
+        "ts": "1504883866.000164"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "i.e. if they feel like a nomination or an enlightability for nomination goes against the spirit of “1 person per company” they cahn challange it",
+        "ts": "1504883869.000553"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "\"eligibility\" might be a better word though",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504883879.000000"
+        },
+        "ts": "1504883871.000027"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So long as it's publicly known, I have no issue with this.",
+        "ts": "1504883882.000235"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I’m horrible when it comes to spelling :stuck_out_tongue:",
+        "ts": "1504883885.000701"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I prefer enlightability",
+        "ts": "1504883896.000407"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "we basically defer the issue to the PG to when it occures",
+        "ts": "1504883911.000413"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I am an elightened candidate - awesome",
+        "ts": "1504883911.000600"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":smile:",
+        "ts": "1504883916.000296"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "good idea",
+        "ts": "1504883919.000305"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "and w\/ developpers+admin holding &gt;50% of votes they can prevent crazyness",
+        "ts": "1504883931.000013"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "would they bother to dig that far?",
+        "ts": "1504883952.000209"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "if not, well done in fooling us then",
+        "ts": "1504883971.000644"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "point taken",
+        "ts": "1504883974.000235"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "There is no fool proof rule. I think it’s a bit like IT security, you just need to make it hard enough to break to deterr people from trying",
+        "ts": "1504883989.000169"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "and this is the \"please use the computer responsibly\" notice",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504884035.000000"
+        },
+        "ts": "1504884018.000751"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "very much",
+        "ts": "1504884042.000596"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - so decisions made are?",
+        "ts": "1504884063.000253"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I'm good with Heinz' suggestion",
+        "ts": "1504884065.000201"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "plus removal of members can happen w\/ a 50% vote too, so even if they fool us, and get voted in the system itself still strong enough to correct itself after the fact",
+        "ts": "1504884071.000167"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nadams which of all of them? :stuck_out_tongue:",
+        "ts": "1504884094.000696"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "approval by PG",
+        "ts": "1504884106.000707"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "nominally company groups will be viewed as one company",
+        "ts": "1504884122.000598"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ja",
+        "ts": "1504884131.000367"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I would still like to bring up the option to allow the PG to nominate 1 person in addition to the large companies",
+        "ts": "1504884149.000193"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I'd give them the option to, not a requirement",
+        "ts": "1504884169.000214"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that will ensure that the voters do not run into a “it’s all the comapnies” sitation",
+        "ts": "1504884174.000011"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "good point",
+        "ts": "1504884178.000047"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "yes",
+        "ts": "1504884179.000314"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So to resolve Issue #3 in Github:\n\n- Have scaling end-user memberships.\n- All end-users get 1 vote.\n- All higher-level end-users can nominate someone as a Candidate.\n- All conflicts of interest must be made public.\n- The PDG can raise issues, and if needed remove members by the already established mechanisms.\n\nHave I got all that right?",
+        "ts": "1504884206.000325"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "plus PDG can nominate 1 member",
+        "ts": "1504884234.000422"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "but is under no requirement to do so",
+        "ts": "1504884246.000787"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "can nominate 1 must nominate enough to fill the ballet ?",
+        "ts": "1504884251.000028"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that also solves the question of what do we do when we need 5 seats but only have 2 companies?",
+        "ts": "1504884270.000659"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "good point",
+        "ts": "1504884277.000610"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "and they are a good source for the nomination",
+        "ts": "1504884287.000355"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So the PDG can nominate candidates to ensure there are at least 6 Candidates?",
+        "ts": "1504884315.000726"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. 5 from the companies, plus 1 more to provide for actual decision making.",
+        "ts": "1504884330.000268"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "well if we have 10 companies it’d be 11",
+        "ts": "1504884346.000118"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "do we want an even number?",
+        "ts": "1504884347.000186"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Doesn't matter, so long as it's more than 5.",
+        "ts": "1504884357.000013"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it was jsut a random 5",
+        "ts": "1504884358.000169"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "ok",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504884365.000000"
+        },
+        "ts": "1504884360.000537"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "we need at least 5 candidates (to fill the 5 seats)",
+        "ts": "1504884370.000232"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "- The PDG can nominate Candidates to ensure there are at least 1 more Candidates than positions available.",
+        "ts": "1504884425.000586",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "+1",
+        "ts": "1504884434.000265"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "what happens if a big company comes part way through? Should the PDG remove one of their candidates to allow this company to nominate someone?",
+        "ts": "1504884442.000311"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That phrasing also allows for one-off events like deaths or surprise retirements.",
+        "ts": "1504884445.000200"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Tough.",
+        "ts": "1504884453.000307"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "ok",
+        "ts": "1504884459.000372"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If not in by the voting rules they wait until next year.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504884468.000000"
+        },
+        "ts": "1504884461.000581"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "fair enough",
+        "ts": "1504884470.000322"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "if they want to stay that is",
+        "ts": "1504884489.000289"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If they are serious about Riak, and are donating enough to be able to nominate people, then they won't mind waiting.",
+        "ts": "1504884523.000509"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "especially since the donation does not guarantee a seat just a nomination",
+        "ts": "1504884576.000101"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "ok",
+        "ts": "1504884581.000293"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Great - I&amp;ll update the Issue now, and the document later.",
+        "ts": "1504884598.000557"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Issue #6 - change process for governance.",
+        "ts": "1504884637.000166"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Any issues with the new phrasing?",
+        "ts": "1504884662.000161"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "(This phrasing is already in the document, btw.)",
+        "ts": "1504884680.000362"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark slight wording thing: `The PDG can nominate Candidates to ensure there are at least 1 more Candidates than positions available` is missleading it should probably be  `The PDG can nominate Candidates to ensure there are at least 1 more Candidates than positions available but at least one.`",
+        "ts": "1504884684.000358"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> - good point.",
+        "ts": "1504884706.000294"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it also will serve as a good indicator weather the ‘base’ is happy w\/ the large donating companies",
+        "ts": "1504884744.000665"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "`- The PDG can nominate Candidates to ensure there are at least 1 more Candidates than positions available, and can always nominate 1 extra Candidate.`",
+        "ts": "1504884756.000059",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "if an ‘independant’ candidate gets a vast majority of votes we know we got to change something :stuck_out_tongue:",
+        "ts": "1504884764.000832"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "or just field more independent candidates",
+        "ts": "1504884800.000201"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "or that but it’s a good canary (I think that’s what its’ called)",
+        "ts": "1504884819.000450"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Such terrible English I used...\n`- The PDG can nominate Candidates to ensure there is at least 1 more Candidate than positions available, and can always nominate 1 extra Candidate.`",
+        "ts": "1504884845.000387"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I wouldn’t notice :stuck_out_tongue:",
+        "ts": "1504884862.000211"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "at the end of the day, the end users get to vote for whoever is up there to choose from",
+        "ts": "1504884874.000500"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes.",
+        "ts": "1504884882.000715"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So, good with new wording?",
+        "ts": "1504884887.000388"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "yes",
+        "ts": "1504884890.000735"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yap",
+        "ts": "1504884893.000097"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Great.",
+        "ts": "1504884897.000513"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - back to Issue #6 - <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/6>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "We are lacking a change process for the governing rules · Issue #6 · TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/6",
+                "text": "We do not specify any process of approving changes to the governing rules and process. This includes rules for the 1st approval of our results. I would propose the following rules: General changes ...",
+                "fallback": "GitHub: We are lacking a change process for the governing rules · Issue #6 · TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/6",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/119093?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504884913.000717"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I have no issue with this",
+        "ts": "1504884924.000199"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yay!",
+        "ts": "1504884933.000199"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "me neither",
+        "ts": "1504884940.000035"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "may result in circular implementations\/removals of policies but unlikely",
+        "ts": "1504884943.000277"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Anyone else?",
+        "ts": "1504884949.000058"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark I told you we should have gotten Kevin :stuck_out_tongue:",
+        "ts": "1504884968.000097"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1504884975.000017"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "This is just our review - not setting it in stone.",
+        "ts": "1504884989.000565"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Future changes are totally going to happen :slightly_smiling_face:",
+        "ts": "1504884998.000366"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "try at here or at channel?",
+        "ts": "1504885011.000502"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "with #6 they sure wre that’s why we got a process for it :stuck_out_tongue:",
+        "ts": "1504885021.000141"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - on to #7 - <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/7>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Code of Conduct · Issue #7 · TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/7",
+                "text": "Copy from Slack. Code of Conduct Taken from #general discussions between @heinz and @kunthar earlier today. Sample CoC from other projects: Ubuntu <https:\/\/www.ubuntu.com\/about\/about-ubuntu\/conduct> ...",
+                "fallback": "GitHub: Code of Conduct · Issue #7 · TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/7",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/30156044?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504885038.000338"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Aside from the Python thing <@U6Q6G7S82> pointed out, is it good?",
+        "ts": "1504885062.000423"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yap",
+        "ts": "1504885070.000314"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "(Which I've just fixed....)",
+        "ts": "1504885083.000228"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "no one must ever know that it existed!",
+        "ts": "1504885092.000012"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": ":slightly_smiling_face:",
+        "ts": "1504885096.000389"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I may have to remove the header that says \"nicked from Python\" then.",
+        "ts": "1504885113.000376"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "1 tiny thing, wehn we put it in we should note that it’s adopted from the python CoC (giving credit where credit is due)",
+        "ts": "1504885115.000252"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So leave the header in, then :slightly_smiling_face:",
+        "ts": "1504885131.000377"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "that is valid",
+        "ts": "1504885131.000417"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "yup",
+        "ts": "1504885138.000369"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "oh that was the 1st line",
+        "ts": "1504885146.000729"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "oops",
+        "ts": "1504885149.000023"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "sorry",
+        "ts": "1504885151.000005"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "just swap the \"member of the Python community\"",
+        "ts": "1504885152.000268"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Totally fixed that ages ago. Like, well over a second.",
+        "ts": "1504885206.000111"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "On to the next!",
+        "ts": "1504885252.000086"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "+1 on that :slightly_smiling_face:",
+        "ts": "1504885256.000196"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Issue #8 - <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/8>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "How to deal with possible conflicts of interest · Issue #8 · TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/8",
+                "text": "I think especially with the riak_core crowd (like me ;)) we have the potential to see quite some situations where there are conflicts of interest and we should possibly clarify how to deal with the...",
+                "fallback": "GitHub: How to deal with possible conflicts of interest · Issue #8 · TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/8",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/119093?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504885257.000331"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ah that’s going to be a complciated one I fear :stuck_out_tongue:",
+        "ts": "1504885281.000595"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Having a publicly available list of who we are and what we do sounds like a great idea.",
+        "ts": "1504885296.000085"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ja",
+        "ts": "1504885311.000537"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Having the same services offered by different groups also sounds like a good idea as it promotes optimisation.",
+        "ts": "1504885333.000195"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "For the corporate section, should be simple - TI and ESL pay money\/resources? They get space. Bob doesn't? He gets no space",
+        "ts": "1504885333.000719"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "my thought was that with _core we will see many projects outside of kv\/cs\/ts that will particiapate in that and some will be compeeting",
+        "ts": "1504885335.000829"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No - Bob gets put at the bottom of the list :slightly_smiling_face:",
+        "ts": "1504885350.000017"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "that works too",
+        "ts": "1504885359.000055"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I don't see any conflict here <@U6Q6G7S82>",
+        "ts": "1504885374.000286"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We showcase them all.",
+        "ts": "1504885381.000018"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "the goal is to make Riak as a whole better",
+        "ts": "1504885385.000396"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Best idea wins, after all!",
+        "ts": "1504885386.000265"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Evolution",
+        "ts": "1504885400.000024"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark totally fine I brought it up because it helps to get those things discussed and cleared before icky feelings start go grow",
+        "ts": "1504885421.000193"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So:\n\n- Have public who we are \/ what we do lists for members.\n- Have section for showing off services by end-users organised by membership level.\n- Competing services are encouraged.\n- Competing projects are encouraged.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504885523.000000"
+        },
+        "ts": "1504885492.000305"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "sounds good",
+        "ts": "1504885530.000098"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "maybe put it in the CoC that we should always be positive about competitors be it services, projects or something else",
+        "ts": "1504885559.000532"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Oh - and for election Candidates, their list of affiliated companies and projects should be part of their blurb.",
+        "ts": "1504885570.000429"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "i.e. \"don'T choose xyz because it's terrible\" is not allowed.",
+        "ts": "1504885595.000484"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "<@U6Q92JWHY> yes",
+        "ts": "1504885614.000043"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nadams I think the CoC already implies that",
+        "ts": "1504885617.000505"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But \"do choose ABC as it offers this thing\" is allowed.",
+        "ts": "1504885631.000289"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it’s “Respectful to other peoples work”",
+        "ts": "1504885632.000225"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> - yes.",
+        "ts": "1504885638.000412"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "now it gets complicated: “You will have stronger consistency with nadams-db then with riak-kv that seems to suite you better.”",
+        "ts": "1504885697.000110"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Not really - so long as you are saying truthfully that for a specific feature nadams-db is better than riak-kv that's fine.",
+        "ts": "1504885736.000605"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It's when you say \"nadams-db is shit\" that we have issues.",
+        "ts": "1504885748.000258"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "yes, we have suggested to one of our customers to move off Riak and use Elastic instead",
+        "ts": "1504885760.000313"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "poor nadams your db is fine, we still love it",
+        "ts": "1504885769.000029"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "(And now I feel mean to <@U6QC6EQH2>...)",
+        "ts": "1504885769.000077"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":joy:",
+        "ts": "1504885779.000115"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "simply because Elastic does what they want to natively whereas they have to jump through hoops to get it to work in Riak",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504885794.000000"
+        },
+        "ts": "1504885788.000098"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yup I’m all for the “help people find the best solution even if it’s not yours”",
+        "ts": "1504885827.000677"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "provided we can maintain that mentality throughout the project, that should be fine",
+        "ts": "1504885851.000092"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So the decisions for this one are:\n\n- Have public who we area \/ what we do lists for members.\n- Have section for showing off services by end-users organised by membership level.\n- Competing services are encouraged.\n- Competing projects are encouraged.\n- Candidate information should include their affiliated companies and projects.",
+        "ts": "1504885889.000533"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Any changes\/additions to those?",
+        "ts": "1504885895.000390"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "what about contractors",
+        "ts": "1504885921.000529"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "find a way to squeeze in Heinz' \"help people find the best solution even if it’s not yours\"",
+        "ts": "1504885924.000291"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I think that is relevant here",
+        "ts": "1504885935.000411"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "other than that, I'm good",
+        "ts": "1504885959.000782"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> What about contractors?",
+        "ts": "1504885962.000137"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "as in services?",
+        "ts": "1504885999.000021"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Well lets say bob contracted for NHS for a month last year, then tokyo, ESL, FiFo, bet, microsoft, and so forth, will Bob list all his contractors? Or what is if he’s under a NDA?",
+        "ts": "1504886006.000309"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6QC6EQH2> - how does `- Competing projects are encouraged, and best features highlighted` sound?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504886015.000000"
+        },
+        "ts": "1504886010.000170",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6T3BQN2V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "that would then be \"how do we decide what is highlighted?\"",
+        "ts": "1504886052.000098"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nadams in the original discussion I suggested “by approval from the PG”",
+        "ts": "1504886070.000496"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "depending on the reader, best features becomes a matter of opinion",
+        "ts": "1504886071.000784"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6QC6EQH2> - We don't decide that, the project documentors do.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504886079.000000"
+        },
+        "ts": "1504886075.000126"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> - ideally, yes.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504886096.000000"
+        },
+        "ts": "1504886087.000720"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "i.e. before something goes up on our site, it gets approved",
+        "ts": "1504886099.000627"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "we can’t control what’s on other sources, but we can at least vet against outragous silly claims",
+        "ts": "1504886111.000101"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "<@U6Q6G7S82> agree",
+        "ts": "1504886115.000506"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "or \"buy rolex watches\"",
+        "ts": "1504886123.000531"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "damn it there goes my business plan -.-",
+        "ts": "1504886142.000406"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": ":slightly_smiling_face:",
+        "ts": "1504886146.000721"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "but to more serious topics the contractors situation can get complicated",
+        "ts": "1504886219.000562"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It can, and all we can do it like the end-users - do our best to be honest and diligent.",
+        "ts": "1504886246.000478"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yap, what I’m most concerned about is that either it ends up being an absurdly large (and irrelevant list) or that a contractor ends up with a NDA and in a conflic that he would need to disclose it but isn’t allowed to",
+        "ts": "1504886288.000050"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Unless one of his side-projects was joining the \"let's destroy Riak fan club\"  it will have minimal impact if he can't tell us he worked on a fork of Riak Core for the Navy.",
+        "ts": "1504886288.000623"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "should we allow end user feedback e.g. star ratings etc? If so, should reviews be vetted?",
+        "ts": "1504886295.000504"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "feedback on what?",
+        "ts": "1504886329.000015"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "as a potential customer, how am I to know the best choice between 3 contractors and two companies if I want support?",
+        "ts": "1504886346.000669"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Ring them and ask.",
+        "ts": "1504886362.000105"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "oh talk to them I guess?",
+        "ts": "1504886362.000774"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":joy:",
+        "ts": "1504886367.000290"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Once you allow on-site feedback, you have to add in a lot of extra governance.",
+        "ts": "1504886384.000410",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it’s not about being a marketing platform, it’s about preventing things going batshit crazy or people getting upset",
+        "ts": "1504886385.000485"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes.",
+        "ts": "1504886391.000142"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "fair enough",
+        "ts": "1504886396.000095"
+    },
+    {
+        "type": "message",
+        "user": "U6XF1C665",
+        "text": "alphabetical order for contractors, stars on github for projects",
+        "ts": "1504886402.000088"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "sounds fair",
+        "ts": "1504886433.000287"
+    },
+    {
+        "type": "message",
+        "user": "U6XF1C665",
+        "text": "you don't choose your last name, or if you do, you deserve to be at the top of the list :stuck_out_tongue:",
+        "ts": "1504886434.000431"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "If someone renames themselfs Aartvark for that they’d deserve it!",
+        "edited": {
+            "user": "U6Q6G7S82",
+            "ts": "1504886469.000000"
+        },
+        "ts": "1504886465.000305"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": ":slightly_smiling_face:",
+        "ts": "1504886472.000042"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "My name is now 11111AAAA Plumbing.",
+        "ts": "1504886481.000001"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that kind of dedication does deserve being honored",
+        "ts": "1504886490.000151"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "(People actually do that in the UK for the Yellow Pages!)",
+        "ts": "1504886491.000210"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "seriously? :joy:",
+        "ts": "1504886497.000776"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Company names, but yes.",
+        "ts": "1504886504.000161"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But organising by membership level, then by surname\/firstname\/middle names\/random.",
+        "ts": "1504886565.000021"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "seems fair enough",
+        "ts": "1504886578.000207"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ja",
+        "ts": "1504886583.000330"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "are we good for this issue or did we bypass it?",
+        "ts": "1504886634.000297"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - so we now have:\n\n- Have public who we area \/ what we do lists for members.\n- Have section for showing off services by end-users organised by membership level (then surname. first name, middle names) with links to public projects (GitHub repos, community pages, other URLs).\n- Competing services are encouraged, and best features highlighted.\n- Competing projects are encouraged, and best features highlighted.\n- Candidate information should include their affiliated companies and projects.",
+        "ts": "1504886640.000371"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "sounds good to me",
+        "ts": "1504886695.000247"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The last one assumes a degree of common sense filtering, but I'll clean it up when I add it to the document.",
+        "ts": "1504886702.000324"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "ok",
+        "ts": "1504886712.000401"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Any objections?",
+        "ts": "1504886745.000389"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "not that I can think of",
+        "ts": "1504886756.000306"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Cool",
+        "ts": "1504886770.000371"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Issue #9 - <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/9>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Groups and Teams list · Issue #9 · TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/9",
+                "text": "In paragraph 3, there is an example stating that a Team might deal with writing source code for Riak Core, and would therefore NOT deal with writing source code for Riak KV Although I have no probl...",
+                "fallback": "GitHub: Groups and Teams list · Issue #9 · TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/9",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/20081341?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504886778.000415"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The issue here is whether the text is confusing, not the idea of Teams.",
+        "ts": "1504886833.000124"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "to be honest that feels a bit like a non issue, the casual observer won’t know that core is part of kv, or what the hell the difference is",
+        "ts": "1504886861.000066"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "but otoh using different examples makes no difference either, if it gets clearer that way ¯\\_(ツ)_\/¯",
+        "ts": "1504886900.000190"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "this is a target audience thing - know nothing vs know a little vs know what we are talking about level",
+        "ts": "1504886915.000271"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I specifically want Core in there to highlight it as a separate-from-KV project.",
+        "ts": "1504886938.000082"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "probably \"know a little\" is the danger area with the current example",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504886955.000000"
+        },
+        "ts": "1504886938.000166"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Go with the \"Core and Java Client Libraries\" example then?",
+        "ts": "1504886994.000421"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Happy to change to Core and Java Client Libraries, but that doesn't really highlight the issue it was addressing for me,",
+        "ts": "1504887005.000662"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I really have no issue with one or the other, as it is an example it has no impact in the end I think other then for people reading it",
+        "ts": "1504887008.000098"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark what was the issue you wanted to address?",
+        "ts": "1504887023.000247"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That Teams work on their area of expertise only. I.e. a big change to Core will break current KV, but if the Core Team has decided that it is necessary then the KV Team has to accept that and change KV to use the new Core API (or whatever).",
+        "ts": "1504887131.000611"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "yeah, the KV team might ask the Core team for updated source code they can implement, thus causing the problem in issue 9",
+        "ts": "1504887157.000222"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No.",
+        "ts": "1504887171.000362"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The KV Team will never do that.",
+        "ts": "1504887179.000078"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The KV Team will work off the version in Github.",
+        "ts": "1504887188.000185"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "the KV Team can't ask for sample code from the Core team?",
+        "ts": "1504887196.000299"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They can for the develop branch, and will no doubt work with the Core Team.",
+        "ts": "1504887222.000106"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But the decisions for how Core works belong to Core.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504887252.000000"
+        },
+        "ts": "1504887229.000621"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It's for KV to catch up, or fork.",
+        "ts": "1504887239.000268"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I think this concept is lost on most people who are just trying to look for a difference",
+        "ts": "1504887260.000334"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "KV depends on Core. That is the only relationship that matters.",
+        "ts": "1504887296.000384"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I have no issue with your concept, just don'T think this is the right place to be trying to portray all of that in a one liner that can confuse people who don'T have the background knowledge",
+        "ts": "1504887308.000547"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The point is that changes to Core are not guided by any other Team.",
+        "ts": "1504887312.000396"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "then switch the order",
+        "ts": "1504887332.000708"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it’s a good point, but at least for me the example didn’t make your message clear",
+        "ts": "1504887350.000211"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But no change to KV will ever affect Core.",
+        "ts": "1504887353.000006"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "exactly",
+        "ts": "1504887363.000192"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So it's not a helpful example.",
+        "ts": "1504887371.000160"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "hence two separate teams",
+        "ts": "1504887375.000434"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "as it stands, it's a confusing example",
+        "ts": "1504887386.000494"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "How?",
+        "ts": "1504887421.000392"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "plus you said that changes to Core can break KV. Hence changes to Core will cause KV to change",
+        "ts": "1504887432.000101"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Of course they will - dependancies.",
+        "ts": "1504887444.000408"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But it's not the Core Team changing KV.",
+        "ts": "1504887460.000280"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It's the KV Team.",
+        "ts": "1504887466.000272"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That's the whole point.",
+        "ts": "1504887470.000272"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it’s a excellent point",
+        "ts": "1504887492.000168"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Well, I don't get it and Heinz didn't get it either. We need a better example that says what you want or just go with one of the suggestions in issue 9",
+        "ts": "1504887492.000318"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I don't argue the point, I argue that the example is poor",
+        "ts": "1504887516.000299"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Why not just make it explict “Depenadnt projects do not dictate the development of their dependenicies, and dependencies do not change code in their depandants.”",
+        "edited": {
+            "user": "U6Q6G7S82",
+            "ts": "1504887553.000000"
+        },
+        "ts": "1504887517.000520"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "more clear that way",
+        "ts": "1504887558.000287"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "- spelling mistakes :wink:",
+        "ts": "1504887563.000204"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "`Each Group is made up of Teams which deal with specific areas of responsibility and dependant projects do not dictate the development of their dependencies. For example, a Team might deal with writing source code for Riak Core, which may break Riak KV. The Riak KV Team would then be responsible for patching Riak KV. Teams will work together, and membership is intended to be fluid between them.` ?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504887600.000000"
+        },
+        "ts": "1504887591.000173"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "makes sense but omits the bit about teams <@U6Q6G7S82>",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504887600.000000"
+        },
+        "ts": "1504887593.000313"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "that is better",
+        "ts": "1504887645.000237"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I can see the KV team thinking they have a bit of a bum deal though",
+        "ts": "1504887659.000173"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I like it a lot :slightly_smiling_face:",
+        "ts": "1504887661.000726"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "All dependant projects do :slightly_smiling_face:",
+        "ts": "1504887684.000111"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Groovy - I'll add that to the Issue.",
+        "ts": "1504887708.000421"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "as KV is dependant on so many other parts, this could be an issue if we let individual teams go wild",
+        "ts": "1504887713.000100"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nadams contributions need to be vetted before they’re merged",
+        "ts": "1504887723.000112"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That is what the overall guidance is for.",
+        "ts": "1504887726.000204"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "true",
+        "ts": "1504887730.000334"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "if the changes to _core are resonable or silly they’d never get to the poiunt",
+        "ts": "1504887738.000413"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Plus, Riak KV 2.4 might use Riak Core 1.2 - despite Core 2.0 being the new version.",
+        "ts": "1504887784.000549"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. there is flexibility in there already to deal with breaking changes.",
+        "ts": "1504887807.000323"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Fair point - comes back to questions about the stability\/quality of what got committed towards the end of basho.",
+        "ts": "1504887826.000664"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "The same way that Riak uses Erlang 16 despite 20 being recent",
+        "ts": "1504887830.000181"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes. And one open issue should be \"upgrade to Erlang 20\" :slightly_smiling_face:",
+        "ts": "1504887856.000023"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - on to the next item!",
+        "ts": "1504887879.000021"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Issue #10 - <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/10>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Election Rules - Step 7 · Issue #10 · TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/10",
+                "text": "Run-off elections Should we have run offs at all? What if the lowest ranked candidate is the best compromise candidate? What kind of majority vote to win? Should we go for a majority vote (i.e. mor...",
+                "fallback": "GitHub: Election Rules - Step 7 · Issue #10 · TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/10",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/30156044?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504887883.000458"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "This came about from my reading Robert's Election Rules.",
+        "ts": "1504887905.000092"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "roberts?",
+        "ts": "1504887925.000410"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "A common source for business etiquette which includes things like elections in organisations.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504887954.000000"
+        },
+        "ts": "1504887949.000111"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Part 1- should we have run-off election where the lowest ranked person gets removed. Specifically what happens if the lowest rank person is the best compromise candidate?",
+        "ts": "1504887976.000090"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "how would the compromise candidate be best? If we do a re-run, wouldn't the top two tied candidates end up tied or really close again?",
+        "ts": "1504887981.000300"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ah okay",
+        "ts": "1504888036.000155"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "A wants Red, B wants Blue, C wants Yellow. No-one really likes Yellow, but more people can agree it's better than Red or Blue separately.",
+        "ts": "1504888037.000200"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "yes, I see that logic but given a chance to vote for red or blue again, they would probably vote red or blue again",
+        "ts": "1504888075.000345"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "(reminds me of a UK election)",
+        "ts": "1504888082.000103"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "that's why yellow never really gets a turn",
+        "ts": "1504888111.000502"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Maybe go for a ranking system?",
+        "ts": "1504888145.000449"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "if red or blue were being stupid, yellow would win",
+        "ts": "1504888146.000371"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Like the Mayor of London?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504888177.000000"
+        },
+        "ts": "1504888154.000133"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "but without that, I see the same thing going on again and again until one voter is unable to vote (work\/sickness\/holiday) so the other one wins instead",
+        "ts": "1504888190.000206"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "how would the ranking system work?",
+        "ts": "1504888225.000547"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Contingent_vote#Supplementary_vote>",
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/dd\/IRV-toptwo_flowchart.png",
+                "image_width": 358,
+                "image_height": 363,
+                "image_bytes": 9478,
+                "title": "Contingent vote",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Contingent_vote#Supplementary_vote",
+                "author_name": "Wikipedia",
+                "author_link": "http:\/\/en.wikipedia.org\/",
+                "text": "The contingent vote is an electoral system used to elect a single winner, in which the voter ranks the candidates in order of preference. In an election, if no candidate receives an absolute majority of first preference votes, then all but the two leading candidates are eliminated and there is a second count. In the second count, the votes of those who supported eliminated candidates are distributed among the two remaining candidates, so that one candidate achieves an absolute majority. The contingent vote is similar to the alternative vote but differs from it in that the alternative vote typically allows for many rounds of counting, whereas under the contingent vote there are never more than two. In the United States both the contingent vote and the alternative vote are often referred to as variants of instant-runoff voting. The contingent vote can also be considered a compressed form of the two round system (runoff system), in which both 'rounds' occur without the need for voters to go to the polls twice.\nToday, a special variant of the contingent vote is used to elect the President of Sri Lanka. Another variant, called the supplementary vote, is used to elect mayors and Police and Crime Commissioners in England. In the past the ordinary form of the contingent vote was used to elect the Legislative Assembly of Queensland from 1892 to 1942. To date, this has been the longest continuous use of the system anywhere in the world. It was also used in the U.S. state of Alabama in the 1920s.",
+                "fallback": "wikipedia: Contingent vote",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504888235.000462"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "e.g. I give 3pts for blue, 2 pts for yellow and 1 pt for red?",
+        "ts": "1504888251.000079"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "an alternative: on a tie allow both members",
+        "ts": "1504888251.000460"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "overall, yellow could win that",
+        "ts": "1504888260.000041"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "You rank them from 1 to n.",
+        "ts": "1504888262.000217"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So in the first round A\/B\/C get 10\/8\/3. In the second round C is eliminated and everyone who voted for them gets their vote passed to the person they wrote #2 by.",
+        "ts": "1504888320.000324"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "for anything that does not have a limited number of seats, couldn't we just allow two people to be nominated?",
+        "ts": "1504888336.000393"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "um, elected",
+        "ts": "1504888344.000461"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nadams exactly",
+        "ts": "1504888356.000080"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No.",
+        "ts": "1504888384.000345"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "why?",
+        "ts": "1504888393.000374"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Consider the 5 positions for the Developers on the PDG.",
+        "ts": "1504888397.000118"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "You can't suddenly have 6 places.",
+        "ts": "1504888404.000557"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nadams suggestion was for anything that does not have a limited number of seats",
+        "ts": "1504888430.000528"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Essentially *all* elections are for limited number of seats.",
+        "ts": "1504888444.000624"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "you’re right for things that have a fixed number of seats (namely the PG)",
+        "ts": "1504888446.000004"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Name one that isn't.",
+        "ts": "1504888452.000152"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "do we have a fixed number in the developers group? or the administrative group? the code review group?",
+        "ts": "1504888508.000330"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I mean we’ve a target number but there will be no faul in having 1 additional person",
+        "ts": "1504888524.000515"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "There are no elected positions in Developers.",
+        "ts": "1504888525.000445"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The Admin group is all appointed by the Management Team, who are elected by the PDG.",
+        "ts": "1504888559.000060"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They have specific roles, and so are not unlimited.",
+        "ts": "1504888575.000010"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The Code Review Group has a fixed role, and whilst membership in unlimited the head is not.",
+        "ts": "1504888599.000547"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "```\nIn the Continuing Period, members of the Release Management Group will be elected by the members of the Development Group. The idea is to get people the developers trust approving their work.\n```",
+        "ts": "1504888608.000335"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So anyone who wants to join can join?",
+        "ts": "1504888636.000501"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So long as they get 1 vote.",
+        "ts": "1504888641.000165"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Their own.",
+        "ts": "1504888643.000035"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "`Each Team should have at maximum 10 members.` but no limit to number of teams",
+        "ts": "1504888652.000214"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "nominees can't vote for elections they are standing for?",
+        "ts": "1504888682.000130"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So I vote for my mate, and he votes for me?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504888705.000000"
+        },
+        "ts": "1504888699.000476"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that’d imply that everyone from the development team nominates themsefls",
+        "ts": "1504888704.000295"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "as all eligible voters are being contacted by us, that should be simple enough",
+        "ts": "1504888709.000028"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "if there is nobody standing in competition and you and your mate vote for each other, fair enough <@U6Q92JWHY>",
+        "ts": "1504888753.000242"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark that would mean that a) only you and your pal are being voted for AND are the only ones voting",
+        "ts": "1504888801.000256"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "if we’re down to two people voting we’ve other isseus :joy:",
+        "ts": "1504888810.000274"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "although, with only one vote each, any other candidate could easily take the majority",
+        "ts": "1504888815.000177"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And if there are 500 developers, who all decide to become code reviewers?",
+        "ts": "1504888817.000249"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If unlimited, then it doesn't matter who the Candidates are.",
+        "ts": "1504888841.000364"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "sure - 10 for the team that does KV, 10 for the team that does CS etc",
+        "ts": "1504888843.000346"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No - there is only 1 Code Review Team.",
+        "ts": "1504888860.000026"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Their job is to ensure quality standards for all projects.",
+        "ts": "1504888871.000065"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "ah, sorry, was looking at Release management group",
+        "ts": "1504888881.000403"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Ah - I meant Code Approval Team",
+        "ts": "1504888919.000026"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No such thing as Code Review Team.",
+        "ts": "1504888925.000523"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Although one would hope Teams do that!",
+        "ts": "1504888932.000126"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The Coding Standards Team should put that in!",
+        "ts": "1504888941.000590"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "how about to limit it to 1 additional overflow (with the exception of the PG vote)",
+        "ts": "1504888953.000421"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "What is the problem we are trying to solve here?",
+        "ts": "1504888980.000498"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it would detere silly situations w\/ 500 people voting for themselfs, but simplify the more likely case of two epeople coming in tied",
+        "ts": "1504888982.000339"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It was just to decide who wins a vote.",
+        "ts": "1504888987.000293"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "that or 1st\/2nd\/3rd votes",
+        "ts": "1504888990.000035"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No overflow is needed.",
+        "ts": "1504888993.000062"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "maybe 1st round is 1 vote per person",
+        "ts": "1504889002.000006"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "in event of a tie, do 1st\/2nd\/3rd choice for the second round",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504889025.000000"
+        },
+        "ts": "1504889010.000423"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That was what I suggested.",
+        "ts": "1504889021.000253"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "You rank the candidates.",
+        "ts": "1504889027.000239"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "First round you add up all the #1 votes.",
+        "ts": "1504889034.000344"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "yes but 1 to n is excessive",
+        "ts": "1504889042.000131"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "1 to 3 is good enough",
+        "ts": "1504889049.000422"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "oh I didn’t get that",
+        "ts": "1504889055.000275"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I thought 1..n means re-running the election",
+        "ts": "1504889064.000105"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If no winner, then you junk the lowest candidates and everyone who votes for that candidate gets their vote moved to their second ranked Candidate.",
+        "ts": "1504889070.000024"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "n is placeholder for the number of ranked Candidates.",
+        "ts": "1504889081.000408"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "don't think that is necessary",
+        "ts": "1504889086.000414"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. 10 candidates, you number them 1 to 10.",
+        "ts": "1504889092.000193"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "as mentioned earlier - a compromise candidate",
+        "ts": "1504889110.000213"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "wouldn’t it be better to add the 2nd vote",
+        "ts": "1504889119.000391"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "exactly",
+        "ts": "1504889126.000186"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that would prevent the r \/ b \/ y situation",
+        "ts": "1504889127.000230"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No.",
+        "ts": "1504889129.000060"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If you just add all the 2nd round votes, eventually you end up with everyone with 100% of the vote.",
+        "ts": "1504889148.000125"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that way if 50% want blue as 1st choice and 50% want red as 1st chocie but 100% would yellow as a 2nd chocie?",
+        "ts": "1504889151.000329"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "You only do the votes for the candidates that have been elimiatated.",
+        "ts": "1504889164.000206"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "then yellow wins",
+        "ts": "1504889165.000009"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "only if they keep being tied",
+        "ts": "1504889168.000455"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "why eliminate them?",
+        "ts": "1504889184.000302"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "exactly",
+        "ts": "1504889188.000350"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No - in that case, you would end up in a tie.",
+        "ts": "1504889194.000214"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If no one voted for Yellow, then there are no votes to move.",
+        "ts": "1504889205.000329"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "you can end up a tie either way",
+        "ts": "1504889207.000001"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "if you remove yellow you can very well also end up in a tie",
+        "ts": "1504889217.000350"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "I like the vote for 1st, 2nd choice.",
+        "ts": "1504889222.000094"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "It’s pretty simple.",
+        "ts": "1504889232.000096"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "me too. I'd suggest 3rd choice as well",
+        "ts": "1504889239.000055"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "me three",
+        "ts": "1504889249.000418"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "just to cover outlying ones",
+        "ts": "1504889251.000202"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "and if after that we still don’t have a clear winner we are in such a odd corner case that ocne every 1000 years we can restart the election :stuck_out_tongue:",
+        "ts": "1504889281.000677"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "agreed",
+        "ts": "1504889301.000372"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "1st choice 3 pts, 2nd choice 2 pts, 3rd choice 1 pt. Then just add up the points for each candidate",
+        "ts": "1504889305.000260"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Why limit it?",
+        "ts": "1504889309.000593"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Just rank them 1 to n.",
+        "ts": "1504889317.000562"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No points.",
+        "ts": "1504889325.000058"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "nobody can be bothered",
+        "ts": "1504889325.000562"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So?",
+        "ts": "1504889331.000441"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark because when there are 500 candidates I really don’t want to order 500 names",
+        "ts": "1504889338.000427"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "They only do 1 and 2. Big deal.",
+        "ts": "1504889341.000535"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "so the election is flawed if voting is a drag",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504889357.000000"
+        },
+        "ts": "1504889342.000329"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it’s more cumbersome then just having 1st, 2nd (3rd) vote",
+        "ts": "1504889355.000655"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "know what guys - I’m actually a member of an organization that manages to run itself pretty well for years - <https:\/\/london.hackspace.org.uk\/organisation\/> - we could learn a thing or two from them if we haven’t already",
+        "ts": "1504889361.000675"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Ok - limit to 3 layers.",
+        "ts": "1504889375.000077"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We need slightly more governance than that, but they certainly have some good ideas from what I can see.",
+        "ts": "1504889475.000044"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Find bits you like that seem to apply to us and raise them as Issues.",
+        "ts": "1504889496.000264"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Anyways - back to voting. \n\nA 3-tier ranked system for an instant-run-off?",
+        "ts": "1504889529.000239"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "the simplest governmence would be to appoint an dictator and be done with it :joy:",
+        "ts": "1504889541.000088"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The trick is getting people to follow you :slightly_smiling_face:",
+        "ts": "1504889557.000117"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Do we have something like ` The quorum of the election must be at least 10% of eligible voters. `?",
+        "ts": "1504889557.000657"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No - we should.",
+        "ts": "1504889567.000394"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "agree",
+        "ts": "1504889574.000110"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ja!",
+        "ts": "1504889579.000375"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "10% seems low.",
+        "ts": "1504889620.000167"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "On the other hand, \"decisions are made by those who show up\".",
+        "ts": "1504889633.000521"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "use 10 for now and tweak later if needed?",
+        "ts": "1504889683.000196"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that means if less then 10% vote for the leading candidate the vote is scrapped?",
+        "ts": "1504889683.000490"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'll add it as 10% for now.",
+        "ts": "1504889692.000229"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "More at least 10% of voters have to vote for the election to count",
+        "ts": "1504889715.000110"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No - if less than 10% of the eligible voters show up to vote the election is re-run.",
+        "ts": "1504889720.000468"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ah okay",
+        "ts": "1504889726.000071"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think we should have a minimal % too",
+        "ts": "1504889736.000661"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Any thoughts on a number?",
+        "ts": "1504889755.000224"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "if less then x % of people voting can agree on a single candadate that candidate is bad",
+        "ts": "1504889758.000193"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "10% for now and re-visit?",
+        "ts": "1504889768.000336"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "20% of cast votes?",
+        "ts": "1504889782.000033"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that’d mean only 1 \/ 5 people voted for them",
+        "ts": "1504889788.000010"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "do we have a limit to the number of nominees?",
+        "ts": "1504889797.000127"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That leads on to the second part of the issue I made.",
+        "ts": "1504889810.000247"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it would prevent the “everyoen nomincates themsefls” issue",
+        "ts": "1504889812.000421"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "And votes take place where ? In chat ? Is it not possible to have a mechanism that is a little more asynchronous ?",
+        "ts": "1504889814.000606"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "What constitutes a majority.",
+        "ts": "1504889818.000222"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Votes are organised and run by whatever public online system is decided by the Admin Group.",
+        "ts": "1504889844.000276"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We decide the rules, they just make sure it happens :slightly_smiling_face:",
+        "ts": "1504889856.000369"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "knock off lowest candidates until minimum quorum is met?",
+        "ts": "1504889858.000013"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Good because if influence were just determined by presence…",
+        "ts": "1504889872.000195"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Realistically, it will be a dedicated voting site to allow privacy.",
+        "ts": "1504889875.000349"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yup",
+        "ts": "1504889888.000099"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Quorum has nothing to do with voting aside from deciding if a vote legal.",
+        "ts": "1504889905.000069"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nadams that re-raises the issue of the lowest candidate might be the one most people would like if they can’t “have theirs”",
+        "ts": "1504889912.000036"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "yes, I know",
+        "ts": "1504889926.000329"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "however, if nobody has even a vague majority, we need to reduce the candidate pool",
+        "ts": "1504889945.000465"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nadams I’d just go a step further and defer the vote to the PG to discuss what to do",
+        "edited": {
+            "user": "U6Q6G7S82",
+            "ts": "1504889950.000000"
+        },
+        "ts": "1504889946.000755"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "because if no single person can get 20% of votes it’s a bad situation",
+        "ts": "1504889962.000721"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "and probably will need to be addressed in a lot more details",
+        "ts": "1504889978.000047"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Sometimes that happens in public elections.",
+        "ts": "1504889990.000148"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "maybe have the PG appoint somebody temporarily and re-run again a month later with the temporary appointee as a candidate",
+        "ts": "1504889991.000447"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "if the PDG appoints someone good, they have fixed the problem",
+        "ts": "1504890017.000264"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think it really depends on the situation: too many candidates, fragmented community, egocentric (sorry that sounds harsher then the word I’m looking for but I don’t know a beter one) voters",
+        "ts": "1504890046.000502"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "all valid issues",
+        "ts": "1504890062.000143"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "indeed but all reaquire different actiosn",
+        "ts": "1504890071.000255"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "oh, I have a suggestion",
+        "ts": "1504890093.000410"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "too many candidates will best be solved by “lets see if someone wants to step down from the candidacy” fragmented community will require a honest discussion, and so on",
+        "ts": "1504890103.000374"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "going back to the points basis, you count as valid if you obtain 33.4% of the total points cast",
+        "ts": "1504890129.000245"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "What I’m thinking is that the % minimum for the leading candidate is a bit of a  “omg something is really wrong” emergency break",
+        "ts": "1504890172.000065"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "When did we change our minds about ranked voting versus points?",
+        "ts": "1504890183.000066"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "points are for ranks",
+        "ts": "1504890198.000490"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "1st is 3pts, 2nd is 2pts, 3rd is 1pt",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504890265.000000"
+        },
+        "ts": "1504890209.000363"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That's not how ranked voting works.",
+        "ts": "1504890223.000415"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "huh?",
+        "ts": "1504890226.000099"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "that means we can use the points to work out issues like this",
+        "ts": "1504890247.000133"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Instant-runoff_voting> ?",
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/48\/2016-ballot-paper-Higgins.png",
+                "image_width": 3187,
+                "image_height": 6746,
+                "image_bytes": 583404,
+                "title": "Instant-runoff voting",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Instant-runoff_voting",
+                "author_name": "Wikipedia",
+                "author_link": "http:\/\/en.wikipedia.org\/",
+                "text": "Instant-runoff voting (IRV), also known as the alternative vote (AV) or transferable vote, is a voting method used in single-seat elections with more than two candidates. (It is also sometimes referred to as \"ranked-choice voting\" (RCV) and \"preferential voting\", although there are other preferential voting methods that use ranked-choice ballots.)\nInstead of voting only for a single candidate, voters in IRV elections can rank the candidates in order of preference. Ballots are initially counted for each elector's top choice. If a candidate secures more than half of these votes, that candidate wins. Otherwise, the candidate in last place is eliminated and removed from consideration. The top remaining choices on all the ballots are then counted again. This process repeats until one candidate is the top remaining choice of a majority of the voters. When the field is reduced to two, it has become an \"instant runoff\" that allows a comparison of the top two candidates head-to-head.\nIRV has the effect of avoiding split votes when multiple candidates earn support from like-minded voters. As a simple example, suppose there are two candidates with similar views, A and B, and a third with different views, C, with first-preference totals of 35% for candidate A, 25% for B and 40% for C. In a plurality voting election, candidate C may win with 40% of the votes, even though 60% of electors prefer both A and B over C. Alternatively, voters are pressured to choose the seemingly stronger candidate of either A or B, despite personal preference for the other, in order to help ensure the defeat of C. With IRV, the electors backing B as their first choice can rank A second, which means candidate A will win by 60% to 40% over C despite the split vote in first choices.\nInstant-runoff voting is used in national elections in several countries. For example, it is used to elect: members of the Australian House of Representatives and most Australian state legislatures; the President of India and members of legislative councils in India; the President of Ireland; members of Congress in Maine in the United States; and the parliament in Papua New Guinea. The method is also used in local elections around the world, as well as by some political parties (to elect internal leaders) and private associations, for various voting purposes such as that for choosing the Academy Award for Best Picture. IRV is described in Robert's Rules of Order Newly Revised under the name \"preferential voting\".",
+                "fallback": "wikipedia: Instant-runoff voting",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504890267.000710"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Is this what we’re doing ?",
+        "ts": "1504890272.000366"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "not from what I understood",
+        "ts": "1504890359.000455"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "no, I didn't get that either",
+        "ts": "1504890381.000397"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "hmmm",
+        "ts": "1504890400.000034"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "from what I understood is candidates get the points from 1st, 2nd and 3rd vote, the one with the highest points wins",
+        "ts": "1504890401.000131"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6T3BQN2V> That matches what I mean, and what the link I posted earlier to explain it showed.",
+        "ts": "1504890402.000037"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No.",
+        "ts": "1504890408.000109"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "was having a hard time with the backscroll",
+        "ts": "1504890410.000317"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that’s what I understood :stuck_out_tongue:",
+        "ts": "1504890413.000231"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I agree with <@U6Q6G7S82>",
+        "ts": "1504890416.000234"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'll try this again.",
+        "ts": "1504890419.000616"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Got this too - <https:\/\/petertheone.github.io\/IRV\/>",
+        "ts": "1504890477.000417"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "the point was not to illiminate the lowest contender",
+        "ts": "1504890513.000600"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "the suggestion made by nadams was to prevent the situation of 2 peopel being tied but the majority agreeing that they’re not the ideal candidate",
+        "ts": "1504890542.000407"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "i.e. A gets 50% (rank 1) B gets 50% (rank1) but C gets (100% rank 2)",
+        "ts": "1504890560.000454"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "half the people would like A, the other half would like B but everyoen agrees that C would be the best alternative if they can’t have what they want",
+        "ts": "1504890582.000196"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Five candidates A\/B\/C\/D\/E. \n\nOn the ballet you get to chose 1st, 2nd and 3rd.\n\nFirst round:\n\nA - 13 votes.\nB - 12 votes.\nC - 11 votes.\nD - 10 votes.\nE - 5 votes.\n\nSecond round - E is eliminated as the lowest candidate. The people who voted for E now have their votes moved to their 2nd choice.\n\nThis continues until a winner is found.",
+        "ts": "1504890626.000583"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it deoesnt’ run into the issue that the lowest ranked 1 candidate might very well be the one most peopel agree with",
+        "ts": "1504890629.000318"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nope",
+        "ts": "1504890644.000237"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I don't like the elimination issue either",
+        "ts": "1504890660.000559"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that was not what nadams suggested",
+        "ts": "1504890664.000126"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I know - it was what I suggested.",
+        "ts": "1504890681.000433"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yes but it has the ellimination issue, the 1\/2\/3 one does not",
+        "ts": "1504890698.000592"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "It might be nice to just use a system that’s already popular in the real world rather than something we need to codify ourselves. That’s the reason I pulled a system like that that already has a big doc describing it, and a simulator.",
+        "ts": "1504890740.000084"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yup.",
+        "ts": "1504890748.000250"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Otherwise it could go on and on forever",
+        "ts": "1504890752.000299"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Electoral_system>",
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f8\/Electoral_systems_map.svg\/1200px-Electoral_systems_map.svg.png",
+                "image_width": 1200,
+                "image_height": 616,
+                "image_bytes": 180834,
+                "title": "Electoral system",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Electoral_system",
+                "author_name": "Wikipedia",
+                "author_link": "http:\/\/en.wikipedia.org\/",
+                "text": "An electoral system is the set of rules that determines how elections and referendums are conducted and how their results are determined. Political electoral systems are organized by governments, while non-political elections may take place in business, non-profit organisations and informal organisations.\nElectoral systems consist of sets of rules that govern all aspects of the voting process: when elections occur, who is allowed to vote, who can stand as a candidate, how ballots are marked and cast, how the ballots are counted (electoral method), limits on campaign spending, and other factors that can affect the outcome. Political electoral systems are defined by constitutions and electoral laws, are typically conducted by election commissions, and can use multiple types of elections for different offices.\nSome electoral systems elect a single winner to a unique position, such as prime minister, president or governor, while others elect multiple winners, such as members of parliament or boards of directors. There are a large number of variations in electoral systems, but the most common systems are first-past-the-post, the two-round (runoff) system, proportional representation and ranked or preferential voting. Some electoral systems, such as mixed systems, attempt to combine the benefits of non-proportional and proportional systems.\nThe study of formally defined electoral methods is called social choice theory or voting theory, and this study can take place within the field of political science, economics, or mathematics, and specifically within the subfields of game theory and mechanism design. Impossibility proofs such as Arrow's impossibility theorem demonstrate that it is impossible to design a \"perfect\" electoral method, so academic comparisons of proposed methods typically involve mathematical voting criteria.",
+                "fallback": "wikipedia: Electoral system",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504890756.000100"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That lists most of them.",
+        "ts": "1504890760.000382"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Perhaps take something off the shelf and then have a vote on which other system to use at a later date.",
+        "ts": "1504890778.000171"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "For preferential voting there are fewer - <https:\/\/en.wikipedia.org\/wiki\/Preferential_voting>",
+        "attachments": [
+            {
+                "title": "Preferential voting",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Preferential_voting",
+                "author_name": "Wikipedia",
+                "author_link": "http:\/\/en.wikipedia.org\/",
+                "text": "Preferential voting may refer to:\nRanked voting methods, all election methods that involve ranking candidates in order of preference\nInstant-runoff voting, referred to as \"preferential voting\" in Australia, is one type of ranked voting method.\n\nRange voting, in which voters assign points to each candidate\nOpen list, sometimes known as \"preferential voting\" in Europe and nations such as Sri Lanka\nBucklin voting, which was sometimes known as \"preferential voting\" when used in the United States",
+                "fallback": "wikipedia: Preferential voting",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504890800.000427"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ah that’s what they are called",
+        "ts": "1504890801.000314"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "possibly leave this issue as open while people think about systems",
+        "ts": "1504890825.000523"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Which is where I pulled Instant-runoff voting as it sounded closest to what was being described :wink:",
+        "ts": "1504890851.000033"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Range Voting seems closest to your preferred system: <https:\/\/en.wikipedia.org\/wiki\/Range_voting>",
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/15\/Completed_Score_Voting_Ballot_version2.png",
+                "image_width": 839,
+                "image_height": 234,
+                "image_bytes": 31227,
+                "title": "Range voting",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Range_voting",
+                "author_name": "Wikipedia",
+                "author_link": "http:\/\/en.wikipedia.org\/",
+                "text": "Range voting or score voting is an electoral system for single-seat elections, in which voters give each candidate a score, the scores are added (or, equivalently, averaged), and the candidate with the highest total is elected. It has been described by various other names including evaluative voting, utilitarian voting, the point system, ratings summation, 0-99 voting, average voting, and utility voting. It is a type of Cardinal voting electoral system.",
+                "fallback": "wikipedia: Range voting",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504890855.000216"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "IRV is exactly what I meant.",
+        "ts": "1504890871.000406"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think what nadams described was <https:\/\/en.wikipedia.org\/wiki\/Borda_count>",
+        "attachments": [
+            {
+                "title": "Borda count",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Borda_count",
+                "author_name": "Wikipedia",
+                "author_link": "http:\/\/en.wikipedia.org\/",
+                "text": "The Borda count is a single-winner election method in which voters rank options or candidates in order of preference. The Borda count determines the outcome of a debate or the winner of an election by giving each candidate, for each ballot, a number of points corresponding to the number of candidates ranked lower. Once all votes have been counted the option or candidate with the most points is the winner. Because it sometimes elects broadly acceptable options or candidates, rather than those preferred by a majority, the Borda count is often described as a consensus-based voting system rather than a majoritarian one.\nThe modified Borda count is used for decision-making. For elections, especially when proportional representation is important, the quota Borda system is used.\nThe Borda count was developed independently several times, but is named for the 18th-century French mathematician and political scientist Jean-Charles de Borda, who devised the system in 1770. It is currently used to elect members of the Parliament of Nauru and two ethnic minority members of the National Assembly of Slovenia, in modified forms to determine which candidates are elected to the party list seats in Icelandic parliamentary elections, and for selecting presidential election candidates in Kiribati. It is also used throughout the world by various private organizations and competitions.",
+                "fallback": "wikipedia: Borda count",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1
+            }
+        ],
+        "ts": "1504890873.000649"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Can I suggest to table this discussion as I think we should do some research, I know at least I do, I’ve was not prepared to dicuss electorial systems today",
+        "ts": "1504890931.000189",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY",
+                    "U6QC6EQH2"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "One thing people - a popular system is a system that will be easy to use an off the shelf web service or well used open source implementation when it comes to vote counting times .",
+        "ts": "1504890933.000587"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "If the system is opaque … trust will be corroded",
+        "ts": "1504890949.000583"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Simple is always preferable :smile:",
+        "ts": "1504890976.000433",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I think this was a bit of a big discussion for the time of night",
+        "ts": "1504891073.000319"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It's only 2am here :slightly_smiling_face:",
+        "ts": "1504891086.000256"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I have to be up in 5 hours",
+        "ts": "1504891094.000321"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - so we have this:\n\nMinimum Quorum  - 10% of the eligible voters - to be revisited after more thought.\nMinimum threshold to win - 20% of the actual voters.\nNo quorum or minimum threshold not met, PDG appoints someone and election is re-run.\n\nMethod of election: undecided.\n\nOptions presented are: \n- Borda (<https:\/\/en.wikipedia.org\/wiki\/Borda_count>)\n- IRV (<https:\/\/en.wikipedia.org\/wiki\/Instant-runoff_voting>)",
+        "ts": "1504891194.000683"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Does that sound about right?",
+        "ts": "1504891207.000082"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "yes",
+        "ts": "1504891212.000274"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yap",
+        "ts": "1504891214.000230"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "yes",
+        "ts": "1504891224.000163"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Any other systems to add?",
+        "ts": "1504891224.000664"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "uhh",
+        "ts": "1504891236.000562"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I would not nail us down on systems today",
+        "ts": "1504891238.000512"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "might be tempted to increase minimum threshold slightly",
+        "ts": "1504891240.000514"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1504891248.000222"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "with the quorum .. we might not have 10 voters",
+        "ts": "1504891251.000237"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Ponder and add comments to issue 10 :slightly_smiling_face:",
+        "ts": "1504891255.000090"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "e.g. 1\/3 of voters",
+        "ts": "1504891256.000170"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "or 1\/3 of points accordingly",
+        "ts": "1504891276.000432"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "lets do research for next week and then see what we like, I especially don’t know the english terms at all for voting so I really will need to read up on that before being able to make qualified statements :stuck_out_tongue:",
+        "ts": "1504891280.000324"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Great!",
+        "ts": "1504891347.000015"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "sounds like a plan",
+        "ts": "1504891353.000403"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And that is all 6 open issues :slightly_smiling_face:",
+        "ts": "1504891365.000008"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "hurrah!",
+        "ts": "1504891373.000114"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Any other things to do with the proposal so far?",
+        "ts": "1504891386.000407"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "(Hopefully not, as everyone would have raised them as Issues on Github....)",
+        "ts": "1504891401.000318"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I can’t think of any more things at the moment",
+        "ts": "1504891417.000511"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Then.... time to close up for the week?",
+        "ts": "1504891475.000170",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think you deserve the rest",
+        "ts": "1504891516.000326"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "sleep is good",
+        "ts": "1504891524.000134"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Next meeting 2017-09-15 at 15:30 BST in <#C708PUR99|planning-2017-09-15>.",
+        "ts": "1504891530.000491"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I have memories of years long gone when I used to get more than 6 hours",
+        "ts": "1504891542.000649"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I shall Archive this channel in 36 hours.",
+        "ts": "1504891543.000376"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "You decided on children :slightly_smiling_face: It gets better once they leave home after 18 years....",
+        "ts": "1504891566.000427"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think we should decide ties with a duel, that’d sure help participation",
+        "ts": "1504891570.000508"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Mwahahahahahaha.",
+        "ts": "1504891572.000082"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> - I like it.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1504891587.000000"
+        },
+        "ts": "1504891582.000461"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "strangely recall Dark Crystal and the trial by stone",
+        "ts": "1504891592.000291"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But intercontinental pistols may be frowned upon....",
+        "ts": "1504891604.000701"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "we have the internet!",
+        "ts": "1504891617.000077"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "who comes up with the best pistol gif\/jpeg wins?",
+        "ts": "1504891634.000726"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Duel by Overwatch?",
+        "ts": "1504891638.000242"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "find some dumb online game where others can spectate?",
+        "ts": "1504891663.000286"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Hence Overwatch :slightly_smiling_face:",
+        "ts": "1504891674.000628"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "not familiar",
+        "ts": "1504891680.000090"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "shoudn't it be free?",
+        "ts": "1504891725.000696"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It's super popular atm.",
+        "ts": "1504891739.000046"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "and also mindlessly simple to learn?",
+        "ts": "1504891741.000626"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "e.g. pacman?",
+        "ts": "1504891767.000616"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "one of those \"cross the road\" games",
+        "ts": "1504891789.000571"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "such as Croaker or Horace goes skiing?",
+        "ts": "1504891807.000213"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "how about desert bus?",
+        "ts": "1504891833.000252"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I have never even heard of that one!",
+        "ts": "1504891929.000345"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "<https:\/\/www.newyorker.com\/tech\/elements\/desert-bus-the-very-worst-video-game-ever-created>",
+        "attachments": [
+            {
+                "service_name": "The New Yorker",
+                "title": "Desert Bus: The Very Worst Video Game Ever Created",
+                "title_link": "https:\/\/www.newyorker.com\/tech\/elements\/desert-bus-the-very-worst-video-game-ever-created",
+                "text": "Players earn a single point for each eight-hour trip, making a Desert Bus high score perhaps the most costly in gaming…",
+                "fallback": "The New Yorker: Desert Bus: The Very Worst Video Game Ever Created",
+                "image_url": "https:\/\/media.newyorker.com\/photos\/5909524f1c7a8e33fb38a790\/16:9\/w_1200,h_630,c_limit\/desert-bus-580.jpg?mbid=social_retweet",
+                "from_url": "https:\/\/www.newyorker.com\/tech\/elements\/desert-bus-the-very-worst-video-game-ever-created",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 39987,
+                "service_icon": "https:\/\/www.newyorker.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1504891999.000577"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it’s perfectly fair for all participants and tests the skills required for most elected offices: deal with senselss things and utter boredome",
+        "ts": "1504892039.000073"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": ":slightly_smiling_face:",
+        "ts": "1504892060.000556"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK..... I'm off to sleep.",
+        "ts": "1504892072.000493"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "how do we make it a competition though?",
+        "ts": "1504892075.000168"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And this conversation is why.",
+        "ts": "1504892084.000338"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "who scores the most points",
+        "ts": "1504892089.000187"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "both players complete the trip, one point each",
+        "ts": "1504892096.000629"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "seriously?",
+        "ts": "1504892100.000320"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "and then there is a return trip",
+        "ts": "1504892106.000066"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "1st to drop out looses :joy: and it’s run as  a double blind",
+        "ts": "1504892129.000381"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I think the guy who lasts more than two trips should win - I'd have gien up by now",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1504892136.000000"
+        },
+        "ts": "1504892133.000406"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "neither side knows weather the other one is still in the races",
+        "ts": "1504892148.000180"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "peterclark to keep you from sleepoing",
+        "ts": "1504892181.000441"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "jokes aside I’ll read up on electoral systems, I fear duells are out of the question :disappointed: as we can’t sattle on the details how to duel",
+        "ts": "1504892251.000464"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "night you two :wave:",
+        "ts": "1504892257.000092"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "good plan, night!",
+        "ts": "1504892266.000615"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "night all",
+        "ts": "1504893464.000020"
+    }
+]

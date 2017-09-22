@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U6Q6G7S82",
+        "text": "<@U6Q6G7S82> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505043557.000007"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170915T1530&amp;p0=136&amp;msg=Riak+Core+2017-09-15&amp;font=slab>",
+        "attachments": [
+            {
+                "title": "Riak Core 2017-09-15",
+                "title_link": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170915T1530&p0=136&msg=Riak+Core+2017-09-15&font=slab",
+                "text": "Countdown to Sep 15, 2017 3:30 pm. Showing days, hours, minutes and seconds ticking down to 0",
+                "fallback": "Riak Core 2017-09-15",
+                "image_url": "https:\/\/www.timeanddate.com\/scripts\/cdog.php?countdownto=Countdown%20to&image=generic&title=Riak%20Core%202017-09-15&date=Sep%2015,%202017%20at%203%3a30%20pm&font=slab",
+                "from_url": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170915T1530&p0=136&msg=Riak+Core+2017-09-15&font=slab",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 83088,
+                "service_icon": "https:\/\/www.timeanddate.com\/favicon.ico",
+                "service_name": "timeanddate.com",
+                "id": 1
+            }
+        ],
+        "ts": "1505044647.000030"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U6Q6G7S82",
+        "item_type": "C",
+        "attachments": [
+            {
+                "title": "Riak Core 2017-09-15",
+                "title_link": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170915T1530&p0=136&msg=Riak+Core+2017-09-15&font=slab",
+                "text": "Countdown to Sep 15, 2017 3:30 pm. Showing days, hours, minutes and seconds ticking down to 0",
+                "fallback": "Riak Core 2017-09-15",
+                "image_url": "https:\/\/www.timeanddate.com\/scripts\/cdog.php?countdownto=Countdown%20to&image=generic&title=Riak%20Core%202017-09-15&date=Sep%2015,%202017%20at%203%3a30%20pm&font=slab",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 83088,
+                "service_icon": "https:\/\/www.timeanddate.com\/favicon.ico",
+                "service_name": "timeanddate.com",
+                "id": 1
+            }
+        ],
+        "text": "<@U6Q6G7S82> pinned a message to this channel.",
+        "ts": "1505044653.000070"
+    }
+]

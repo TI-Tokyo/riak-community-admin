@@ -1,0 +1,2808 @@
+[
+    {
+        "user": "U6QC6EQH2",
+        "text": "<@U6QC6EQH2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505484641.000060"
+    },
+    {
+        "user": "U7389LZJ5",
+        "text": "<@U7389LZJ5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505485280.000166"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "3minutes ?",
+        "ts": "1505485635.000367"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Ish.",
+        "ts": "1505485928.000555"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1505485932.000303"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "hehe",
+        "ts": "1505485935.000296"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "evening <@U6Q92JWHY>",
+        "ts": "1505485941.000167"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I got distracted by a bumblebee...",
+        "ts": "1505485954.000106"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "greeting to both of you",
+        "edited": {
+            "user": "U6QC6EQH2",
+            "ts": "1505485962.000000"
+        },
+        "ts": "1505485958.000403"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "heya <@U6QC6EQH2>!",
+        "ts": "1505485968.000859"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "Hello",
+        "ts": "1505486073.000647"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "AGENDA for today:\n\n1. Review of the Riak Meetup for those who couldn't come.\n2. Next meeting time\/date.\n3. Upcoming events.\n4. Working through outstanding GitHub issues.\n5. Any new issues with the Proposal\n6. Anything else.",
+        "ts": "1505486082.000172"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Hi Sam! Glad you could make it.",
+        "ts": "1505486091.000644"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "hello",
+        "ts": "1505486101.000262"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Current proposal: <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md>",
+        "ts": "1505486110.000093"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "HEYA SAM :slightly_smiling_face:",
+        "ts": "1505486123.000274"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "oops sorry",
+        "ts": "1505486128.000429"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And I totally forgot Item #0: introductions!",
+        "ts": "1505486134.000194"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I was just really excited to see you :stuck_out_tongue:",
+        "ts": "1505486142.000102"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So, Item #0 - introductions!\n\nAnyone new since last week - a short intro (name, interest in Riak, rough location, etc...)",
+        "ts": "1505486199.000171"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That would be <@U7389LZJ5> at least :slightly_smiling_face:",
+        "ts": "1505486211.000095"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "Hello all, my name is Sam. Working at GameAnalytics and have been working with Riak for a few years when I worked at bet365. We are currently not using Riak at GA but with MDC code being made free this might change.",
+        "ts": "1505486437.000289"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "As well as interest in developing Riak Core, I'm based in London.",
+        "ts": "1505486449.000502"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Great! Glad to have you here!",
+        "ts": "1505486468.000015",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U7389LZJ5",
+                    "U6Q6G7S82"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U72SXRXGF>? Most people probably know you from recent mailing list posts regarding bet365's purchase.",
+        "ts": "1505486532.000543"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":smile:",
+        "ts": "1505486534.000010"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Well, if intros are done - on to Item #1 - The Riak meetup last night.",
+        "ts": "1505486747.000310"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yes I’m curious about it :slightly_smiling_face:",
+        "ts": "1505486757.000232"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Riak Meetup held at Erlang Solutions in London last night. Andrew Deane of Bet365 gave a presentation and answered questions on the purchase of Basho's assets. The highlights were:\n\n- making everything open source;\n- purchase is waiting on court approval, but should be in the next week;\n- initial goal of stabilising the existing code base and resources;\n- looking to the community to help define and build new versions of Riak.",
+        "ts": "1505486776.000377"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The video and the presentation should be being uploaded to the Meetup page (<https:\/\/www.meetup.com\/riak-london\/events\/243169582\/>) sometime soon.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1505486884.000000"
+        },
+        "ts": "1505486866.000451"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "cool I’ll bookmark that for watching once it’s out",
+        "ts": "1505486913.000261"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It was all super positive!",
+        "ts": "1505486942.000560"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":smile:",
+        "ts": "1505486955.000309"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Any questions about the meetup, or anything else relating to bet365's purchase?",
+        "ts": "1505487001.000051"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "not from me at this point, but I might pester poor andrew once I watched the presentation :wink:",
+        "ts": "1505487029.000547"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "No doubt :slightly_smiling_face:",
+        "ts": "1505487044.000243"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Well, moving on to Item #2 - next meeting.",
+        "ts": "1505487061.000080"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "no sense in asking stuff that already was answered in the presentation",
+        "ts": "1505487073.000557"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Is next Friday at this time still good for <!channel> ?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1505487115.000000"
+        },
+        "ts": "1505487077.000057"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I’m very happy with the time but I noitced we shed quite  a few people over the last two not sure if it’s because of the time or just lack of interest different priorities",
+        "ts": "1505487147.000518"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Me, too.",
+        "ts": "1505487155.000657"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Thoughts on how to find out \/ correct that?",
+        "ts": "1505487165.000798"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Sent out a general reminder on the <#C6R0LPH4N|general> just now.",
+        "ts": "1505487215.000529"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "We could return to the old time for 1 week, see if more people show up, if not leave it at this in the future? I know the old time is horrible for you folks and for eu’s it’s not great either, but it’s wroth a try. Alternatively we could just put a message in general",
+        "ts": "1505487217.000453"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "my2c this time is the same for the company meeting of the end of the week :disappointed:",
+        "edited": {
+            "user": "U6RPFG5FH",
+            "ts": "1505487257.000000"
+        },
+        "ts": "1505487235.000169"
+    },
+    {
+        "user": "U6V7S1USV",
+        "text": "<@U6V7S1USV> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505487241.000366"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "my concern is that asking here for a good time might mean that those who can make it are here and say yap, those who can’t aren’t here to object",
+        "ts": "1505487259.000157"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6RPFG5FH> - when is better? Earlier to later?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1505487264.000000"
+        },
+        "ts": "1505487259.000713"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Maybe open it as an Issue for open comment on GitHub?",
+        "ts": "1505487293.000120"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "good idea",
+        "ts": "1505487310.000091"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "fair enough",
+        "ts": "1505487360.000013"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I didn't remember when we scheduled. Maybe a channel or here at the start of the meeting would help",
+        "ts": "1505487368.000195"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Ok good idea in general for me would be better later",
+        "ts": "1505487391.000570"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "but also before",
+        "ts": "1505487406.000074"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "GitHub Issue: <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/12>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Meeting times · Issue #12 · TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/12",
+                "text": "At the moment we are meeting every Friday at 15:30 BST. The next planned meeting is 2017-09-22 at 15:30 BST. Is this a good date\/time to meet? When is better for you?",
+                "fallback": "GitHub: Meeting times · Issue #12 · TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/12",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/30156044?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/cfr.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1505487408.000112"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "not this time :smile:",
+        "ts": "1505487409.000393"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If we moved it forward an hour, would that work for <@U6Q6G7S82>, <@U6RPFG5FH>?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1505487445.000000"
+        },
+        "ts": "1505487425.000393"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "but I don't want be a problem ...",
+        "ts": "1505487434.000150"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "I know that you <@U6Q92JWHY> are late at night",
+        "ts": "1505487453.000388"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "not a issue for me, at’d be 15:30 here which is fine :wink:",
+        "ts": "1505487460.000103"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "so if you prefer earlier",
+        "ts": "1505487462.000404"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I.e. 14:30 BST.",
+        "ts": "1505487466.000609"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "(Or 22:30 in Japan :slightly_smiling_face: )",
+        "ts": "1505487480.000130"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": ":slightly_smiling_face:",
+        "ts": "1505487485.000293"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I knew Nick would like that :wink:",
+        "ts": "1505487496.000014"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "the EU crowd are the lucky bastards who will have it somewhere in the afternoon, so given it impacts me the least I’m happy with whatever works for those who have it harder timezone wise",
+        "ts": "1505487512.000197"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Then let's aim for 14:30 next week.",
+        "ts": "1505487532.000501"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": ":+1:",
+        "ts": "1505487552.000404"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "ok",
+        "ts": "1505487565.000010"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Awesome. Updated the Issue.",
+        "ts": "1505487592.000408"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "On to Item #3 - upcoming events.",
+        "ts": "1505487603.000130"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "here we go: <#C73S4QNA0|planning-2017-09-22>",
+        "ts": "1505487615.000080"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Specifically, this was for a webinar by Russell and Martin on the NHS later this month, and a Meetup at Bet365 in October for development roadmap brainstorming.",
+        "ts": "1505487650.000482"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "\"Riak - Planned Enhancement for the NHS\"\n<https:\/\/www.erlang-solutions.com\/resources\/webinars.html>\nThursday 28 September 2017\n17:00 CEST \/ 16:00 BST \/ 11:00 EDT \/ 08:00 PDT",
+        "ts": "1505487709.000218"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "As they are happily building lots of Riak things for the NHS, this could be super interesting to watch.",
+        "ts": "1505487741.000196"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The bet365 Meetup is going to be in Stoke on October 11-12th (from memory, check with <@U72SXRXGF>) and is open to all Riak people to discuss the roadmap for development of Riak.",
+        "ts": "1505487849.000103"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "More details will be posted when available. It should also be online to allow remote participation, but Andrew said it was still a bit fluffy on the details.",
+        "ts": "1505487900.000669"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Where does that stand in relation of what we’ve been talking about when it comes to procedure \/ process?",
+        "edited": {
+            "user": "U6Q6G7S82",
+            "ts": "1505487995.000000"
+        },
+        "ts": "1505487940.000160"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Next to it. This is about how the community is setup, not what the community will be doing. The roadmap is pretty much the first step for the Project Direction Group - i.e. what should we be working on, what should we be making, what should we be deprecating, etc...",
+        "ts": "1505488010.000235"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I would imagine that all the end-users and devs would get together and hash out the first version of the roadmap with priorities.",
+        "ts": "1505488068.000079"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If you can get over to the UK for it, probably well worth your time.",
+        "ts": "1505488103.000609"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I imagine that there will be at least some discussion on this proposal, with hopefully a lot of decent feedback.",
+        "ts": "1505488142.000094"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Any other events anyone knows about in the near future?",
+        "ts": "1505488282.000475"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Moving on, then.",
+        "ts": "1505488457.000290"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Item #4 - open GitHub issues.",
+        "ts": "1505488479.000410"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "First off, any changes in opinions on the resolved issues from last week? I.e. aside from the voting rules issue.",
+        "ts": "1505488543.000594"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "not from my side",
+        "ts": "1505488563.000655"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Anyone else? So far, this is a very <@U6Q92JWHY> and <@U6Q6G7S82> weighted meeting :slightly_smiling_face:",
+        "ts": "1505488622.000563"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "heh I was thinking the same :joy:",
+        "ts": "1505488637.000666"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We might decide to work as a dictatorial pair of crazed power-mongers without feedback!",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1505488659.000000"
+        },
+        "ts": "1505488651.000686"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "all good with me",
+        "ts": "1505488652.000514"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I'm in semi-spectator mode",
+        "ts": "1505488676.000145"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<@U6Q92JWHY> I told you a dictatorship would work :stuck_out_tongue:",
+        "ts": "1505488677.000557"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1505488682.000505"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - voting.",
+        "ts": "1505488688.000141"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Read up on the points based system that was proposed, and changed my mind.",
+        "ts": "1505488701.000738"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I'm fine with it now.",
+        "ts": "1505488710.000030"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "ohh that topic is interesting and this time I did my homework too",
+        "ts": "1505488711.000659"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "However - a new contenter was thrown into ring last week after we finished.",
+        "ts": "1505488725.000500"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "the Borda one?",
+        "ts": "1505488731.000752"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Borda works for me - points based",
+        "ts": "1505488744.000244"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Borda was the points based one.",
+        "ts": "1505488753.000350"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> has proposed the Schulze method",
+        "ts": "1505488764.000406"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Schulze_method>",
+        "attachments": [
+            {
+                "title": "Schulze method",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Schulze_method",
+                "author_name": "Wikipedia",
+                "author_link": "http:\/\/en.wikipedia.org\/",
+                "text": "The Schulze method () is a electoral system developed in 1997 by Markus Schulze that selects a single winner using votes that express preferences. The method can also be used to create a sorted list of winners. The Schulze method is also known as Schwartz Sequential dropping (SSD), cloneproof Schwartz sequential dropping (CSSD), the beatpath method, beatpath winner, path voting, and path winner.\nThe Schulze method is a Condorcet method, which means the following: if there is a candidate who is preferred by a majority over every other candidate in pairwise comparisons, then this candidate will be the winner when the Schulze method is applied.\nThe output of the Schulze method (defined below) gives an ordering of candidates. Therefore, if several positions are available, the method can be used for this purpose without modification, by letting the k top-ranked candidates win the k available seats. Furthermore, for proportional representation elections, a single transferable vote variant has been proposed.\nThe Schulze method is used by several organizations including Debian, Ubuntu, Gentoo, Software in the Public Interest, Free Software Foundation Europe, Pirate Party political parties and many others.",
+                "fallback": "wikipedia: Schulze method",
+                "service_icon": "https:\/\/cfr.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1
+            }
+        ],
+        "ts": "1505488771.000740"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Used by a decent number of large OS projects.",
+        "ts": "1505488784.000373"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Definitely a bit more maths, heavy, but seems to come up with a fair result.",
+        "ts": "1505488801.000172"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yap doing research that did sound like a excellent method, I’d not opose Borda as I still think it’s a good way to represent consent rather victory but the Schulze system did look very promising and widely adopted in our field",
+        "ts": "1505488825.000153"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The wide adoption by mature OSS projects is a good sign.",
+        "ts": "1505488849.000249"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Well voters should not worry about the math really, but rather about their preference",
+        "ts": "1505488850.000591"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "both seem feasible to me",
+        "ts": "1505488873.000293"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "as silly as it sounds it deters tactical voting",
+        "ts": "1505488873.000431"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "not sure if that’s an issue we’ll face on the other hand",
+        "ts": "1505488893.000233"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I think we're more about avoiding camps",
+        "ts": "1505488911.000012"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "i.e. a system that avoids that is ideal",
+        "ts": "1505488922.000155"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "true, good point",
+        "ts": "1505488929.000383"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "the good thing about Schulze is that we could probably piggypack on sommeone elses infrastucture",
+        "ts": "1505488976.000102"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "two strongly opposing fore runners or the neutral guy",
+        "ts": "1505488983.000161"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q6G7S82> - any reason for Schulze over just ranked pairs?",
+        "ts": "1505489059.000734"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Larger adoption in our field, existing tooling, plus the name sounds cooler",
+        "ts": "1505489125.000529"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK, OK, and, erm... ok?",
+        "ts": "1505489145.000294",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U6Q6G7S82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So it looks like it's now down to Borda and Schulze.",
+        "ts": "1505489202.000178"
+    },
+    {
+        "user": "U6PHKFTA5",
+        "text": "<@U6PHKFTA5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505489213.000022"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<!channel> - would lie more comments on this!",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1505489242.000000"
+        },
+        "ts": "1505489215.000332"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "What projects are using Schulze?",
+        "ts": "1505489248.000505"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "hola",
+        "ts": "1505489253.000666"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "From Wikipedia:  Debian, Ubuntu, Gentoo, Software in the Public Interest, Free Software Foundation Europe,",
+        "ts": "1505489273.000344"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "sam1: <https:\/\/en.wikipedia.org\/wiki\/Schulze_method#Users>",
+        "ts": "1505489281.000208"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Those are enormous projects",
+        "ts": "1505489304.000311"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6PHKFTA5> - talking voting rules again. Borda vs Schulze. Thoughts?",
+        "ts": "1505489331.000509"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<@U6SUK860N> yap, but it’s likely that smaller projects never make it to the page due to being small",
+        "ts": "1505489365.000011"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I can't see an issue with smaller numbers of people. Can you?",
+        "ts": "1505489394.000006"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Hard to tell. Plenty of smaller ones, but none I recognize",
+        "edited": {
+            "user": "U6SUK860N",
+            "ts": "1505489523.000000"
+        },
+        "ts": "1505489401.000704"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "and then there is the `Kanawha Valley Scrabble Club` which probably isn’t a massive project :stuck_out_tongue:",
+        "ts": "1505489404.000399"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "No, just wondering how well it would fit with smaller numbers of votes. Wondering if smaller software projects avoid it for a reason. Hard to trust a Scrabble club's opinion :)",
+        "ts": "1505489476.000390"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Playing Devil's Advocate mostly",
+        "ts": "1505489490.000727"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "who is allowed to vote?",
+        "ts": "1505489522.000480"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think the lack of smaller organisations is mostly based on: 1) no one bothers to add them to the wiki, 2) many small orgs are dictatorships",
+        "ts": "1505489539.000428"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Yes, I can't imagine it's a high priority to get on that page with a citation",
+        "ts": "1505489581.000224"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "everyone is equal, but someone is more equal then others. ",
+        "ts": "1505489585.000110"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<@U6SUK860N> if you look at users for other methods you’d end up with “why is no one using them” or  the same only large orgs \/ countries syndrom there too",
+        "ts": "1505489599.000325"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "True",
+        "ts": "1505489607.000523"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U7389LZJ5> - check out the proposal document for who is eligible to vote and for what.",
+        "ts": "1505489624.000016"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "In general you have to be an active contributor to the project (money, resources or work).",
+        "ts": "1505489650.000350",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U7389LZJ5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Developers pick their representatives, end-users pick theirs, and those two groups then decide on the admin leaders.",
+        "ts": "1505489700.000284"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Proposal is here: <https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/blob\/master\/proposal\/Riak%20Community%20Proposal.md>",
+        "ts": "1505489748.000354"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I’d be really love to hear form <@U72SXRXGF> and what bet thinks of those plans",
+        "ts": "1505489802.000250",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But until we get feedback from them, we continue.",
+        "ts": "1505489886.000226"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Well even if not we continue :stuck_out_tongue:",
+        "ts": "1505489895.000647"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I think overall, I prefer the Schulze method as it seems to work out fairer overall compared to Borda.",
+        "ts": "1505489942.000389"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "My concern is that it is NOT as simple.",
+        "ts": "1505489966.000191"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That can probably be overcome with a decent set of examples.",
+        "ts": "1505489984.000206"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "for voting it kind of is, you rank as many people as you like",
+        "ts": "1505489994.000130"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And the end-user experience is nice and simple - rank people according to your preference.",
+        "ts": "1505490012.000326"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "exactly, and you don’t get advantages \/ disadvantages by ranking or not ranking people unlike for Borda where that does have an impact",
+        "ts": "1505490041.000082"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6QC6EQH2>? <@U6PHKFTA5>? <@U6RPFG5FH>? <@U7389LZJ5>? <@U6SUK860N>?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1505490061.000000"
+        },
+        "ts": "1505490051.000760"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "I have no experience of either. We can try and see how Schulze works",
+        "ts": "1505490111.000271"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I hadn't been following along with the voting systems before today, so I don't feel confident making any further comments now",
+        "ts": "1505490122.000040"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Good point - this is a starting point, and we can change it if it sucks.",
+        "ts": "1505490132.000347"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "We can change anything…",
+        "ts": "1505490141.000106"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "I'm game to try one and switch if needed",
+        "ts": "1505490161.000525"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "I agree with the others if we don't see any major issue pick Shulze and test it",
+        "ts": "1505490167.000042"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":+1:",
+        "ts": "1505490178.000089"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "We could decide to just scrap the code and start a banana stand",
+        "ts": "1505490190.000165"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Well, looks like the dark horse Schulze has won by a landslide.",
+        "ts": "1505490205.000781"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "+1 for Schulze ",
+        "ts": "1505490230.000491"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "lets give  a try",
+        "ts": "1505490235.000535"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "the good thing with a unanimous decision like this is that it doesn’t matter what system we pick the outcome is always the same :wink:",
+        "ts": "1505490275.000403"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Ha, waiting till voting starts on actual things",
+        "ts": "1505490291.000380"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1505490298.000414"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "hehe",
+        "ts": "1505490299.000610"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Well that was nice and simple :slightly_smiling_face:",
+        "ts": "1505490320.000006"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Next Issue is a new one.",
+        "ts": "1505490324.000146"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/11>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Contributing code - and assigning usage rights in perpetuity · Issue #11 · TI-Tokyo\/riak-community-admin",
+                "title_link": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/11",
+                "text": "In terms of contributing code to the project there comes the small question of rights - suggest we use something like this - <https:\/\/github.com\/gchq\/Gaffer\/wiki\/GCHQ-OSS-Contributor-License-Agreeme>...",
+                "fallback": "GitHub: Contributing code - and assigning usage rights in perpetuity · Issue #11 · TI-Tokyo\/riak-community-admin",
+                "from_url": "https:\/\/github.com\/TI-Tokyo\/riak-community-admin\/issues\/11",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/419046?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/cfr.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1505490329.000515"
+    },
+    {
+        "type": "message",
+        "user": "U6PHKFTA5",
+        "text": "i am wondering the opinions of bet365 guys btw.",
+        "ts": "1505490352.000024",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY",
+                    "U6Q6G7S82"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that’s a controversial topic, I know some people hate CLA’s",
+        "ts": "1505490357.000503"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Basically a need to ensure that contributed code is usable.",
+        "ts": "1505490358.000307"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<@U6PHKFTA5> me too",
+        "ts": "1505490365.000425"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Many large projects do not have that issue or require you to sign over rights on your contribution",
+        "ts": "1505490394.000203"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "It does significantly steepen the barrier of entry for new contributors too",
+        "ts": "1505490416.000072"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "<@U6Q6G7S82> Any examles on large projects which doesn't do this?",
+        "ts": "1505490449.000093"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "FreeBSD for example",
+        "ts": "1505490458.000201"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I suspect that most of them will have a legal blurb somewhere saying \"if you contribute, it's under the XYZ license\".",
+        "ts": "1505490458.000557"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "Didn't Ericsson have issues about changing license because of not having contributor approvals before?",
+        "ts": "1505490475.000085"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think neither does Linux",
+        "ts": "1505490484.000290"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Didn't any project that ever tried to change its license have that issue?",
+        "ts": "1505490525.000478"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think it depends on teh change",
+        "ts": "1505490552.000516"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "if you change to something that is compatibile, you don’t (I think) but you’d have to ask a lawyer about that :stuck_out_tongue:",
+        "ts": "1505490568.000714"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Bet365 indicated they would make the source code available under the Apache2 licnese, like the current stuff is.",
+        "ts": "1505490594.000407"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I think not having it was a mistake projects made before open source became big",
+        "ts": "1505490654.000136"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Apache2 includes the clause that contributors grant a license back automatically.",
+        "ts": "1505490685.000447"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "If you don't like it, don't contribute. Keeps the project from getting screwed later",
+        "ts": "1505490691.000242"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that’s a quite harsh stance towards peopel who want to help :stuck_out_tongue:",
+        "ts": "1505490710.000243"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Not, singling you out <@U6Q6G7S82> ",
+        "ts": "1505490713.000383"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "from apache2.",
+        "ts": "1505490715.000258"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "if we're gonig with apache2 then no need to discuss it I would say",
+        "ts": "1505490728.000675"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "But are they helping if they don't agree to the license?",
+        "ts": "1505490738.000381"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Code now, pain later",
+        "ts": "1505490745.000097"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "Sorry guys but I am going to have to drop off here - about to hit 1am",
+        "ts": "1505490780.000536"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If they contribute to the source code, then part of the Code Acceptance part should be that we can use their contribution.",
+        "ts": "1505490790.000355"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "the apache2 license isn’t a CLA, you might very well agree to apache 2 but might not agree to someone later on changing apache 2 to something 100% proparitary",
+        "ts": "1505490794.000881"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Night, Nick!",
+        "ts": "1505490797.000226"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Yes, <@U6Q92JWHY> ",
+        "ts": "1505490801.000524"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "night <@U6QC6EQH2>",
+        "ts": "1505490804.000240"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "gn",
+        "ts": "1505490807.000278"
+    },
+    {
+        "type": "message",
+        "user": "U6QC6EQH2",
+        "text": "night",
+        "ts": "1505490811.000353"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "That can be handled in the agreement",
+        "ts": "1505490818.000518"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "```Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.```",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1505490835.000000"
+        },
+        "ts": "1505490824.000460"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That sounds pretty definitive :slightly_smiling_face:",
+        "ts": "1505490846.000084"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I don't think anyone would agree to a contributor agreement that could later take it proprietary ",
+        "ts": "1505490892.000126"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "All I’m saying is a CLA *will* deter people from contributing, that’s a fact, we might be OK with that but that’s a different storry",
+        "ts": "1505490900.000406"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If we can't use their code, does it matter?",
+        "ts": "1505490919.000375"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I'd prefer a cleaner future. Exactly, Peter",
+        "ts": "1505490930.000006"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "Do we need to have a CLA given how apache2 license is written?",
+        "ts": "1505490933.000020"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It's built in to the Apache2 license, so it's not like we are adding it.",
+        "ts": "1505490945.000285"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "We can use their code <@U6Q92JWHY> it’s not that no CLA == we can’t use the code",
+        "ts": "1505490949.000236"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "But, the future of the project might not be able to use it",
+        "ts": "1505490979.000561"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<@U6Q92JWHY> quite possibly not no",
+        "ts": "1505490980.000222"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "I think the ammount of people who would contribute to a project just to late hurt it is incredibly small, and as <@U6Q92JWHY> pointed out the APL does already guarnatee that by contributing you let the project keep using your code",
+        "ts": "1505491061.000411"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So you are against a separate specific CLA?",
+        "ts": "1505491089.000340"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "But not the one built into Apache2?",
+        "ts": "1505491097.000189"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "That is however very different from signing a (perhaps) legally binding contract written in legaleese that you don’t understand and would probably need a lawyer to advicse you on.",
+        "ts": "1505491105.000122"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<@U6Q92JWHY> yes",
+        "ts": "1505491108.000262"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Then I think we are all in agreement.",
+        "ts": "1505491117.000517"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I think you have that conversation now or later. Later will be much harder",
+        "ts": "1505491151.000365"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "For everyone. With time constraints. Possible greediness",
+        "ts": "1505491171.000190"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "It's not like a) license changes won't have to be voted upon, and b) future you couldn't fork it and continue on",
+        "ts": "1505491260.000654"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Under the Apache 2 license",
+        "ts": "1505491299.000312"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<@U6SUK860N> I’ve no issues with the terms of the APL, I’m against a dedicted CLA because it does not foster a open and diverse community, it does put people who are not native speakers and people who are not versed in understanding legal texts at a big disadvantage.",
+        "ts": "1505491333.000225"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Your code would be useful to both forks",
+        "ts": "1505491337.000003"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "They already are",
+        "ts": "1505491350.000199"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "This just makes it blatant",
+        "ts": "1505491359.000451"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "so why make it worse?",
+        "ts": "1505491360.000022"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "In the future, the project could be at a disadvantage",
+        "ts": "1505491386.000187"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I think a separate one doesn't help, and does hinder.",
+        "ts": "1505491391.000326"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We gain nothing from making people agree to something already in the license.",
+        "ts": "1505491408.000326"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Hopefully it will never come to be required",
+        "ts": "1505491412.000542"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And it will turn away some people.",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1505491416.000000"
+        },
+        "ts": "1505491414.000600"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "but one is a potential future issue which may or may not ocure, the other one is a very real, existing one",
+        "ts": "1505491426.000214"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "And one that has seriously hurt projects in the past",
+        "ts": "1505491446.000117"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "so have CLAs, w\/o a CLA oracle could not have closed sourced Open Solaris again",
+        "ts": "1505491470.000022"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Maybe Apache's is enough",
+        "ts": "1505491476.000036"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I think I've gotten a bit lost here. <@U6SUK860N> - what is the specific benefit of a separate CLA that replicates what is already in Apache2?",
+        "ts": "1505491488.000380",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U7389LZJ5",
+                    "U6Q6G7S82"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Rereading and it's probably good enough ",
+        "ts": "1505491540.000570"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "In that case, cool :wink:",
+        "ts": "1505491552.000070"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":smile:",
+        "ts": "1505491556.000073"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "I'm thinking of different licenses that caused problems without handling copyright properly",
+        "ts": "1505491575.000095"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "like the GPL",
+        "ts": "1505491583.000305"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Yeah",
+        "ts": "1505491590.000282"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Then adding to the issue raised by <@U6T3BQN2V> :\n\n```Apache2 license includes a CLA that is easily understandable.\nA separate CLA would increase the paperwork and deter contributors who are already covered by the Apache2 license.```",
+        "ts": "1505491593.000408",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U7389LZJ5",
+                    "U6Q6G7S82",
+                    "U6RPFG5FH"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U6T3BQN2V",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6T3BQN2V> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505491599.000052"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If people want to add more, feel free and we can revisit next week.",
+        "ts": "1505491629.000421"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "I worked with QT that have a separate CLA and the people was not happy about it and for what I know, I think that Apache2 would cover that, take for the example the problem with react",
+        "edited": {
+            "user": "U6RPFG5FH",
+            "ts": "1505491670.000000"
+        },
+        "ts": "1505491655.000132"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "what about the mechanism",
+        "ts": "1505491664.000051"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6T3BQN2V> - mechanism?",
+        "ts": "1505491692.000065"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "<https:\/\/github.com\/gchq\/Gaffer\/wiki\/GCHQ-OSS-Contributor-License-Agreement-V1.0>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "gchq\/Gaffer",
+                "title_link": "https:\/\/github.com\/gchq\/Gaffer\/wiki\/GCHQ-OSS-Contributor-License-Agreement-V1.0",
+                "text": "Gaffer - A large-scale entity and relation database supporting aggregation of properties",
+                "fallback": "GitHub: gchq\/Gaffer",
+                "from_url": "https:\/\/github.com\/gchq\/Gaffer\/wiki\/GCHQ-OSS-Contributor-License-Agreement-V1.0",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/15800240?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/cfr.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1505491696.000211"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "GCHQ did it quite nicely",
+        "ts": "1505491702.000149"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "You read the agreement - which could just be the Apache verbatim",
+        "ts": "1505491721.000597"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Then click the link at the end of the doc",
+        "ts": "1505491727.000462"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes, but they aren't using Apache2, but a UK government license.",
+        "ts": "1505491736.000187"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Your email client is launched with the template text and it gets sent to a (mailing list) ideally",
+        "edited": {
+            "user": "U6T3BQN2V",
+            "ts": "1505491761.000000"
+        },
+        "ts": "1505491753.000209"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "<@U6T3BQN2V> what problem do you want to solve with a separate CLA which apache2 license doesn't handle?",
+        "ts": "1505491775.000019"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that doen’t solve the issue of turning opeople away",
+        "ts": "1505491776.000186"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "It would be good to have a public acknowledgment\/record that the contribution was legit.",
+        "ts": "1505491789.000004"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "That's what the commit logs are for?",
+        "ts": "1505491806.000556"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Nope",
+        "ts": "1505491811.000356"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "That’s just a comment on the change",
+        "ts": "1505491820.000432"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "If you don't want it to count, you add to the commit log the phrase from the license.",
+        "ts": "1505491831.000010"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Not who you (really) are, and that you accepted the terms of contribution",
+        "ts": "1505491836.000495"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Commit log",
+        "ts": "1505491846.000513"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "is one line comment",
+        "ts": "1505491850.000462"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "neither does a e-mail form to be honest",
+        "ts": "1505491852.000381"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Don’t want it like a 200 line email signature",
+        "ts": "1505491860.000435"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "there is literally no added benefit from that",
+        "ts": "1505491874.000553"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "An email has a load of headers",
+        "ts": "1505491881.000128"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "It can be as legally binding as a signature on a piece of dead wood",
+        "ts": "1505491896.000523"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Not everywhere no",
+        "ts": "1505491916.000127"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "And it’s a public statement",
+        "ts": "1505491922.000027"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "and as you already assume malice creating a fake e-mail is about as easy as creatig a fake github account",
+        "ts": "1505491940.000035"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "I guess what I’m saying is that it would be optimal if it were clear and transparent who all the contributors are",
+        "ts": "1505491947.000039"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Which ties in with having a google groups mailing list",
+        "ts": "1505491982.000086"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "The question is, is it necessary from a legal point of view. If not, and the license is enough then I suggest we don't go with a CLA.",
+        "ts": "1505492009.000350",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Q92JWHY",
+                    "U6RPFG5FH",
+                    "U6PHKFTA5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "good to have at the cost of loosing contributors doesn't make sense to me.",
+        "ts": "1505492030.000564"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "And I still don't see how it helps.",
+        "ts": "1505492048.000539"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It's already in the Apache2 license.",
+        "ts": "1505492071.000358"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Plus, everyone with commit rights to the GitHub would need to be manually approved anyway.",
+        "ts": "1505492119.000129"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Maybe this is something that is better answered by a IP lawyer",
+        "ts": "1505492121.000007"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "I’d put this to the room",
+        "ts": "1505492136.000522"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "If all these other companies and organisations have taken this step",
+        "ts": "1505492152.000150"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Presumably with a decent legal department",
+        "ts": "1505492160.000135"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "What other companies and organisations?",
+        "ts": "1505492163.000399"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Perhaps it’s a cargo cult",
+        "ts": "1505492166.000565"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Other than GCHQ?",
+        "ts": "1505492168.000088"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Or perhaps there’s something else to it",
+        "ts": "1505492175.000568"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Don’t apache ask to agree to CLA ?",
+        "ts": "1505492185.000245"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "There are both large organisations that use it and those that don’t",
+        "ts": "1505492191.000463"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Besides the implicit of sending a commit ?",
+        "ts": "1505492202.000169"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Yes QT use it",
+        "ts": "1505492202.000528"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Sun used it",
+        "ts": "1505492210.000214"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "they want a lot of documents",
+        "edited": {
+            "user": "U6RPFG5FH",
+            "ts": "1505492238.000000"
+        },
+        "ts": "1505492212.000467"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "And see where it got them :stuck_out_tongue:",
+        "ts": "1505492216.000206",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6RPFG5FH",
+                    "U6Q92JWHY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Solaris killed their biz",
+        "ts": "1505492238.000685"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Ha ha",
+        "ts": "1505492241.000143"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Linux doesn’t use it",
+        "ts": "1505492243.000086"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "just kidding",
+        "ts": "1505492243.000117"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "<https:\/\/news.ycombinator.com\/item?id=10896206>",
+        "ts": "1505492246.000415"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Here’s a bunch of other people debating it",
+        "ts": "1505492254.000427"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Neither does BSD",
+        "ts": "1505492257.000157"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Why not just make it part of the sign-up procedure to get commit rights to GitHub repos that you agree to the Apache2 license?",
+        "ts": "1505492277.000441"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "you aagree to the APL by contributing to an APL project",
+        "ts": "1505492295.000039"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Who keeps them ?",
+        "ts": "1505492295.000453"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "it’s implect",
+        "ts": "1505492296.000402"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Can we ask to Apache? if it is possible?",
+        "ts": "1505492302.000601"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "implicit <@U6Q6G7S82>",
+        "ts": "1505492318.000556"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": "Can we ask to Apache if it necessary a separate CLA or their licenses cover us",
+        "ts": "1505492335.000419"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "That sounds sensible",
+        "ts": "1505492344.000293"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<@U6T3BQN2V> thank you which raises the issue again, not everyone is a native speaker, people that might be good contributors and will not understand a english legaleese CLA and just keep on walking",
+        "ts": "1505492370.000029"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The Apache Software Foundation does make people sign one: <http:\/\/www.apache.org\/licenses\/#clas>",
+        "attachments": [
+            {
+                "title": "Licenses",
+                "title_link": "http:\/\/www.apache.org\/licenses\/#clas",
+                "text": "Home page of The Apache Software Foundation",
+                "fallback": "Licenses",
+                "from_url": "http:\/\/www.apache.org\/licenses\/#clas",
+                "service_icon": "http:\/\/www.apache.org\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "apache.org",
+                "id": 1
+            }
+        ],
+        "ts": "1505492426.000144"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "There is an individual and a company one.",
+        "ts": "1505492449.000431"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Mmmm big companies (i.e the kinda people who use riak) might not be massively sympathetic to … they didn’t get a clear agreement because the guy\/girl didn’t want to read a bunch of legal stuff",
+        "ts": "1505492519.000653"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "But they didn’t have the right to give away that code",
+        "ts": "1505492535.000040"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Now it has to be ripped out",
+        "ts": "1505492539.000273"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I've got to admit that if the creators of the Apache2 License feel it is needed, that suggests strongly that it is needed.",
+        "ts": "1505492540.000212"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Now product is disrupted",
+        "ts": "1505492548.000367"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "Like no one uses Linux?",
+        "ts": "1505492570.000057"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "I *hate* bureaucracy and box ticking for box ticking sake.",
+        "ts": "1505492570.000105"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "But this is one of those things that can sink you later",
+        "ts": "1505492578.000252"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "And consent to the CLA should be public and transparent",
+        "ts": "1505492604.000245"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "It also ensures that work done on behalf on a company is acceptable and not just submitted at the whim of an employee.",
+        "ts": "1505492618.000037"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "I don’t think we should have anonymous contributors",
+        "ts": "1505492619.000322"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Yes.",
+        "ts": "1505492625.000109"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "that does not require a CLA",
+        "ts": "1505492637.000378"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "And the person should publicly state - I have the right to assign this code to the project.",
+        "ts": "1505492672.000222"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "a CLA goes directly against the idea of an open and welcoming community",
+        "ts": "1505492701.000097"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Not really",
+        "ts": "1505492708.000350"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yes really",
+        "ts": "1505492713.000588"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "It’s saying, is this your meat and veg you brought to the pot luck",
+        "ts": "1505492727.000556"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<@U6T3BQN2V> okay lets make a compromise, we include a CLA in Mandarin",
+        "ts": "1505492737.000332"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Or did you take them from the corner shop",
+        "ts": "1505492738.000068"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "<@U6Q6G7S82> Ok, that brings me on to another topic",
+        "ts": "1505492777.000569"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6T3BQN2V> uploaded a file: <https:\/\/postriak.slack.com\/files\/U6T3BQN2V\/F74NWEJHL\/screen_shot_2017-09-15_at_17.26.23.png|Screen Shot 2017-09-15 at 17.26.23.png>",
+        "file": {
+            "id": "F74NWEJHL",
+            "created": 1505492802,
+            "timestamp": 1505492802,
+            "name": "Screen Shot 2017-09-15 at 17.26.23.png",
+            "title": "Screen Shot 2017-09-15 at 17.26.23.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U6T3BQN2V",
+            "editable": false,
+            "size": 193850,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F74NWEJHL\/screen_shot_2017-09-15_at_17.26.23.png?t=xoxe-227478566416-244110689665-243978171920-e8e74a9aac",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6PE2GNC8-F74NWEJHL\/download\/screen_shot_2017-09-15_at_17.26.23.png?t=xoxe-227478566416-244110689665-243978171920-e8e74a9aac",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F74NWEJHL-e3fd5ede1f\/screen_shot_2017-09-15_at_17.26.23_64.png?t=xoxe-227478566416-244110689665-243978171920-e8e74a9aac",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F74NWEJHL-e3fd5ede1f\/screen_shot_2017-09-15_at_17.26.23_80.png?t=xoxe-227478566416-244110689665-243978171920-e8e74a9aac",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F74NWEJHL-e3fd5ede1f\/screen_shot_2017-09-15_at_17.26.23_360.png?t=xoxe-227478566416-244110689665-243978171920-e8e74a9aac",
+            "thumb_360_w": 360,
+            "thumb_360_h": 322,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F74NWEJHL-e3fd5ede1f\/screen_shot_2017-09-15_at_17.26.23_480.png?t=xoxe-227478566416-244110689665-243978171920-e8e74a9aac",
+            "thumb_480_w": 480,
+            "thumb_480_h": 429,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F74NWEJHL-e3fd5ede1f\/screen_shot_2017-09-15_at_17.26.23_160.png?t=xoxe-227478566416-244110689665-243978171920-e8e74a9aac",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F74NWEJHL-e3fd5ede1f\/screen_shot_2017-09-15_at_17.26.23_720.png?t=xoxe-227478566416-244110689665-243978171920-e8e74a9aac",
+            "thumb_720_w": 720,
+            "thumb_720_h": 643,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F74NWEJHL-e3fd5ede1f\/screen_shot_2017-09-15_at_17.26.23_800.png?t=xoxe-227478566416-244110689665-243978171920-e8e74a9aac",
+            "thumb_800_w": 800,
+            "thumb_800_h": 715,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F74NWEJHL-e3fd5ede1f\/screen_shot_2017-09-15_at_17.26.23_960.png?t=xoxe-227478566416-244110689665-243978171920-e8e74a9aac",
+            "thumb_960_w": 960,
+            "thumb_960_h": 858,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T6PE2GNC8-F74NWEJHL-e3fd5ede1f\/screen_shot_2017-09-15_at_17.26.23_1024.png?t=xoxe-227478566416-244110689665-243978171920-e8e74a9aac",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 915,
+            "image_exif_rotation": 1,
+            "original_w": 1368,
+            "original_h": 1222,
+            "permalink": "https:\/\/postriak.slack.com\/files\/U6T3BQN2V\/F74NWEJHL\/screen_shot_2017-09-15_at_17.26.23.png",
+            "permalink_public": "https:\/\/slack-files.com\/T6PE2GNC8-F74NWEJHL-09219c4ec6",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U6T3BQN2V",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "binarytemple",
+        "bot_id": null,
+        "ts": "1505492806.000337"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "The kanji characters in the domain name could cause confusion",
+        "ts": "1505492838.000308"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "from CLA to CLI? :joy:",
+        "ts": "1505492839.000648"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Ha ha",
+        "ts": "1505492845.000511"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Increment that, increment it good",
+        "ts": "1505492854.000120"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "i’ve no objections to a CLI",
+        "ts": "1505492856.000080"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "there is an alternartive to a CLA that’s used by both the Linux Foundation and Docker: <http:\/\/elinux.org\/Developer_Certificate_Of_Origin>",
+        "ts": "1505492880.000313"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "The kanji characters are required as they are part of the company's legal name, which is needed for that. Also, that's not part of the domain name, but how your browser renders the EV SSL certificate information.",
+        "ts": "1505492924.000394"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "funny enough that exactly proves my point about the CLA being a disadvantage to a big group of people",
+        "ts": "1505492959.000477"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "Do we have a clear agenda for today's meeting? ",
+        "ts": "1505492972.000147"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "<@U6Q92JWHY> - got you",
+        "ts": "1505492975.000119"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Plus, eventually we hope to move back to <http:\/\/riak.com|riak.com> or <http:\/\/basho.com|basho.com> :slightly_smiling_face:",
+        "ts": "1505492976.000368"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes - at the top of the history.",
+        "ts": "1505492992.000204"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "<@U6Q6G7S82> <@U6Q92JWHY> - considering the primary interested parties in all this are - bet365 and NHS",
+        "ts": "1505493003.000170"
+    },
+    {
+        "type": "message",
+        "user": "U6SUK860N",
+        "text": "Ugh, not <http:\/\/basho.com|basho.com>, please!",
+        "ts": "1505493009.000280"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Both UK entities",
+        "ts": "1505493009.000408"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "It would be good to have a CLA which was drafted specifically to cater for UK IP law",
+        "ts": "1505493035.000081"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<@U6T3BQN2V> I disagree with that statement wholeheartedly",
+        "ts": "1505493036.000502"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U7389LZJ5> \n\n```AGENDA for today:\n\n1. Review of the Riak Meetup for those who couldn't come.\n2. Next meeting time\/date.\n3. Upcoming events.\n4. Working through outstanding GitHub issues.\n5. Any new issues with the Proposal\n6. Anything else.```",
+        "ts": "1505493041.000319",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U7389LZJ5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "And which has been generously provided by our electronic overlords",
+        "ts": "1505493052.000628"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "So far we are on Item #4.",
+        "ts": "1505493054.000028"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "I’ve said my 2c - I’m not going to hold it up any further.",
+        "ts": "1505493128.000439"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U6T3BQN2V> - we have Japanese and US companies also interested in this.",
+        "ts": "1505493140.000088"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - how about we all ponder for a week and revisit next week?",
+        "ts": "1505493200.000650"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Stick comments and thoughts in GitHub on the Issue.",
+        "ts": "1505493217.000474",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U7389LZJ5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "And European - but UK contract law is lingua franca worldwide.",
+        "ts": "1505493245.000533"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Yes lets ponder :slightly_smiling_face:",
+        "ts": "1505493252.000285"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Next",
+        "ts": "1505493258.000074"
+    },
+    {
+        "user": "U6SF36D37",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6SF36D37> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505493265.000493"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Well, that is all the open Issues dealt with for now.",
+        "ts": "1505493293.000089"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Item #5 - Any more feedback on the proposal not yet covered?",
+        "edited": {
+            "user": "U6Q92JWHY",
+            "ts": "1505493314.000000"
+        },
+        "ts": "1505493302.000177"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Nay",
+        "ts": "1505493332.000026"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nope",
+        "ts": "1505493343.000503"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "Nein ",
+        "ts": "1505493350.000264"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Cool.",
+        "ts": "1505493377.000107"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Then... Item #6 - anything else anyone wants to bring up to ponder for next week or try and resolve now?",
+        "ts": "1505493401.000059"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "nothing I can think off",
+        "ts": "1505493426.000376"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "Can we try to get some legal help regarding the need for cla? ",
+        "ts": "1505493452.000449"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "If anyone's company has a legal department willing to comment ",
+        "ts": "1505493474.000264"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Bet365 might be the best option there - they must have a decent legal team.",
+        "ts": "1505493497.000463"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "Yep ",
+        "ts": "1505493505.000339"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "ESL might as well.",
+        "ts": "1505493506.000390"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "sam they will say “yes” because they’ll purely weight the legal worst case",
+        "ts": "1505493513.000260"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": ":) ",
+        "ts": "1505493520.000334"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U72SXRXGF>? <@U6TA2DSRK>?",
+        "ts": "1505493523.000221"
+    },
+    {
+        "user": "U6TA2DSRK",
+        "inviter": "U6Q92JWHY",
+        "text": "<@U6TA2DSRK> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505493529.000661"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Anything else?",
+        "ts": "1505493579.000227"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "#6 - being open - I’d like everyone to be open about who they are.",
+        "ts": "1505493583.000027"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Yes.",
+        "ts": "1505493640.000372"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "yes? I am not sure I follow",
+        "ts": "1505493656.000454"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "We already have the idea of a members list with names, affiliations and contact details.",
+        "ts": "1505493658.000144"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Cool",
+        "ts": "1505493675.000356"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "Should I put myself on there? ",
+        "ts": "1505493685.000161"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Just as a cultural thing",
+        "ts": "1505493687.000670"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Totally dude",
+        "ts": "1505493693.000111"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "A pr? ",
+        "ts": "1505493694.000366"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "^ <@U7389LZJ5>",
+        "ts": "1505493700.000308"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I think that was actually Issue #8, not 6.",
+        "ts": "1505493701.000418"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "oh that is why it didn’t make sense :joy:",
+        "ts": "1505493728.000032"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "<@U7389LZJ5> - everyone who contributes in these things gets added to the Authors list. That gives your name, handle, company and email address.",
+        "ts": "1505493742.000253"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "Kk ",
+        "ts": "1505493757.000359"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "I need to update the document from last week. Been a busy week, so not got around to it yet!",
+        "ts": "1505493781.000352"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "OK - are we done for the week? Any more for any more?",
+        "ts": "1505493809.000597"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Then the meeting is finished :slightly_smiling_face:",
+        "ts": "1505493872.000003"
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": ":clap: ",
+        "ts": "1505493875.000280"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "As usual, I will archive this channel in 36 hours and upload the minutes.",
+        "ts": "1505493888.000280"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": ":smile: thanks everyone",
+        "ts": "1505493888.000502"
+    },
+    {
+        "type": "message",
+        "user": "U6RPFG5FH",
+        "text": ":wine_glass:",
+        "ts": "1505493903.000072"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Made some good progress today, so many thanks to one and all!",
+        "ts": "1505493913.000055"
+    },
+    {
+        "type": "message",
+        "user": "U6T3BQN2V",
+        "text": "Thank you",
+        "ts": "1505493924.000404"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Next meeting is 2017-09-22 at 14:30 BST in <#C73S4QNA0|planning-2017-09-22>",
+        "ts": "1505493943.000443",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6RPFG5FH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U7389LZJ5",
+        "text": "Thanks! ",
+        "ts": "1505493952.000730"
+    },
+    {
+        "type": "message",
+        "user": "U6Q92JWHY",
+        "text": "Any more feedback or new issues, add to GitHub.",
+        "ts": "1505493962.000587"
+    },
+    {
+        "user": "U6XF1C665",
+        "text": "<@U6XF1C665> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505494595.000265"
+    },
+    {
+        "user": "U73CXQLUR",
+        "text": "<@U73CXQLUR> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505499651.000612"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U6RPFG5FH",
+        "text": "<@U6RPFG5FH> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505294060.000067"
+    },
+    {
+        "user": "U72SXRXGF",
+        "text": "<@U72SXRXGF> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505316424.000778"
+    },
+    {
+        "user": "U6SUK860N",
+        "text": "<@U6SUK860N> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505337111.000413"
+    }
+]

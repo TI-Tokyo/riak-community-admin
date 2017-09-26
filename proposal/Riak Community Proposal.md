@@ -130,7 +130,7 @@ The Riak Project (aka the Project) refers to all Teams and Groups that make it u
 
 The Project is made up of four Groups handling different areas. These Groups are the Development Group, the Release Management Group, the Project Direction Group and the Admin Group.
 
-Each Group is made up of Teams which deal with specific areas of responsibility. For example, a Team might deal with writing source code for Riak Core, and would therefore NOT deal with writing source code for Riak KV. Teams will work together, and membership is intended to be fluid between them.
+Each Group is made up of Teams which deal with specific areas of responsibility and dependant projects do not dictate the development of their dependencies. For example, a Team might deal with writing source code for Riak Core, which may break Riak KV. The Riak KV Team would then be responsible for patching Riak KV. Teams will work together, and membership is intended to be fluid between them.
 
 * Riak Project (the 'Project')
     * Development Group (a 'Group')

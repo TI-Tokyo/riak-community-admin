@@ -1,0 +1,80 @@
+[
+    {
+        "user": "U6Q6G7S82",
+        "text": "<@U6Q6G7S82> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505487591.000035"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U6Q6G7S82",
+        "item_type": "C",
+        "ts": "1505487629.000813"
+    },
+    {
+        "user": "U6V7S1USV",
+        "text": "<@U6V7S1USV> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505487635.000778"
+    },
+    {
+        "type": "message",
+        "user": "U6Q6G7S82",
+        "text": "<https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170922T1430&amp;p0=136&amp;msg=Riak+Core+2017-09-22&amp;font=slab>",
+        "attachments": [
+            {
+                "title": "Riak Core 2017-09-22",
+                "title_link": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170922T1430&p0=136&msg=Riak+Core+2017-09-22&font=slab",
+                "text": "Countdown to Sep 22, 2017 2:30 pm. Showing days, hours, minutes and seconds ticking down to 0",
+                "fallback": "Riak Core 2017-09-22",
+                "image_url": "https:\/\/www.timeanddate.com\/scripts\/cdog.php?countdownto=Countdown%20to&image=generic&title=Riak%20Core%202017-09-22&date=Sep%2022,%202017%20at%202%3a30%20pm&font=slab",
+                "from_url": "https:\/\/www.timeanddate.com\/countdown\/generic?iso=20170922T1430&p0=136&msg=Riak+Core+2017-09-22&font=slab",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 83024,
+                "service_icon": "https:\/\/www.timeanddate.com\/favicon.ico",
+                "service_name": "timeanddate.com",
+                "id": 1
+            }
+        ],
+        "ts": "1505487655.000648"
+    },
+    {
+        "user": "U70LE3BKL",
+        "text": "<@U70LE3BKL> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505487672.000118"
+    },
+    {
+        "user": "U6Q92JWHY",
+        "text": "<@U6Q92JWHY> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505491065.000456"
+    },
+    {
+        "user": "U7389LZJ5",
+        "text": "<@U7389LZJ5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505493960.000361"
+    },
+    {
+        "user": "U6RPFG5FH",
+        "text": "<@U6RPFG5FH> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505494174.000715"
+    },
+    {
+        "user": "U6VKNSA7M",
+        "text": "<@U6VKNSA7M> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505544551.000061"
+    }
+]
